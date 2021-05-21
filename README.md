@@ -1,2 +1,1 @@
-# Aspose.Font-Products
-Aspose.Font product family landing pages
+This repository contains Aspose.Font Product Family landing pages.
