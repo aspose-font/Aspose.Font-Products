@@ -10,28 +10,19 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" productLink="https://products.aspose.com/font/net" >}}
 On Premise APIs to load, draw and save various font formats in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" productLink="https://products.aspose.com/font/java" >}}
 Java On Premise APIs to integrate and manage different font formats including TrueType, CFF, OpenType, and Type1 within Java-based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" productLink="https://products.aspose.com/font/cpp" >}}
 C++ On Premise API to manage and process multiple font formats including TrueType, CFF, OpenType, and Type1 without any software dependencies.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/font/family" innerText="View All On Premise APIs" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
