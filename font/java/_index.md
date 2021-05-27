@@ -2,6 +2,7 @@
 title: Java Font Management API - Aspose 
 weight: 40
 url: /java/ 
+description: Java Font library to load, draw and save multiple fonts within Java applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

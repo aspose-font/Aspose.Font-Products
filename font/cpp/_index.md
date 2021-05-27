@@ -2,6 +2,7 @@
 title: C++ Font Integration and Processing API - Aspose 
 weight: 20
 url: /cpp/ 
+description: C++ Font library to load, draw and save different fonts within C++ applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
