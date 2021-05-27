@@ -5,13 +5,17 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Aspose.Font" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-java.png" pfName="" subTitlepfName="" downloadUrl="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-java.png" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
 
-{{< blocks/products/pf/main-container pfName="" subTitlepfName="" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/font/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Font for Java is a flexible and easy to use library for font manipulation. API supports various font formats such as TrueType, CFF, OpenType, and Type1. Moreover, it can load fonts, provide its data structures information, along with any glyph encoding information, and save fonts. End users can get help through its rendering subsystem to render any desired glyph or text. Developers can render special glyphs by implementing interface using simple graphics like move point, draw line, and curve.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -374,12 +378,6 @@ font.save(Utils.getDataDir() + "Montserrat-Regular_out.ttf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -404,10 +402,10 @@ font.save(Utils.getDataDir() + "Montserrat-Regular_out.ttf");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/java" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Font offers individual Font processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font offers individual Font processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName="Aspose.Font for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/font/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" sdkName="Aspose.Font for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

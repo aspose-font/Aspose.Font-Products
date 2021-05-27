@@ -5,13 +5,17 @@ url: /cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Aspose.Font" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-cpp.png" pfName="" subTitlepfName="" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-cpp.png" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="" subTitlepfName="" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/font/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Font for C++ is flexible and easy to use library to work with different font formats. API supports multiple font formats like TrueType, OpenType, CFF, and Type1. Furthermore, It can read different fonts from files as well as from stream, provide its data structures information along with any glyph, encoding information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -329,12 +333,6 @@ ttfFont-&gt;Save(outputFile);</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -359,9 +357,9 @@ ttfFont-&gt;Save(outputFile);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.font offers individual Font management APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.font offers individual Font management APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName="Aspose.Font for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
