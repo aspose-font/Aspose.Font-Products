@@ -10,7 +10,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/font/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/pricing/font/cpp" docsLink="https://docs.aspose.com/font/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
