@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/pricing/font/net" docsLink="https://docs.aspose.com/font/net/release-notes/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/pricing/font/net" docsLink="https://docs.aspose.com/font/net/release-notes/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -75,7 +75,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png"/>
+  <img alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -117,7 +117,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Font Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png"/>
+  <img alt="Font Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -170,7 +170,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Font API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png"/>
+  <img alt=".NET Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -400,8 +400,8 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font offers individual Font management APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/font/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/font/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

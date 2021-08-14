@@ -10,7 +10,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/pricing/font/java" docsLink="https://docs.aspose.com/font/java/release-notes/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/pricing/font/java" docsLink="https://docs.aspose.com/font/java/release-notes/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -75,7 +75,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Font Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"/>
+  <img alt="Java Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -116,7 +116,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"/>
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -169,7 +169,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png"/>
+  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -405,8 +405,8 @@ font.save(Utils.getDataDir() + "Montserrat-Regular_out.ttf");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font offers individual Font processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/font/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

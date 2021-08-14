@@ -10,7 +10,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/pricing/font/cpp" docsLink="https://docs.aspose.com/font/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/pricing/font/cpp" docsLink="https://docs.aspose.com/font/cpp/release-notes/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -75,7 +75,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"/>
+  <img alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -121,7 +121,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"/>
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -174,7 +174,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png"/>
+  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -360,7 +360,7 @@ ttfFont-&gt;Save(outputFile);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.font offers individual Font management APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/font/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/font/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

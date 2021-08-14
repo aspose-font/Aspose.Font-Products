@@ -6,20 +6,20 @@ description: Load, draw and save different font formats on any platform without 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Integrate Different Fonts on Any Platform" h2="Aspose.Font" logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/font/header/aspose_font.png" pfName="" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Integrate Different Fonts on Any Platform" h2="Aspose.Font" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font.svg" pfName="" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title=".NET" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-net.png" productLink="/font/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" productLink="/font/net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-java.png" productLink="/font/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg" productLink="/font/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE..
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Font for" title="Add Font integration and manipulation capabilities to C++ applications." imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/272x272/aspose_font-for-cpp.png" productLink="/font/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Font for" title="Add Font integration and manipulation capabilities to C++ applications." imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productLink="/font/cpp/" >}}
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
