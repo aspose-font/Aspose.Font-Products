@@ -139,7 +139,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for C++ supports the following [file format](https://docs.aspose.com/font/cpp/supported-file-formats/)  s." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for C++ supports the following [file formats](https://docs.aspose.com/font/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
