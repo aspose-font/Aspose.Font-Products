@@ -135,7 +135,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for .NET supports the following [file format](https://docs.aspose.com/font/net/supported-file-formats/)  s." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for .NET supports the following [file formats](https://docs.aspose.com/font/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
