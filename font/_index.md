@@ -6,7 +6,7 @@ description: On Premise APIs and Free Apps to load, draw and save multiple font 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Font Integration Solution" h2="On Premise APIs and free apps for multiple font formats loading and drawing, with no dependency on any other software." logoImageSrc="https://www.aspose.com/templates/brand/images/font/aspose_font-brand.png" imageAlt="Aspose.Font Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Font Integration Solution" h2="On Premise APIs and free apps for multiple font formats loading and drawing, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-brand.svg" imageAlt="Aspose.Font Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font On Premise APIs Include" >}}
