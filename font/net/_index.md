@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Draw and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-net.png" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Draw and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 

@@ -6,7 +6,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-cpp.png" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 

@@ -6,7 +6,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/font/header/aspose_font-for-java.png" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
