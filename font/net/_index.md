@@ -13,10 +13,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/release-notes/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Font for .NET is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1. Moreover, It can load fonts, provide its data structures information along with any glyph, encoding information for all the font types and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
-</p>
-
+<p> Aspose.Font for .NET is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1. Moreover, It can load fonts, provide its data structures information along with any glyph, encoding information for all the font types and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
