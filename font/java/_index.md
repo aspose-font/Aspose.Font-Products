@@ -10,7 +10,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/release-notes/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
