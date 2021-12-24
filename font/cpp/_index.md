@@ -6,7 +6,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
@@ -14,7 +14,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Font for C++ is flexible and easy to use library to work with different font formats. API supports multiple font formats like TrueType, OpenType, CFF, and Type1. Furthermore, It can read different fonts from files as well as from stream, provide its data structures information along with any glyph, encoding information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
+ Aspose.Font for C++ is flexible and easy to use library to work with different font formats. API supports multiple font formats like TrueType, OpenType, CFF, and Type1. Furthermore, It can read different fonts from files as well as from stream, provide its data structures information along with any glyph, encoding information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,7 +22,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Font for C++ API." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Font for C++ API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -139,7 +139,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for C++ supports the following [file formats](https://docs.aspose.com/font/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Font for C++ supports the following [file formats](https://docs.aspose.com/font/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -202,7 +202,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced C++ Font Management API Features
+    Advanced C++ Font Management API Features
    </h2>
    <p>
    </p>
@@ -292,10 +292,10 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Load, Extract and Save TrueType Font
+     Load, Extract and Save TrueType Font
     </h2>
     <p>
-     Aspose.Font for C++ can easily load, extract, and save TrueType font formats. Here are just few lines of code for TrueType TTF.
+     Aspose.Font for C++ can easily load, extract, and save TrueType font formats. Here are just few lines of code for TrueType TTF.
     </p>
     <div class="codeblock" id="code">
      <h3>

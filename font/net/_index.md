@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Draw and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Draw and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
@@ -94,7 +94,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
+   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -195,7 +195,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced .NET Font Management API Features
+    Advanced .NET Font Management API Features
    </h2>
    <p>
    </p>
@@ -285,7 +285,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Load, Extract and Save TrueType Font
+     Load, Extract and Save TrueType Font
     </h2>
     <p>
      Aspose.Font for .NET can easily load, extract and save different font formats. Here is just few lines of code for TrueType TTF.
@@ -320,7 +320,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 

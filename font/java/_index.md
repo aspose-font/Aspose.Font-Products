@@ -6,7 +6,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
@@ -97,7 +97,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
+   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -197,7 +197,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced Java Font Management API Features
+    Advanced Java Font Management API Features
    </h2>
    <p>
    </p>
@@ -261,7 +261,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support different font formats
+     Support different font formats
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -287,14 +287,14 @@ description: Java Font library to load, draw and save multiple fonts within Java
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Load, Extract and Save TrueType Font
+     Load, Extract and Save TrueType Font
     </h2>
     <p>
-     Aspose.Font for Java can easily load, extract and save different font formats. Here is just few lines of code for TrueType TTF.
+     Aspose.Font for Java can easily load, extract and save different font formats. Here is just few lines of code for TrueType TTF.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Load, Extract and Save TTF - Java
+      Load, Extract and Save TTF - Java
      </h3>
      <pre><code class="cs">byte[] fontMemoryData = Utils.getInputFileBytes("Montserrat-Regular.ttf");
 
@@ -328,7 +328,7 @@ font.save(Utils.getDataDir() + "Montserrat-Regular_out.ttf");</code></pre>
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 
