@@ -28,15 +28,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for EOT to TTF Conversion" gistPath="" %}}
-```cs
-// Open EOT font
-FontDefinition fontDefinition = new FontDefinition(FontType.EOT, new FontFileDefinition(new FileSystemStreamSource("input.eot")));
-Aspose.Font.Font font = Aspose.Font.Font.Open(fontDefinition);
-// TTF output settings
-FileStream outStream = File.Create("output.ttf");
-//Convert EOT to TTF
-font.SaveToFormat(outStream, FontSavingFormats.TTF);
-```
+
+{{< gist "aspose-com-gists" "3d4ec418932bd997550748a6b53e3cc5" "convert-eot-to-ttf.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

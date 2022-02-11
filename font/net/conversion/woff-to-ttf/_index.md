@@ -28,15 +28,10 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for WOFF to TTF Conversion" gistPath="" %}}
-```cs
-// Open WOFF font
-FontDefinition fontDefinition = new FontDefinition(FontType.WOFF, new FontFileDefinition(new FileSystemStreamSource("input.woff")));
-Aspose.Font.Font font = Aspose.Font.Font.Open(fontDefinition);
-// TTF output settings
-FileStream outStream = File.Create("output.ttf");
-//Convert WOFF to TTF
-font.SaveToFormat(outStream, FontSavingFormats.TTF);
-```
+
+
+{{< gist "aspose-com-gists" "3d4ec418932bd997550748a6b53e3cc5" "convert-woff-to-ttf.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}

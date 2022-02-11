@@ -28,15 +28,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for WOFF2 to WOFF Conversion" gistPath="" %}}
-```cs
-// Open WOFF2 font
-FontDefinition fontDefinition = new FontDefinition(FontType.WOFF2, new FontFileDefinition(new FileSystemStreamSource("input.woff2")));
-Aspose.Font.Font font = Aspose.Font.Font.Open(fontDefinition);
-// WOFF output settings
-FileStream outStream = File.Create("output.woff");
-//Convert WOFF2 to WOFF
-font.SaveToFormat(outStream, FontSavingFormats.WOFF);
-```
+
+{{< gist "aspose-com-gists" "3d4ec418932bd997550748a6b53e3cc5" "convert-woff2-to-woff.cs" >}}
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}
