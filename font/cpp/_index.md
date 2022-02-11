@@ -75,7 +75,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -121,7 +121,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt="Font Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -174,7 +174,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt=".NET Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -269,27 +269,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
      Support various font formats
     </p>
    </div>
-   <!--<div class="col-lg-12">
 
-<h2 class="h2title">Latest PUB API Features</h2>
-
-<p>Aspose.PUB for .NET API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
-
-<ul>
-
-<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
-
-<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
-
-<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
-
-<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
-
-<li>Rendering of Stroke effect with Color Fill for export</li>
-
-</ul>
-
-</div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
      Load, Extract and Save TrueType Font
@@ -302,31 +282,16 @@ description: C++ Font library to load, draw and save different fonts within C++ 
       Load, Extract and Save TTF - C++
      </h3>
      <pre><code class="cs">//byte array to load Font from
-
 System::ArrayPtr fontMemoryData = System::IO::File::ReadAllBytes(dataDir + u"Montserrat-Regular.ttf");
-
 System::SharedPtr fd = System::MakeObject(Aspose::Font::FontType::TTF, System::MakeObject(u"ttf", System::MakeObject(fontMemoryData)));
-
 System::SharedPtr ttfFont = System::DynamicCast_noexcept(Aspose::Font::Font::Open(fd));
 
-    
-
 //Save CffFont to disk
-
 //Output Font file name with full path
-
 System::String outputFile = RunExamples::GetDataDir_Data() + u"Montserrat-Regular_out.ttf";
-
 ttfFont-&gt;Save(outputFile);</code></pre>
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Various Imaging Filters</h2>
-
-<p>Aspose.PUB for .NET provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
-
-</div>-->
   </div>
  </div>
 </div>
