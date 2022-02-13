@@ -276,13 +276,9 @@ description: Java Font library to load, draw and save multiple fonts within Java
      <h3>
       Load, Extract and Save TTF - Java
      </h3>
-     <pre><code class="cs">byte[] fontMemoryData = Utils.getInputFileBytes("Montserrat-Regular.ttf");
- //Font file name with full path
-FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new ByteContentStreamSource(fontMemoryData)));
-TtfFont font = (TtfFont) Font.open(fd);
-//Work with data from just loaded TtfFont object
-//Save TtfFont to disk
-font.save(Utils.getDataDir() + "Montserrat-Regular_out.ttf");</code></pre>
+     
+{{< gist "aspose-com-gists" "ebb02adc8b248350bec052a453dc3b42" "load-extract-and-save-ttf-font.java" >}}
+
     </div>
    </div>
   </div>

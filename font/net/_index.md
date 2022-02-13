@@ -273,13 +273,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
      <h3>
       Load, Extract and Save TTF - C#
      </h3>
-     <pre><code class="cs">//byte array to load Font from
-byte[] fontMemoryData = File.ReadAllBytes("directoryPath" + "Montserrat-Regular.ttf");
-FontDefinition fd = new FontDefinition(FontType.TTF, new FontFileDefinition("ttf", new ByteContentStreamSource(fontMemoryData)));
-TtfFont ttfFont = Aspose.Font.Font.Open(fd) as TtfFont;
-//Work with data from just loaded TtfFont object
-//Save CffFont to disk
-ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
+{{< gist "aspose-com-gists" "c09ffcbe35675e0997c78cc44b67302c" "load-extract-and-save-ttf.cs" >}}
     </div>
    </div>
   </div>
