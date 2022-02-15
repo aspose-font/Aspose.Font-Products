@@ -5,7 +5,7 @@ description: Convert different fonts such as CFF EOT WOFF TTF Type 1 with few li
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fonts Conversion Via C#" h2="Convert different fonts like WOFF2 TTF EOT CFF and more to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Fonts Conversion via C#" h2="Convert different fonts like WOFF2, TTF, EOT, CFF and more to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
