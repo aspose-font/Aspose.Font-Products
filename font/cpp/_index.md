@@ -281,15 +281,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
      <h3>
       Load, Extract and Save TTF - C++
      </h3>
-     <pre><code class="cs">//byte array to load Font from
-System::ArrayPtr fontMemoryData = System::IO::File::ReadAllBytes(dataDir + u"Montserrat-Regular.ttf");
-System::SharedPtr fd = System::MakeObject(Aspose::Font::FontType::TTF, System::MakeObject(u"ttf", System::MakeObject(fontMemoryData)));
-System::SharedPtr ttfFont = System::DynamicCast_noexcept(Aspose::Font::Font::Open(fd));
-
-//Save CffFont to disk
-//Output Font file name with full path
-System::String outputFile = RunExamples::GetDataDir_Data() + u"Montserrat-Regular_out.ttf";
-ttfFont-&gt;Save(outputFile);</code></pre>
+     {{< gist "aspose-com-gists" "ae7ae847df58a074c50767104d333b89" "load-extract-and-save-ttf.cpp" >}}
     </div>
    </div>
   </div>
