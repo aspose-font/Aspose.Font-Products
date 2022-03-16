@@ -1,12 +1,13 @@
 ---
-title: Java Font Management API - Aspose 
+title: Font Encoding and Management API for Java - Aspose 
 weight: 40
 url: /java/ 
-description: Java Font library to load, draw and save multiple fonts within Java applications
+description: Java Font library. This solution allows you to load, render and save fonts of popular formats within Java applications.
+metakeywords: font java, java coding fonts, java fonts library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Draw and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Edit, Convert and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
@@ -14,7 +15,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Font for Java is a flexible and easy to use library for font manipulation. API supports various font formats such as TrueType, CFF, OpenType, and Type1. Moreover, it can load fonts, provide its data structures information, along with any glyph encoding information, and save fonts. End users can get help through its rendering subsystem to render any desired glyph or text. Developers can render special glyphs by implementing interface using simple graphics like move point, draw line, and curve.
+ Aspose.Font for Java is a flexible and easy-to-use library for font manipulation. You can load, save, draw, convert and render font files with the mean of this solution. The API supports various font formats such as TrueType, WOFF, CFF, EOT, OpenType, and Type1. End users can get help through its rendering subsystem to render any desired glyph or text. Developers can render special glyphs by implementing interfaces using simple graphics like move point, draw line, and curve.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -49,7 +50,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
      Load font files from disk
     </li>
     <li>
-     Load font from stream
+     Load font from a stream
     </li>
     <li>
      Read font information
@@ -69,6 +70,9 @@ description: Java Font library to load, draw and save multiple fonts within Java
     <li>
      Save updated font files
     </li>
+    <li>
+     Convert fonts to a more suitable format
+    </li>    
    </ul>
   </div>
   <!--/right-->
@@ -145,10 +149,22 @@ description: Java Font library to load, draw and save multiple fonts within Java
    </header>
    <ul>
     <li>
-     <strong>
+      <strong>
       True Type Font :
-     </strong>
-     TTF
+      </strong>
+      TTF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format :
+      </strong>
+      WOFF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format version 2.0 :
+      </strong>
+      WOFF2
     </li>
    </ul>
   </div>
@@ -161,7 +177,28 @@ description: Java Font library to load, draw and save multiple fonts within Java
    </header>
    <ul>
     <li>
-     TTC, OpenType, CFF, Type1
+      <strong>
+      Embedded OpenType	:
+      </strong>
+      EOT 
+    </li>
+    <li>
+      <strong>
+      Compact Font Format	:
+      </strong>
+      CFF
+    </li>
+    <li>
+      <strong>
+      Adobe Type 1 font:
+      </strong>
+      PFA, PFB, AFM, PFM
+    </li>
+    <li>
+      <strong>
+      True Type Collections :
+      </strong>
+      TTC 
     </li>
    </ul>
   </div>
@@ -169,7 +206,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
+  <img width="70" height="75" alt="Java Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -212,7 +249,7 @@ description: Java Font library to load, draw and save multiple fonts within Java
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load font files stream
+     Load font files a stream
     </p>
    </div>
    <div class="col-lg-4">
