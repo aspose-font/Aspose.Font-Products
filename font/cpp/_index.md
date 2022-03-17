@@ -2,11 +2,12 @@
 title: C++ Font Integration and Processing API - Aspose 
 weight: 50
 url: /cpp/ 
-description: C++ Font library to load, draw and save different fonts within C++ applications
+description: C++ Font library. Learn this solution for loading, drawing, converting, and saving different fonts within C++ applications.
+metakeywords: c++ font, font solutions c++, font solutions cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save multiple Fonts such as TrueType, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save different Fonts such as TrueType, WOFF, EOT, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
@@ -14,7 +15,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Font for C++ is flexible and easy to use library to work with different font formats. API supports multiple font formats like TrueType, OpenType, CFF, and Type1. Furthermore, It can read different fonts from files as well as from stream, provide its data structures information along with any glyph, encoding information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
+ Aspose.Font for C++ is a flexible and easy-to-use library to work with different font formats such as TTF, EOT, WOFF, CFF, and Type1. Using this API you will be able to read different fonts from files as well as from streams, provide their data structures information along with any glyph, encode information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -49,7 +50,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
      Load font files from disc
     </li>
     <li>
-     Load font from stream
+     Load font from a stream
     </li>
     <li>
      Read font information
@@ -69,20 +70,23 @@ description: C++ Font library to load, draw and save different fonts within C++ 
     <li>
      Save updated font files
     </li>
+    <li>
+     Convert fonts to a more suitable format
+    </li>    
    </ul>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Font Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
   <footer>
    <small>
     <em>
-     for
+    for
     </em>
     C++
    </small>
@@ -93,7 +97,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/font/net/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/font/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -150,10 +154,22 @@ description: C++ Font library to load, draw and save different fonts within C++ 
    </header>
    <ul>
     <li>
-     <strong>
+      <strong>
       True Type Font :
-     </strong>
-     TTF
+      </strong>
+      TTF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format :
+      </strong>
+      WOFF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format version 2.0 :
+      </strong>
+      WOFF2
     </li>
    </ul>
   </div>
@@ -166,7 +182,28 @@ description: C++ Font library to load, draw and save different fonts within C++ 
    </header>
    <ul>
     <li>
-     TTC, OpenType, CFF, Type1
+      <strong>
+      Embedded OpenType	:
+      </strong>
+      EOT 
+    </li>
+    <li>
+      <strong>
+      Compact Font Format	:
+      </strong>
+      CFF
+    </li>
+    <li>
+      <strong>
+      Adobe Type 1 font:
+      </strong>
+      PFA, PFB, AFM, PFM
+    </li>
+    <li>
+      <strong>
+      True Type Collections :
+      </strong>
+      TTC 
     </li>
    </ul>
   </div>
@@ -174,7 +211,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Font API" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -306,7 +343,7 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -318,6 +355,8 @@ description: C++ Font library to load, draw and save different fonts within C++ 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.font offers individual Font management APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/font/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" sdkName=".NET" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/font/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

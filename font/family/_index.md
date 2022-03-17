@@ -1,12 +1,13 @@
 ---
-title: Font Management APIs - Aspose 
+title: APIs to encode and process font files - Aspose 
 weight: 10
 url: /family
-description: Load, draw and save different font formats on any platform without any other software dependencies
+description: Load, edit, convert and save different font formats on any platform without any other software dependencies with solutions for .NET, C++ and Java
+metakeywords: font apis, font editing, font conversion api
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Integrate Different Fonts on Any Platform" h2="Native APIs to load, draw and save multiple fonts without any software dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Integrate Different Fonts on Any Platform" h2="Native APIs to load, edit and save multiple fonts without any software dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code APIs Include" >}}
@@ -16,7 +17,7 @@ Target Windows Forms, ASP.NET or any type of application based on .NET Framework
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Font for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" productLink="/font/java/" >}}
-Native Java APIs for the desktop, web or any kind of application based on Java SE or EE..
+Native Java APIs for desktop, web, or any kind of application based on Java SE or EE..
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Font for" title="C++" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" productLink="/font/cpp/" >}}

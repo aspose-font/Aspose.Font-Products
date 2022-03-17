@@ -1,19 +1,20 @@
 ---
-title: C# .NET Font Management and Integration API - Aspose 
+title: Font encoding and management C# .NET API - Aspose 
 weight: 20
 url: /net/ 
-description: C# ASP.NET VB.NET Font library to load, draw and save different fonts without any other software dependencies
+description: C# ASP.NET VB.NET Font library to load, render, convert and save most popular fonts without any other software dependencies.
+metakeywords: font .net, net font library, net font solution
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Draw and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Manipulate Fonts" h2="Load, Convert and Save different Fonts including TrueType, CFF, OpenType, and Type1 within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p> Aspose.Font for .NET is flexible and easy to use library to work with different font files. API supports multiple font formats like TrueType CFF, OpenType, and Type1. Moreover, It can load fonts, provide its data structures information along with any glyph, encoding information for all the font types and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.</p>
+<p> Aspose.Font for .NET is a flexible and easy-to-use library to work with different font files. This API supports multiple font formats like TrueType, CFF, OpenType, EOT, WOFF, WOFF2, and Type1. It allows you to load fonts and provides their data structures information along with any glyph, encoding information for all the font types. End-users can get help through its rendering subsystem to render any desired glyph or text.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -46,7 +47,7 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
      Load font files from disc
     </li>
     <li>
-     Load font from stream
+     Load font from a stream
     </li>
     <li>
      Read font information
@@ -66,6 +67,9 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
     <li>
      Save updated font files
     </li>
+    <li>
+     Convert fonts to a more suitable format
+    </li>    
    </ul>
   </div>
   <!--/right-->
@@ -143,10 +147,22 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
    </header>
    <ul>
     <li>
-     <strong>
+      <strong>
       True Type Font :
-     </strong>
-     TTF
+      </strong>
+      TTF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format :
+      </strong>
+      WOFF
+    </li>
+    <li>
+      <strong>
+      Web Open Font Format version 2.0 :
+      </strong>
+      WOFF2
     </li>
    </ul>
   </div>
@@ -159,7 +175,28 @@ description: C# ASP.NET VB.NET Font library to load, draw and save different fon
    </header>
    <ul>
     <li>
-     TTC, OpenType, CFF, Type1
+      <strong>
+      Embedded OpenType	:
+      </strong>
+      EOT 
+    </li>
+    <li>
+      <strong>
+      Compact Font Format	:
+      </strong>
+      CFF
+    </li>
+    <li>
+      <strong>
+      Adobe Type 1 font:
+      </strong>
+      PFA, PFB, AFM, PFM
+    </li>
+    <li>
+      <strong>
+      True Type Collections :
+      </strong>
+      TTC 
     </li>
    </ul>
   </div>
