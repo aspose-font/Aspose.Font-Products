@@ -7,13 +7,18 @@ metakeywords: c++ font, font solutions c++, font solutions cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save different Fonts such as TrueType, WOFF, EOT, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save different Fonts such as TrueType, WOFF, EOT, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" tryOnlineUrl="https://products.aspose.app/font/family" 
+ >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+Font is the set of graphical representations of symbols. The way a font looks depends on the font’s parameters such as type family, typeface, font proportions, etc.
+Working with fonts is an important part of interface development, design, or typography. How will your interface look depends on the font you chose, but also there is a lot of factors you need to take to stop on the right font. Not only users do pay attention to the readability of the texts but also search engines take them into account when forming search results
+</p>
 <p>
  Aspose.Font for C++ is a flexible and easy-to-use library to work with different font formats such as TTF, EOT, WOFF, CFF, and Type1. Using this API you will be able to read different fonts from files as well as from streams, provide their data structures information along with any glyph, encode information for all the font types, and save fonts. End-users can get help through its rendering subsystem to render any desired glyph or text.
 </p>
