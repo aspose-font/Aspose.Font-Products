@@ -7,13 +7,17 @@ metakeywords: font java, java coding fonts, java fonts library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Edit, Convert and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to Manipulate Fonts" h2="Load, Edit, Convert and Save Fonts including TrueType, CFF, OpenType, and Type1 within Java-based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" tryOnlineUrl="https://products.aspose.app/font/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+Font is the set of graphical representations of symbols. The way a font looks depends on the font’s parameters such as type family, typeface, font proportions, etc.
+Working with fonts is an important part of interface development, design, or typography. How will your interface look depends on the font you chose, but also there is a lot of factors you need to take to stop on the right font. Not only users do pay attention to the readability of the texts but also search engines take them into account when forming search results
+</p>
 <p>
  Aspose.Font for Java is a flexible and easy-to-use library for font manipulation. You can load, save, draw, convert and render font files with the mean of this solution. The API supports various font formats such as TrueType, WOFF, CFF, EOT, OpenType, and Type1. End users can get help through its rendering subsystem to render any desired glyph or text. Developers can render special glyphs by implementing interfaces using simple graphics like move point, draw line, and curve.
 </p>
