@@ -1,8 +1,8 @@
 ---
-title: Font Coding and Management Solutions - Aspose 
+title: Font Coding and Management Solutions
 weight: 30
 url: /
-description: Encode and process TTF, WOFF, CFF, Type1, and other fonts with the High Code APIs or a set of cross-platform applications.
+description: Encode and process TTF, WOFF, CFF, Type1, EOT, and other fonts with the High Code Native APIs or a set of cross-platform applications.
 metakeywords: font solution, code fonts, encode fonts, apis to work with fonts
 ---
 

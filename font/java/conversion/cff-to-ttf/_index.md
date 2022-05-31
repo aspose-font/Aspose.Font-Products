@@ -1,6 +1,7 @@
 ---
 title: Convert CFF to TTF with Java 
-description: Convert Fonts using Java API on Windows
+description: Convert CFF to TTF using Java API on Windows. Integrate this native CFF to TTF font conversion functionality into your own solution.
+keywords: cff to ttf java api, cff2ttf java solution, cff to ttf java
 url: /java/conversion/cff-to-ttf/
 family: font
 platformtag: java

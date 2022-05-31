@@ -2,7 +2,7 @@
 title: Font encoding and management C# .NET API - Aspose 
 weight: 20
 url: /net/ 
-description: C# ASP.NET VB.NET Font library to load, render, convert and save most popular fonts without any other software dependencies.
+description: C# ASP.NET VB.NET Font library to load, render, convert and save the most popular fonts without other software dependencies.
 metakeywords: font .net, net font library, net font solution
 ---
 

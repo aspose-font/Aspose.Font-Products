@@ -1,8 +1,8 @@
 ---
-title: C++ Font Integration and Processing API - Aspose 
+title: C++ Font Integration and Processing API
 weight: 50
 url: /cpp/ 
-description: C++ Font library. Learn this solution for loading, drawing, converting, and saving different fonts within C++ applications.
+description: C++ Font processing library. Explore this API solution for loading, drawing, converting, and saving different fonts within C++ applications.
 metakeywords: c++ font, font solutions c++, font solutions cpp
 ---
 

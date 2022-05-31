@@ -1,6 +1,7 @@
 ---
 title: Convert WOFF to WOFF2 with Java 
-description: WOFF to WOFF2 Fonts conversion using Java Font API
+description: Convert WOFF to WOFF2 using Java API on Windows. Integrate this native WOFF to WOFF2 font conversion functionality into your own solution.
+keywords: woff to woff2 java api, woff2woff2 java solution, woff to woff2 java
 url: /java/conversion/woff-to-woff2/
 family: font
 platformtag: java

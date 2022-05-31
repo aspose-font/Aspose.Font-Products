@@ -1,7 +1,8 @@
 ---
 title: Java Fonts Conversion
 url: /java/conversion/
-description: Convert different fonts such as CFF EOT WOFF TTF Type 1 with few lines of Java code via Java library.
+description: Java Font Files Conversion functionality. Convert different fonts such as CFF, EOT, WOFF, TTF, and Type 1 with a few lines of Java code.
+keywords: convert fonts java, font conversion Java, font coverter java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

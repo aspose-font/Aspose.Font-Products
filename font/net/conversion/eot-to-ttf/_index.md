@@ -1,6 +1,7 @@
 ---
 title: Convert EOT to TTF with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert EOT to TTF using .NET API on Windows. Integrate this native EOT to TTF font conversion functionality into your own solution.
+keywords: eot to ttf api, eot2ttf solution, eot to ttf net
 url: /net/conversion/eot-to-ttf/
 family: font
 platformtag: net

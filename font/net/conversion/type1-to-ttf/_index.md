@@ -1,6 +1,7 @@
 ---
 title: Convert TYPE1 to TTF with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert TYPE1 to TTF using .NET API on Windows. Integrate this native TYPE1 to TTF font conversion functionality into your own solution.
+keywords: type1 to ttf api, tpe12ttf solution, type1 to ttf net
 url: /net/conversion/type1-to-ttf/
 family: font
 platformtag: net

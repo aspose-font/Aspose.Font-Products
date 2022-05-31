@@ -1,6 +1,7 @@
 ---
 title: Convert TYPE1 to WOFF with Java 
-description: TYPE1 to WOFF Fonts conversion using Java Font API
+description: Convert TYPE1 to WOFF using Java API on Windows. Integrate this native TYPE1 to WOFF font conversion functionality into your own solution.
+keywords: type1 to woff java api, type12woff java solution, type1 to woff java
 url: /java/conversion/type1-to-woff/
 family: font
 platformtag: java

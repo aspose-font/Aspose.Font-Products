@@ -1,5 +1,5 @@
 ---
-title: APIs to encode and process font files - Aspose 
+title: APIs to encode and process font files
 weight: 10
 url: /family
 description: Load, edit, convert and save different font formats on any platform without any other software dependencies with solutions for .NET, C++ and Java
