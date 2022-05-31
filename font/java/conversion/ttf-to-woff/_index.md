@@ -1,6 +1,7 @@
 ---
 title: Convert TTF to WOFF with Java 
-description: TTF to WOFF Fonts conversion using Java Font API
+description: Convert TTF to WOFF using Java API on Windows. Integrate this native TTF to WOFF font conversion functionality into your own solution.
+keywords: ttf to woff java api, ttf2woff java solution, ttf to woff java
 url: /java/conversion/ttf-to-woff/
 family: font
 platformtag: java

@@ -1,6 +1,7 @@
 ---
 title: Convert EOT to WOFF2 with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert EOT to WOFF2 using .NET API on Windows. Integrate this native EOT to WOFF2 font conversion functionality into your own solution.
+keywords: eot to woff2 api, eot2woff2 solution, eot to woff2 net
 url: /net/conversion/eot-to-woff2/
 family: font
 platformtag: net

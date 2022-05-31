@@ -1,6 +1,7 @@
 ---
 title: Convert WOFF to TTF with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert WOFF to TTF using .NET API on Windows. Integrate this native WOFF to TTF font conversion functionality into your own solution.
+keywords: woff to ttf api, woff2ttf solution, woff to ttf net
 url: /net/conversion/woff-to-ttf/
 family: font
 platformtag: net

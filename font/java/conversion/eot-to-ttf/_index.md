@@ -1,6 +1,7 @@
 ---
 title: Convert EOT to TTF with Java 
-description: EOT to TTF Fonts conversion using Java Font API
+description: Convert EOT to TTF using Java API on Windows. Integrate this native EOT to TTF font conversion functionality into your own solution.
+keywords: eot to ttf java api, eot2ttf java solution, eot to ttf java
 url: /java/conversion/eot-to-ttf/
 family: font
 platformtag: java

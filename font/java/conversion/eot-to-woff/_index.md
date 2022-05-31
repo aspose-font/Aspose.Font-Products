@@ -1,6 +1,7 @@
 ---
 title: Convert EOT to WOFF with Java 
-description: Convert EOT to WOFF Fonts using Java Font API
+description: Convert EOT to WOFF using Java API on Windows. Integrate this native EOT to WOFF font conversion functionality into your own solution.
+keywords: eot to woff java api, eot2woff java solution, eot to woff java
 url: /java/conversion/eot-to-woff/
 family: font
 platformtag: java

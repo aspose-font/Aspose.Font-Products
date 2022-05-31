@@ -1,6 +1,7 @@
 ---
 title: Convert CFF to WOFF with Java 
-description: CFF to WOFF fonts conversion within java based solutions.
+description: Convert CFF to WOFF using Java API on Windows. Integrate this native CFF to WOFF font conversion functionality into your own solution.
+keywords: cff to woff java api, cff2woff java solution, cff to woff java
 url: /java/conversion/cff-to-woff/
 family: font
 platformtag: java

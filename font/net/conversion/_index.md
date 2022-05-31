@@ -1,7 +1,8 @@
 ---
 title: C# Fonts Conversion
 url: /net/conversion/
-description: Convert different fonts such as CFF EOT WOFF TTF Type 1 with few lines of C# code via .NET library.
+description: Font conversion functionality. Convert different fonts such as CFF, EOT, WOFF, TTF, and Type 1 with a few lines of C# code via the .NET library.
+keywords: cont converter .net, font converter net, c# font coversion
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

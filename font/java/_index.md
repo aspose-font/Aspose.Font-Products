@@ -2,7 +2,7 @@
 title: Font Encoding and Management API for Java - Aspose 
 weight: 40
 url: /java/ 
-description: Java Font library. This solution allows you to load, render and save fonts of popular formats within Java applications.
+description: Java Font API solution. This library allows you to load, render and save fonts of popular formats like TTF, WOFF, EOT, and others within Java applications.
 metakeywords: font java, java coding fonts, java fonts library
 ---
 

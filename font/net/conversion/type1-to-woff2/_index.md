@@ -1,6 +1,7 @@
 ---
 title: Convert TYPE1 to WOFF2 with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert TYPE1 to WOFF2 using .NET API on Windows. Integrate this native TYPE1 to WOFF2 font conversion functionality into your own solution.
+keywords: type1 to woff2 api, tpe12woff2 solution, type1 to woff2 net
 url: /net/conversion/type1-to-woff2/
 family: font
 platformtag: net

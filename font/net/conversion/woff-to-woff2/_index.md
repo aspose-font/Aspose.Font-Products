@@ -1,6 +1,7 @@
 ---
 title: Convert WOFF to WOFF2 with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert WOFF to WOFF2 using .NET API on Windows. Integrate this native WOFF to WOFF2 font conversion functionality into your own solution.
+keywords: woff to woff2 api, woff12woff2 solution, woff to woff2 net
 url: /net/conversion/woff-to-woff2/
 family: font
 platformtag: net

@@ -1,6 +1,7 @@
 ---
 title: Convert CFF to TTF with .NET 
-description: Convert Fonts using .NET API on Windows
+description: Convert CFF to TTF using .NET API on Windows. Integrate this native CFF to TTF font conversion functionality into your own solution.
+keywords: cff to ttf api, cff2ttf solution, cff to ttf net
 url: /net/conversion/cff-to-ttf/
 family: font
 platformtag: net
