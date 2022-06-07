@@ -319,13 +319,76 @@ Working with fonts is an important part of interface development, design, or typ
     <p>
      Aspose.Font for C++ can easily load, extract, and save TrueType font formats. Here are just few lines of code for TrueType TTF.
     </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Load, Extract and Save TTF - C++
-     </h3>
-     {{< gist "aspose-com-gists" "ae7ae847df58a074c50767104d333b89" "load-extract-and-save-ttf.cpp" >}}
-    </div>
+   <div class="codeblock" id="code">
+    <h3>
+     Load, Extract and Save TrueType Font - C++
+    </h3>
+	<pre><code class="c hljs">
+    using namespace System;
+    using namespace Aspose::Font::Sources;
+    using namespace Aspose::Font::Ttf;
+    using namespace Aspose::Font;
+
+    // Open ttf font
+    SharedPtr&lt;FontFileDefinition&gt; fontFileDefinition = MakeObject&lt;FileSystemStreamSource&gt;(u"Montserrat-Regular.ttf");
+    SharedPtr&lt;FontDefinition&gt; fontDefinition = MakeObject&lt;FontDefinition&gt;(FontType::TTF, fontFileDefinition);
+    SharedPtr&lt;Font&gt; font = Font::Open(fontDefinition);
+    
+    // Woff output settings
+    SharedPtr<IO::FileStream> outStream = IO::File::Create(u"Montserrat-Regular-new.woff");
+    
+    // Convert ttf to woff
+    font-&gt;SaveToFormat(outStream, FontSavingFormats::WOFF);
+	</code></pre>
+    <p>
+    </p>
    </div>
+<div class="col-lg-12">
+    <h4>
+      You can also <a href="/font/cpp/conversion/"/> try run online</a> code converting TTF, WOFF, WOFF2, EOT, CFF, or Type1 into TTF, WOFF, WOFF2.<br/>
+      Or use links below:
+    </h4>
+	<div class="col-md-4">
+		<ul>
+			<li><a href="/font/cpp/conversion/ttf-to-woff/"> TTF to WOFF</a></li>
+			<li><a href="/font/cpp/conversion/ttf-to-woff2/"> TTF to WOFF2</a></li>
+		</ul>
+	</div>
+	<div class="col-md-4">		
+		<ul>
+			<li><a href="/font/cpp/conversion/woff-to-ttf/"> WOFF to TTF</a></li>
+			<li><a href="/font/cpp/conversion/woff-to-woff2/"> WOFF to WOFF2</a></li>
+	</ul>
+	</div>
+	<div class="col-md-4">		
+		<ul>
+			<li><a href="/font/cpp/conversion/woff2-to-ttf/"> WOFF2 to TTF</a></li>
+			<li><a href="/font/cpp/conversion/woff2-to-woff/"> WOFF2 to WOFF</a></li>
+		</ul>
+	</div>
+	<div class="col-md-4">
+		<ul>
+			<li><a href="/font/cpp/conversion/eot-to-ttf/"> EOT to TTF</a></li>
+			<li><a href="/font/cpp/conversion/eot-to-woff/"> EOT to WOFF</a></li>
+			<li><a href="/font/cpp/conversion/eot-to-woff2/"> EOT to WOFF2</a></li>
+		</ul>
+	</div>	
+	<div class="col-md-4">
+		<ul>
+			<li><a href="/font/cpp/conversion/cff-to-ttf/"> CFF to TTF</a></li>
+			<li><a href="/font/cpp/conversion/cff-to-woff/"> CFF to WOFF</a></li>
+			<li><a href="/font/cpp/conversion/cff-to-woff2/"> CFF to WOFF2</a></li>
+		</ul>
+	</div>	
+	<div class="col-md-4">
+		<ul>
+			<li><a href="/font/cpp/conversion/eot-to-ttf/"> Type1 to TTF</a></li>
+			<li><a href="/font/cpp/conversion/eot-to-woff/"> Type1 to WOFF</a></li>
+			<li><a href="/font/cpp/conversion/eot-to-woff2/"> Type1 to WOFF2</a></li>
+		</ul>
+	</div>	
+</div>
+
   </div>
  </div>
 </div>
