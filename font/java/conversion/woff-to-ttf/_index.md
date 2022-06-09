@@ -28,12 +28,20 @@ To proceed for WOFF to TTF conversion, Java Font API is the main requirement.
 - Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/font/java).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code for WOFF to TTF Conversion" gistPath="" %}}
+{{< app/font/converter "Java Code for WOFF to TTF Conversion" WOFF TTF WOFF2>}}
+    // Open {{input lower}} font
+    String fontPath = Paths.get(getDataDir(), "{{inputFile}}").toString();
+    FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition({{input lower}}, new FileSystemStreamSource(fontPath)));
+    Font font = Font.open(fontDefinition);
 
+    // {{output camel}} output settings
+    String outPath = Paths.get(getOutputDir(), "{{outputFile}}").toString();
+    FileOutputStream outStream = new FileOutputStream(outPath);
 
-{{< gist "aspose-com-gists" "031668fe9fb9c19501775ed8d56ca5a0" "convert-woff-to-ttf.java" >}}
+    // Convert {{input lower}} to {{output lower}}
+    font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
+{{< /app/font/converter >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
