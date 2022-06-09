@@ -1,6 +1,7 @@
 ---
-title: Convert TYPE1 to TTF with C++ 
-description: Convert Fonts using C++ API on Windows
+title: Convert TYPE1 to TTF | C++ 
+description: Convert TYPE1 to TTF Fonts using this C++ API. The Conversion functionality works on Windows and Linux, and in any development environment that supports C++.
+metakeywords: c++ TYPE1 to TTF, TYPE1 to TTF solutions c++, TYPE1 to TTF font conerter cpp
 url: /cpp/conversion/type1-to-ttf/
 family: font
 platformtag: cpp
@@ -11,7 +12,7 @@ otherformats: WOFF WOFF2
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TYPE1 to TTF via C++" h2="Convert TYPE1 to TTF, WOFF & WOFF2 easily on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TYPE1 to TTF via C++" h2="Convert TYPE1 to TTF, WOFF & WOFF2 easily on Windows. When developing applications Aspose.Font for C++ to can be used in any development environment that supports C++">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

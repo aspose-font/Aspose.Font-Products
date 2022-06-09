@@ -1,6 +1,7 @@
 ---
-title: Convert TTF to WOFF2 with C++ 
-description: Convert Fonts using C++ API on Windows
+title: Convert TTF to WOFF2 | C++ 
+description: Convert TTF to WOFF2 Fonts using this C++ API. The Conversion functionality works on Windows and Linux, and in any development environment that supports C++.
+metakeywords: c++ TTF to WOFF2, TTF to WOFF2 solutions c++, TTF to WOFF2 font conerter cpp
 url: /cpp/conversion/ttf-to-woff2/
 family: font
 platformtag: cpp
@@ -11,7 +12,7 @@ otherformats: WOFF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TTF to WOFF2 via C++" h2="Convert TTF to WOFF2, WOFF &  vice versa on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TTF to WOFF2 via C++" h2="Convert TTF to WOFF2, WOFF &  vice versa on Windows. When developing applications Aspose.Font for C++ to can be used in any development environment that supports C++.">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

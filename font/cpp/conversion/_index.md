@@ -1,7 +1,8 @@
 ---
-title: C# Fonts Conversion
+title: Fonts Conversion | C++
 url: /cpp/conversion/
-description: Convert different fonts such as CFF EOT WOFF TTF Type 1 with few lines of C++ code.
+description: Convert fonts with the C++ Font processing library and web applications. Conversion functionality that can work with TTF, WOFF, CFF, EOT and Type 1 fonts.
+metakeywords: c++ font conversion, font conversion solutions c++, font conerter cpp
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -13,12 +14,14 @@ C++ font API can easily load, save and convert different fonts such as CFF, Open
 
 Due to diverse nature of gadgets, environments, a few operational systems, and many other areas to use different font formats to serve different purposes such as using different fonts on web pages, applications and publishing. Sometimes there is need to transform one font into another to meet the required display. Few of the supported fonts are TrueType TTF, Web Open Font Format WOFF and WOFF2, Embedded OpenType format EOT, Type 1 and Compact Font Format CFF.
 
+Here you can find the example of [applications](https://products.aspose.app/font/conversion) to convert fonts that is developed using this solution.
+
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="TrueType Font to Web Open Font Format version 2.0 Conversion" %}}
 
 API supports different fonts for reading and writing, here is [list](https://docs.aspose.com/font/cpp/convert/#formats-supported-for-reading-andor-writing) for reading and writing. For considering TTF to WOFF2 conversion, process is load font from any of the supported formats, TrueType Font for the current scenario. Use [SaveToFormat()](https://reference.aspose.com/font/cpp/class/aspose.font.font#a670ea97404fd72c2e51b0e8c543c8a45) method having two parameters output stream and [FontSavingFormats](https://reference.aspose.com/font/cpp/namespace/aspose.font#a93d0dcc7c00f5c7027d60e14a5433c74) enumeration for selecting the output font format. Finally call the SaveToFormat() to save fonts into any of the output formats supported, currently Web Open Font Format version 2.0 WOFF2 format.
- 
+
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/main-wrap-class >}}

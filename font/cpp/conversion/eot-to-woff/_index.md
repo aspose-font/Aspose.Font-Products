@@ -1,17 +1,18 @@
 ---
-title: Convert EOT to WOFF with C++ 
-description: Convert Fonts using C++ API on Windows
+title: Convert EOT to WOFF | C++ 
+description: Convert EOT to WOFF Fonts using this C++ API. The Conversion functionality works on Windows and Linux, and in any development environment that supports C++.
+metakeywords: c++ EOT to WOFF, EOT to WOFF solutions c++, EOT to WOFF font conerter cpp
 url: /cpp/conversion/eot-to-woff/
 family: font
 platformtag: cpp
 feature: conversion
 informat: EOT
 outformat: WOFF
-otherformats: TTF WOFF2
+otherformats: TTF WOFF2 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert EOT to WOFF via C++" h2="Convert EOT to WOFF, TTF & WOFF2 easily on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert EOT to WOFF via C++" h2="Convert EOT to WOFF, TTF & WOFF2 easily on Windows. When developing applications Aspose.Font for C++ to can be used in any development environment that supports C++.">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
