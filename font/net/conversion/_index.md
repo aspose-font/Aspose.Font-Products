@@ -21,12 +21,24 @@ Due to diverse nature of gadgets, environments, a few operational systems, and m
 
 API supports different fonts for reading and writing, here is [list](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) for reading and writing. For considering TTF to WOFF2 conversion, process is load font from any of the supported formats, TrueType Font for the current scenario. Use [SaveToFormat()](https://apireference.aspose.com/font/net/aspose.font/font/methods/savetoformat) method having two parameters output stream and [FontSavingFormats](https://apireference.aspose.com/font/net/aspose.font/fontsavingformats) enumeration for selecting the output font format. Finally call the SaveToFormat() to save fonts into any of the output formats supported, currently Web Open Font Format version 2.0 WOFF2 format.
  
-{{% blocks/products/pf/feature-page-code h3="C# Code for TTF to WOFF2 Conversion" %}}
-
-{{< gist "aspose-com-gists" "3d4ec418932bd997550748a6b53e3cc5" "convert-ttf-to-woff2.cs" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/agp/feature-section >}}
+{{< app/font/converter "C# code example TTF to WOFF2 conversion" TTF WOFF2 WOFF>}}
+    // Open ttf font
+    string fontPath = Path.Combine(DataDir, "{{inputFile}}");
+    FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition(new FileSystemStreamSource(fontPath)));
+    Font font = Font.Open(fontDefinition);
+    
+    // Woff2 output settings
+    string outPath = Path.Combine(OutputDir, "{{outputFile}}");
+    FileStream outStream = File.Create(outPath);
+    
+    // Convert ttf to woff2
+    font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
+{{< /app/font/converter >}}
+{{< /blocks/products/pf/agp/feature-section>}}
+{{< /blocks/products/pf/main-wrap-class>}}
 
 {{< blocks/products/pf/feature-page-options pairs="cff-to-ttf cff-to-woff cff-to-woff2 eot-to-ttf eot-to-woff eot-to-woff2 ttf-to-woff type1-to-ttf type1-to-woff type1-to-woff2 woff2-to-ttf woff2-to-woff woff-to-ttf woff-to-woff2" >}}

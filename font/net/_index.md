@@ -318,6 +318,52 @@ Aspose.Font for .NET is a flexible and easy-to-use library to work with differen
      </h3>
 {{< gist "aspose-com-gists" "c09ffcbe35675e0997c78cc44b67302c" "load-extract-and-save-ttf.cs" >}}
     </div>
+    <div class="col-lg-12">
+        <h4>
+          You can also <a href="/font/net/conversion/"/> try run online</a> code converting TTF, WOFF, WOFF2, EOT, CFF, or Type1 into TTF, WOFF, WOFF2.<br/>
+          Or use links below:
+        </h4>
+      <div class="col-md-4">
+        <ul>
+          <li><a href="/font/net/conversion/ttf-to-woff/"> TTF to WOFF</a></li>
+          <li><a href="/font/net/conversion/ttf-to-woff2/"> TTF to WOFF2</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">		
+        <ul>
+          <li><a href="/font/net/conversion/woff-to-ttf/"> WOFF to TTF</a></li>
+          <li><a href="/font/net/conversion/woff-to-woff2/"> WOFF to WOFF2</a></li>
+      </ul>
+      </div>
+      <div class="col-md-4">		
+        <ul>
+          <li><a href="/font/net/conversion/woff2-to-ttf/"> WOFF2 to TTF</a></li>
+          <li><a href="/font/net/conversion/woff2-to-woff/"> WOFF2 to WOFF</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul>
+          <li><a href="/font/net/conversion/eot-to-ttf/"> EOT to TTF</a></li>
+          <li><a href="/font/net/conversion/eot-to-woff/"> EOT to WOFF</a></li>
+          <li><a href="/font/net/conversion/eot-to-woff2/"> EOT to WOFF2</a></li>
+        </ul>
+      </div>	
+      <div class="col-md-4">
+        <ul>
+          <li><a href="/font/net/conversion/cff-to-ttf/"> CFF to TTF</a></li>
+          <li><a href="/font/net/conversion/cff-to-woff/"> CFF to WOFF</a></li>
+          <li><a href="/font/net/conversion/cff-to-woff2/"> CFF to WOFF2</a></li>
+        </ul>
+      </div>	
+      <div class="col-md-4">
+        <ul>
+          <li><a href="/font/net/conversion/eot-to-ttf/"> Type1 to TTF</a></li>
+          <li><a href="/font/net/conversion/eot-to-woff/"> Type1 to WOFF</a></li>
+          <li><a href="/font/net/conversion/eot-to-woff2/"> Type1 to WOFF2</a></li>
+        </ul>
+      </div>	
+    </div>
+
    </div>
   </div>
  </div>

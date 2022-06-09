@@ -28,11 +28,20 @@ Install from command line as ```nuget install Aspose.Font``` or via Package Mana
 Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/font/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title=".NET C# Code for CFF to WOFF2 Conversion" gistPath="" %}}
+{{< app/font/converter ".NET C# Code for CFF to WOFF2 Conversion" CFF WOFF2 TTF WOFF>}}
+    // Open {{input lower}} font
+    string fontPath = Path.Combine(DataDir, "{{inputFile}}");
+    FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition(new FileSystemStreamSource(fontPath)));
+    Font font = Font.Open(fontDefinition);
+    
+    // {{output camel}} output settings
+    string outPath = Path.Combine(OutputDir, "{{outputFile}}");
+    FileStream outStream = File.Create(outPath);
+    
+    // Convert {{input lower}} to {{output lower}}
+    font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
+{{< /app/font/converter >}}
 
-{{< gist "aspose-com-gists" "3d4ec418932bd997550748a6b53e3cc5" "convert-cff-to-woff2.cs" >}}
-
-{{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/about-file-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
