@@ -1,5 +1,5 @@
 ---
-title: Convert WOFF to TTF with .NET 
+title: Convert WOFF to TTF | .NET 
 description: Convert WOFF to TTF using .NET API on Windows. Integrate this native WOFF to TTF font conversion functionality into your own solution.
 keywords: woff to ttf api, woff2ttf solution, woff to ttf net
 url: /net/conversion/woff-to-ttf/
@@ -12,7 +12,7 @@ otherformats: WOFF2
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert WOFF to TTF via C#" h2="Convert WOFF to TTF, WOFF2 &  vice versa on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert WOFF to TTF via C#" h2="Convert WOFF to TTF, WOFF2 &  vice versa on Windows and Linux. Create your own font converter by means of this Font API solution for .NET.">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -49,9 +49,9 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/java" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -61,7 +61,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
