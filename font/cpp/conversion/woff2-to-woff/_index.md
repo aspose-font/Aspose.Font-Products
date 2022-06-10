@@ -1,6 +1,7 @@
 ---
-title: Convert WOFF2 to WOFF with C++ 
-description: Convert Fonts using C++ API on Windows
+title: Convert WOFF2 to WOFF | C++  
+description: Convert WOFF2 to TTF Fonts using this C++ API. The Conversion functionality works on Windows and Linux, and in any development environment that supports C++.
+metakeywords: c++ WOFF2 to WOFF, WOFF2 to WOFF solutions c++, WOFF2 to WOFF font conerter cpp
 url: /cpp/conversion/woff2-to-woff/
 family: font
 platformtag: cpp
@@ -11,7 +12,7 @@ otherformats: TTF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert WOFF2 to WOFF via C++" h2="Convert WOFF2 to WOFF, TTF &  vice versa on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert WOFF2 to WOFF via C++" h2="Convert WOFF2 to WOFF, TTF &  vice versa on Windows. When developing applications Aspose.Font for C++ to can be used in any development environment that supports C++">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -49,4 +50,26 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< blocks/products/pf/agp/about-file-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}

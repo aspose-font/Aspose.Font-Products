@@ -1,5 +1,5 @@
 ---
-title: Convert CFF to WOFF2 with .NET 
+title: Convert CFF to WOFF2 | .NET 
 description: Convert CFF to WOFF2 using .NET API on Windows. Integrate this native CFF to WOFF2 font conversion functionality into your own solution.
 keywords: cff to woff2 api, cff2woff2 solution, cff to woff2 net
 url: /net/conversion/cff-to-woff2/
@@ -12,7 +12,7 @@ otherformats: TTF WOFF
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert CFF to WOFF2 via C#" h2="Convert CFF to WOFF2, TTF & WOFF effortlessly on Windows">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert CFF to WOFF2 via C#" h2="Convert CFF to WOFF2, TTF & WOFF effortlessly on Windows and Linux. Create your own font converter by means of this Font API solution for .NET.">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
@@ -46,4 +46,26 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< blocks/products/pf/agp/about-file-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
 {{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Font for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
