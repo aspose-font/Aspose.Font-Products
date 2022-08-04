@@ -1,24 +1,41 @@
 ---
+translation: true
+template: /_templates/conversion-java.md
 title: Font Conversion API | Java 
 url: /java/conversion/
 description: Java Font Files Conversion functionality. Convert different fonts such as CFF, EOT, WOFF, TTF, and Type 1 with a few lines of Java code.
 keywords: convert fonts java, font conversion Java, font coverter java
+family: font
+platformtag: java
+feature: conversion
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fonts Conversion via Java" h2="Convert different fonts like WOFF2, TTF, EOT, CFF and more to build cross-platform Java applications. Font API Solution for Java that is really easy to integrate into your product." >}}
+{{<section banner>}}
+---
+h1: Convert Fonts
+h2: Font format converter API for Java. Convert WOFF2, TTF, EOT, and CFF fonts.
+---
 
-{{% blocks/products/pf/feature-page-summary %}}
+{{<section overview>}}
+---
+p1: Java font API can easily load, save and convert different fonts such as CFF, OpenType, Type1, and TrueType collections. It provides font data structure along with any glyph as well as encoding information for all the font types representing a mapping between character codes and glyph identifiers. API can render any desired glyph or text, as well as special glyphs, which can be rendered by implementing interfaces using simple graphics functionality like move point, draw line, and curve, etc.
+p2: "Due to the diverse nature of gadgets, environments, a few operational systems, and many other areas to use different font formats to serve different purposes such as using different fonts on web pages, applications, and publishing. Sometimes there is a need to transform one font into another to meet the required display. "
+p3: "We offer you Java Api Solution that supports the next fonts as output formats: TrueType (TTF), Web Open Font Format (WOFF and WOFF2), Embedded OpenType format (EOT), Type 1, and Compact Font Format (CFF)."
+---
 
-Java font API deals all font related properties such as style, variant, weight, size/line height, family and types. Moreover it can easily read, save and convert various fonts such as OpenType, Type1 CFF, and TrueType collections. Its rendering subsystem helps end-users for rendering any desired glyph or text. Depending on application nature either it's a web page, applications or there is need of publishing, Developers have to transform one font into another to meet the required display and view. Few of the supported fonts are  Embedded OpenType format EOT, Type 1 and Compact Font Format CFF, TrueType TTF, Web Open Font Format WOFF and WOFF2.
+{{<section feature1>}}
+---
+title: TrueType Font to Web Open Font Format version 2.0 Conversion.
+item1: API supports different fonts for reading and writing, here is the [list](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing) for reading and writing. For considering TTF to WOFF2 conversion, the process is to load a font from any of the supported formats, TrueType Font for the current scenario. Use the [*SaveToFormat()*](https://apireference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) Method of [Font class](https://apireference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) having two parameters output stream and [*FontSavingFormats*](https://apireference.aspose.com/font/java/com.aspose.font/FontSavingFormats) Enumeration for selecting the output font format. 
+item2: Finally, call the SaveToFormat() to save fonts into any of the output formats supported, currently Web Open Font Format version 2.0 WOFF2 format.
+item3: To see this functionality realized in an actual cross-platform application go to [Aspose Font Converter app](https://products.aspose.app/font/conversion). There you can also find many more [API solutions](https://products.aspose.app/font/applications) to work with fonts and text.
+item4: Go to the [Documentation](https://docs.aspose.com/font/net/) to get all the needed information to start working with the solution, like the Tutorials for the main features or the set of articles to teach you about font, Release Notes, Developer Guide, and other useful things.
+---
 
-{{% /blocks/products/pf/feature-page-summary  %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Compact Font Format CFF to TrueType Font TTF Conversion" %}}
-
-API supports various fonts for reading and writing, here is [list](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing) for reading and writing. For considering CFF to TTF conversion, process is load font from any of the supported formats, Compact Font Format CFF for the current scenario. Use [saveToFormat()](https://apireference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) method of [Font class](https://apireference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) having two parameters output stream and [FontSavingFormats](https://apireference.aspose.com/font/java/com.aspose.font/FontSavingFormats) enumeration for selecting the output font format. Finally call the saveToFormat() to save fonts into any of the output formats supported, currently TrueType Font TTF format.
- 
-{{% /blocks/products/pf/feature-page-section %}}
+{{<section codeexample>}}
+---
+title: Java Code for CFF to TTF Conversion
+---
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/agp/feature-section >}}
