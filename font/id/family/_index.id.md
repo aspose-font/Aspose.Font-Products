@@ -31,7 +31,7 @@ Tambahkan integrasi Font dan kemampuan manipulasi ke aplikasi C++.
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

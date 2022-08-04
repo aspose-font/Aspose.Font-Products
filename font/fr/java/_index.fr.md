@@ -381,7 +381,7 @@ Travailler avec des polices est une partie importante du développement, de la c
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="Références API" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

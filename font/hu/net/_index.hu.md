@@ -377,7 +377,7 @@ Az Aspose.Font for .NET egy rugalmas és könnyen használható könyvtár a kü
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

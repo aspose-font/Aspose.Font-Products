@@ -2,7 +2,7 @@
 title: API кодирования и управления шрифтами для Java — Aspose 
 weight: 40
 url: /ru/java/ 
-description: Решение API шрифтов Java. Эта библиотека позволяет загружать, отображать и сохранять шрифты популярных форматов, таких как TTF, WOFF, EOT и другие, в приложениях Java.
+description: Решение Font API Java. Эта библиотека позволяет загружать, отображать и сохранять шрифты популярных форматов, таких как TTF, WOFF, EOT и другие, в приложениях Java.
 metakeywords: шрифт java, шрифты для кодирования java, библиотека шрифтов java
 ---
 
@@ -210,7 +210,7 @@ metakeywords: шрифт java, шрифты для кодирования java, 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API шрифтов Java" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
+  <img width="70" height="75" alt="Font API Java" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-java.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -381,7 +381,7 @@ metakeywords: шрифт java, шрифты для кодирования java, 
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

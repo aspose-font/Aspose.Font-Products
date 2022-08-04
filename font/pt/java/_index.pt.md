@@ -381,7 +381,7 @@ Trabalhar com fontes é uma parte importante do desenvolvimento de interface, de
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="Referências de API" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

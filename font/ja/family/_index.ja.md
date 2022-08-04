@@ -31,7 +31,7 @@ Windowsフォーム、ASP.NET、または.NETFramework3.5以降に基づく任�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -55,7 +55,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

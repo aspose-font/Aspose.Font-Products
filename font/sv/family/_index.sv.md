@@ -31,7 +31,7 @@ Lägg till funktioner för typsnittsintegration och manipulering till C++-applik
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

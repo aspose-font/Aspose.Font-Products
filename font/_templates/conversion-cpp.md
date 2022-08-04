@@ -36,7 +36,7 @@ feature: conversion
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{< app/font/converter "i18n.codeexample.title" TTF WOFF2 WOFF>}}
+{{< app/font/converter "{{i18n.codeexample.title}}" TTF WOFF2 WOFF>}}
     using namespace System;
     using namespace Aspose::Font::Sources;
     using namespace Aspose::Font::Ttf;

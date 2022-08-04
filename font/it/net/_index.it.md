@@ -377,7 +377,7 @@ Aspose.Font per .NET è una libreria flessibile e facile da usare per lavorare c
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

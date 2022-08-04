@@ -381,7 +381,7 @@ A betűtípusokkal való munka az interfészfejlesztés, -tervezés vagy tipogr�
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

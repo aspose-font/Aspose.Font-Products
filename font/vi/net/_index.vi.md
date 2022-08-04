@@ -377,7 +377,7 @@ Aspose.Font for .NET là một thư viện linh hoạt và dễ sử dụng đ�
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

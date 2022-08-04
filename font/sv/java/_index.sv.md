@@ -381,7 +381,7 @@ Att arbeta med typsnitt är en viktig del av gränssnittsutveckling, design elle
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

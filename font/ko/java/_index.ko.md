@@ -381,7 +381,7 @@ metakeywords: 글꼴 자바, 자바 코딩 글꼴, 자바 글꼴 라이브러리
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

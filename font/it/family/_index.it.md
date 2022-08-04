@@ -31,7 +31,7 @@ Aggiungi funzionalità di integrazione e manipolazione dei caratteri alle applic
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

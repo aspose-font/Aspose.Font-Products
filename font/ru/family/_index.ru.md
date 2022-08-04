@@ -3,7 +3,7 @@ title: API для кодирования и обработки файлов шр
 weight: 10
 url: /ru/family
 description: Загружайте, редактируйте, конвертируйте и сохраняйте различные форматы шрифтов на любой платформе без каких-либо дополнительных программных зависимостей с помощью решений для .NET, C++ и Java.
-metakeywords: API шрифтов, редактирование шрифтов, API преобразования шрифтов
+metakeywords: Font API, редактирование шрифтов, API преобразования шрифтов
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -31,7 +31,7 @@ metakeywords: API шрифтов, редактирование шрифтов, A
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

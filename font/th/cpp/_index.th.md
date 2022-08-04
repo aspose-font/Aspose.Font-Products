@@ -401,7 +401,7 @@ metakeywords: แบบอักษร c++, โซลูชันแบบอั
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

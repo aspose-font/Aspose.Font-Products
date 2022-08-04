@@ -31,7 +31,7 @@ metakeywords: apis γραμματοσειράς, επεξεργασία γραμ
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Αναφορές API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

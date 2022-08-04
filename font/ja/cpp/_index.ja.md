@@ -401,7 +401,7 @@ metakeywords: c ++フォント、フォントソリューションc ++、フォ�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

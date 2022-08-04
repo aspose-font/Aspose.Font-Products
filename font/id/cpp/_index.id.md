@@ -401,7 +401,7 @@ Bekerja dengan font adalah bagian penting dari pengembangan antarmuka, desain, a
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

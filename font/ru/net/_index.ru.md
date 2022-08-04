@@ -210,7 +210,7 @@ Aspose.Font for .NET — это гибкая и простая в использ
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API шрифтов .NET" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg"/>
+  <img width="70" height="75" alt="Font API .NET" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -377,7 +377,7 @@ Aspose.Font for .NET — это гибкая и простая в использ
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -401,7 +401,7 @@ metakeywords: c++ 字体，字体解决方案 c++，字体解决方案 cpp
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="API 参考" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -17,9 +17,9 @@ otherformats: WOFF2
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="How to Convert TTF to WOFF" %}}
-1. Open TTF font using [open](https://apireference.aspose.com/font/java/com.aspose.font/Font#open-com.aspose.font.FontDefinition-) method
+1. Open TTF font using [open](https://reference.aspose.com/font/java/com.aspose.font/Font#open-com.aspose.font.FontDefinition-) method
 2. Specify the WOFF output settings 
-3. Convert TTF to WOFF using [saveToFormat](https://apireference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) method and pass WOFF as [FontSavingFormats](https://apireference.aspose.com/font/java/com.aspose.font/FontSavingFormats) as parameters
+3. Convert TTF to WOFF using [saveToFormat](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) method and pass WOFF as [FontSavingFormats](https://reference.aspose.com/font/java/com.aspose.font/FontSavingFormats) as parameters
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Conversion Requirement" %}}
@@ -51,7 +51,7 @@ To proceed for TTF to WOFF conversion, Java Font API is the main requirement.
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

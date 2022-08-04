@@ -36,7 +36,7 @@ feature: conversion
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/agp/feature-section >}}
-{{< app/font/converter "i18n.codeexample.title" CFF TTF WOFF WOFF2>}}
+{{< app/font/converter "{{i18n.codeexample.title}}" CFF TTF WOFF WOFF2>}}
     // Open {{input lower}} font
     String fontPath = Paths.get(getDataDir(), "{{inputFile}}").toString();
     FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition({{input lower}}, new FileSystemStreamSource(fontPath)));

@@ -17,9 +17,9 @@ otherformats: WOFF WOFF2
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="CFF to TTF Conversion on .NET" %}}
-1. Open CFF font using [Open](https://apireference.aspose.com/font/net/aspose.font/font/methods/open/index) method
+1. Open CFF font using [Open](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) method
 2. Specify the TTF output settings 
-3. Convert CFF to TTF using [SaveToFormat](https://apireference.aspose.com/font/net/aspose.font/font/methods/savetoformat) method and pass TTF as [FontSavingFormats](https://apireference.aspose.com/font/net/aspose.font/fontsavingformats)
+3. Convert CFF to TTF using [SaveToFormat](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) method and pass TTF as [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET Font API" %}}
@@ -51,7 +51,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
