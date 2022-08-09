@@ -24,7 +24,9 @@ name4: Release Notes
 
 {{<section why>}}
 ---
-tabTitle: Why Aspose.PUB for .NET?
+tabTitlecpp: Why Aspose.Font for C++?
+tabTitlejava: Why Aspose.Font for Java?
+tabTitlenet: Why Aspose.Font for .NET?
 name1: Customers List
 name2: Success Stories
 ---
