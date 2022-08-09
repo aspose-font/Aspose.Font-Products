@@ -392,8 +392,8 @@ metakeywords: γραμματοσειρά java, γραμματοσειρές κω
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Font για Java;" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

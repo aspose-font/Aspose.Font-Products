@@ -412,8 +412,8 @@ Die Arbeit mit Schriftarten ist ein wichtiger Teil der Schnittstellenentwicklung
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Font für C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundenliste" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

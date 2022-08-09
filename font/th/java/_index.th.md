@@ -392,8 +392,8 @@ metakeywords: ฟอนต์จาวา, ฟอนต์เขียนโค�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Font สำหรับ Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

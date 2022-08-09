@@ -7,7 +7,7 @@ metakeywords: font apis, editace fontu, převod fontu api
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Integrujte různá písma na jakékoli platformě" h2="Nativní rozhraní API pro načítání, úpravu a ukládání více písem bez jakékoli softwarové závislosti." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Integrujte různá písma na jakékoli platformě" h2="Nativní rozhraní API pro načítání, úpravu a ukládání více písem bez jakékoli softwarové závislosti." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code API zahrnuje" >}}
@@ -42,12 +42,12 @@ Přidejte do aplikací C++ možnosti integrace a manipulace s písmy.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč produktová řada Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -7,7 +7,7 @@ metakeywords: 字體api，字體編輯，字體轉換api
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="在任何平台上集成不同的字體" h2="無需任何軟件依賴即可加載、編輯和保存多種字體的原生 API。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="在任何平台上集成不同的字體" h2="無需任何軟件依賴即可加載、編輯和保存多種字體的原生 API。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font 高代碼 API 包括" >}}
@@ -42,12 +42,12 @@ metakeywords: 字體api，字體編輯，字體轉換api
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Font 產品系列？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

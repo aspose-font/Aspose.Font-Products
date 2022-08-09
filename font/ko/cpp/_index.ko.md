@@ -412,8 +412,8 @@ metakeywords: C++ 글꼴, 글꼴 솔루션 C++, 글꼴 솔루션 cpp
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Font for C++인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

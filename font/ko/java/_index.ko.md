@@ -392,8 +392,8 @@ metakeywords: 글꼴 자바, 자바 코딩 글꼴, 자바 글꼴 라이브러리
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 자바용 Aspose.Font인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

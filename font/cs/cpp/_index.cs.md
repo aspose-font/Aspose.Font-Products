@@ -412,8 +412,8 @@ Práce s fonty je důležitou součástí vývoje rozhraní, designu nebo typogr
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Font pro C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

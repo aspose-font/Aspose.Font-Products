@@ -412,8 +412,8 @@ Praca z czcionkami jest ważną częścią opracowywania, projektowania lub typo
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Font dla C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Lista klientów" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

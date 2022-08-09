@@ -412,8 +412,8 @@ Travailler avec des polices est une partie importante du développement, de la c
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Font pour C++ ?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Liste des clients" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Réussites" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

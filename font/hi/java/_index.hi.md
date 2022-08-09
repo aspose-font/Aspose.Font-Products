@@ -392,8 +392,8 @@ metakeywords: फ़ॉन्ट जावा, जावा कोडिंग �
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Font जावा के लिए?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

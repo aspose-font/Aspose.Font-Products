@@ -7,7 +7,7 @@ metakeywords: Schrift-API, Schriftbearbeitung, Schriftkonvertierungs-API
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Integrieren Sie verschiedene Schriftarten auf jeder Plattform" h2="Native APIs zum Laden, Bearbeiten und Speichern mehrerer Schriftarten ohne Softwareabhängigkeiten." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Integrieren Sie verschiedene Schriftarten auf jeder Plattform" h2="Native APIs zum Laden, Bearbeiten und Speichern mehrerer Schriftarten ohne Softwareabhängigkeiten." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High-Code-APIs enthalten" >}}
@@ -42,12 +42,12 @@ Fügen Sie C++-Anwendungen Funktionen zur Integration und Bearbeitung von Schrif
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum die Produktfamilie Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundenliste" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

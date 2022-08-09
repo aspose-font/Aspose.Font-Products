@@ -392,8 +392,8 @@ Werken met lettertypen is een belangrijk onderdeel van interface-ontwikkeling, o
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Font voor Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

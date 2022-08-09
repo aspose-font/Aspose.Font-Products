@@ -392,8 +392,8 @@ A betűtípusokkal való munka az interfészfejlesztés, -tervezés vagy tipogr�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.Font a Java számára?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

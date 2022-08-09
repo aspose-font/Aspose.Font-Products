@@ -7,7 +7,7 @@ metakeywords: yazı tipi apisi, yazı tipi düzenleme, yazı tipi dönüştürme
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Farklı Yazı Tiplerini Herhangi Bir Platforma Entegre Edin" h2="Herhangi bir yazılım bağımlılığı olmadan birden çok yazı tipini yüklemek, düzenlemek ve kaydetmek için yerel API'ler." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Farklı Yazı Tiplerini Herhangi Bir Platforma Entegre Edin" h2="Herhangi bir yazılım bağımlılığı olmadan birden çok yazı tipini yüklemek, düzenlemek ve kaydetmek için yerel API'ler." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font Yüksek Kod API'leri şunları içerir:" >}}
@@ -42,12 +42,12 @@ C++ uygulamalarına Yazı Tipi entegrasyonu ve işleme yetenekleri ekleyin.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Font Ürün Ailesi?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
