@@ -28,9 +28,9 @@ p3: "Chúng tôi cung cấp cho bạn Giải pháp С ++ Api hỗ trợ các ph�
 ---
 title: Chuyển đổi WOFF sang TTF trên C ++
 item1: Để tìm hiểu thêm về tất cả những gì bạn cần để làm việc với API và thông tin cơ bản về các phông chữ sẽ giúp bạn viết mã chúng, hãy truy cập [Tài liệu](https://docs.aspose.com/font/) và chọn ngôn ngữ bạn viết mã Trong.
-item2: Mở phông chữ WOFF bằng phương pháp [* Open () *](https://reference.aspose.com/font/cpp/class/aspose.font.font#ac2387bf04ccb5bac51cf37984d4ebf33).
+item2: Mở phông chữ WOFF bằng phương pháp  [*Open()*](https://reference.aspose.com/font/cpp/class/aspose.font.font#ac2387bf04ccb5bac51cf37984d4ebf33).
 item3: Chỉ định cài đặt đầu ra TTF.
-item4: Chuyển đổi WOFF sang TTF bằng phương thức [* SaveToFormat () *](https://reference.aspose.com/font/cpp/class/aspose.font.font#a670ea97404fd72c2e51b0e8c543c8a45) va chuyen TTF as [FontSavingFormats](https://reference.aspose.com/font/cpp/namespace/aspose.font#a93d0dcc7c00f5c7027d60e14a5433c74).
+item4: Chuyển đổi WOFF sang TTF bằng phương thức [*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.font.font#a670ea97404fd72c2e51b0e8c543c8a45) va chuyen TTF as [FontSavingFormats](https://reference.aspose.com/font/cpp/namespace/aspose.font#a93d0dcc7c00f5c7027d60e14a5433c74).
 ---
 
 {{<section feature2>}}
