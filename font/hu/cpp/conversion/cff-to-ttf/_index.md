@@ -37,8 +37,8 @@ item4: Konvertálja a CFF-t TTF-re a [*SaveToFormat()*](https://reference.aspose
 ---
 title: Kezdje el a C++ Font API-t
 item1: Telepítés parancssorból ```nuget install Aspose.Font.Cpp```ként, vagy a Visual Studio csomagkezelő konzolján keresztül az ```Install-Package Aspose.Font.Cpp``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a [downloads] webhelyről (https://downloads.aspose.com/font/cpp).
-item3: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose [CFF to TTF Converter] programban (https://products.aspose.app/font/conversion/cff-to-ttf). Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) tárházába, ahol további kódpéldákat talál a Font API for C++-hoz való használatára vonatkozóan.
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről  [downloads](https://downloads.aspose.com/font/cpp).
+item3: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose programban [CFF to TTF Converter](https://products.aspose.app/font/conversion/cff-to-ttf). Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) tárházába, ahol további kódpéldákat talál a Font API for C++-hoz való használatára vonatkozóan.
 ---
 
 {{<section codeexample>}}

@@ -30,7 +30,7 @@ title: C++'da CFF'den TTF'ye Dönüştürme
 item1: API ile çalışmak için ihtiyacınız olan her şey ve bunları kodlamanıza yardımcı olacak yazı tipleriyle ilgili temel bilgiler hakkında daha fazla bilgi edinmek için [Belgelere](https://docs.aspose.com/font/) gidin ve kodladığınız dili seçin içinde.
 item2: '[*Open()*](https://reference.aspose.com/font/cpp/class/aspose.font.font#ac2387bf04ccb5bac51cf37984d4ebf33) Yöntemini kullanarak CFF yazı tipini açın.'
 item3: TTF çıkış ayarlarını belirtin.
-item4: "[*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.font.font#a670ea97404fd72c2e51b0e8c543c8a45) Yöntemini kullanarak CFF'yi TTF'ye dönüştürün ve TTF'yi [FontSavingFormats](https://) olarak iletin referans.aspose.com/font/cpp/namespace/aspose.font#a93d0dcc7c00f5c7027d60e14a5433c74)."
+item4: "[*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.font.font#a670ea97404fd72c2e51b0e8c543c8a45) Yöntemini kullanarak CFF'yi TTF'ye dönüştürün ve TTF'yi olarak iletin [FontSavingFormats](https://reference.aspose.com/font/cpp/namespace/aspose.font#a93d0dcc7c00f5c7027d60e14a5433c74)."
 ---
 
 {{<section feature2>}}
