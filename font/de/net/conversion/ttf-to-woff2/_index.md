@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TTF-zu-WOFF2-Konverter-API |.NET
@@ -28,9 +28,9 @@ p3: "Wir bieten Ihnen die С# .NET Api-Lösung, die die nächsten Schriftarten a
 ---
 title: TTF-zu-WOFF2-Konvertierung auf C#
 item1: Um mehr über alles zu erfahren, was Sie für die Arbeit mit der API benötigen, und grundlegende Informationen zu Schriftarten, die Ihnen beim Codieren helfen, gehen Sie zu [Documentation](https://docs.aspose.com/font/) und wählen Sie die Sprache aus, in der Sie codieren in.
-item2: Öffnen Sie die TTF-Schriftart mit der Methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Öffnen Sie die TTF-Schriftart mit der Methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Geben Sie die WOFF2-Ausgabeeinstellungen an.
-item4: Konvertieren Sie TTF in WOFF2 mit der Methode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) und übergeben Sie WOFF2 als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Konvertieren Sie TTF in WOFF2 mit der Methode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) und übergeben Sie WOFF2 als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: EOT 到 TTF 转换器 API |.NET
@@ -28,9 +28,9 @@ p3: "我们为您提供 С# .NET Api 解决方案，支持以下字体作为输�
 ---
 title: C# 上的 EOT 到 TTF 转换
 item1: 要了解有关使用 API 所需的所有内容以及有助于您编写字体的基本信息，请访问 [文档](https://docs.aspose.com/font/) 并选择您编写的语言在。
-item2: 使用 [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) 方法打开 EOT 字体。
+item2: 使用 [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) 方法打开 EOT 字体。
 item3: 指定 TTF 输出设置。
-item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) 方法将 EOT 转换为 TTF 并将 TTF 作为 [FontSavingFormats](https://参考.aspose.com/font/net/aspose.font/fontsavingformats)。
+item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) 方法将 EOT 转换为 TTF 并将 TTF 作为 [FontSavingFormats](https://参考.aspose.com/font/net/aspose.font/fontsavingformats)。
 ---
 
 {{<section feature2>}}

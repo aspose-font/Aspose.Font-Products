@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: Rozhraní API pro konverzi písem | .NET
@@ -26,7 +26,7 @@ p3: "Řešení zde podporuje následující fonty jako výstupní formáty: True
 {{<section feature1>}}
 ---
 title: Převod TrueType Font na Web Open Font Format verze 2.0.
-item1: API podporuje různá písma pro čtení a zápis, zde je [seznam](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) pro čtení a zápis. Pro zvážení převodu TTF na WOFF2 je proces načíst písmo z libovolného z podporovaných formátů, pro aktuální scénář TrueType Font. Použijte metodu [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) se dvěma parametry výstupního proudu a [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Výčet pro výběr výstupního formátu písma.
+item1: API podporuje různá písma pro čtení a zápis, zde je [seznam](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) pro čtení a zápis. Pro zvážení převodu TTF na WOFF2 je proces načíst písmo z libovolného z podporovaných formátů, pro aktuální scénář TrueType Font. Použijte metodu [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) se dvěma parametry výstupního proudu a [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Výčet pro výběr výstupního formátu písma.
 item2: Nakonec zavolejte SaveToFormat() pro uložení písem do libovolného z podporovaných výstupních formátů, aktuálně formátu Web Open Font Format verze 2.0 WOFF2.
 item3: Chcete-li vidět tuto funkci realizovanou ve skutečné multiplatformní aplikaci, přejděte na [aplikaci Aspose Font Converter](https://products.aspose.app/font/conversion). Najdete zde také mnoho dalších [řešení API](https://products.aspose.app/font/applications) pro práci s písmy a textem.
 item4: Přejděte na [Dokumentaci](https://docs.aspose.com/font/net/), kde získáte všechny potřebné informace, abyste mohli začít pracovat s řešením, jako jsou návody k hlavním funkcím nebo soubor článků, které vás naučí o písmu, poznámkách k verzi, příručce pro vývojáře a dalších užitečných věcech.

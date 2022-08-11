@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-java.md
 title: API Konverter EOT ke WOFF | Jawa
@@ -31,7 +31,7 @@ title: Konversi EOT ke WOFF di Java
 item1: Untuk mempelajari lebih lanjut tentang semua yang Anda perlukan untuk bekerja dengan API dan informasi dasar tentang font yang akan membantu Anda mengkodekannya, buka [Dokumentasi](https://docs.aspose.com/font/) dan pilih bahasa yang Anda kodekan di.
 item2: Buka font EOT menggunakan Metode [*Open()*](https://reference.aspose.com/font/java/com.aspose.font/Font#open-com.aspose.font.FontDefinition-).
 item3: Tentukan pengaturan keluaran WOFF.
-item4: Konversi EOT ke WOFF menggunakan [*SaveToFormat()*](https://reference.aspose.com/font/Java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) Metode dan berikan WOFF sebagai [FontSavingFormats](https://reference.aspose.com/font/Java/com.aspose.font/FontSavingFormats).
+item4: Konversi EOT ke WOFF menggunakan [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/font/) Metode dan berikan WOFF sebagai [FontSavingFormats](https://reference.aspose.com/font/java/com.aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API การแปลงแบบอักษร | ..NET
@@ -26,7 +26,7 @@ p3: "โซลูชันนี้รองรับฟอนต์ถัดไ
 {{<section feature1>}}
 ---
 title: TrueType Font เป็น Web Open Font Format เวอร์ชัน 2.0 Conversion
-item1: API รองรับแบบอักษรที่แตกต่างกันสำหรับการอ่านและการเขียน นี่คือ [รายการ](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) สำหรับการอ่านและการเขียน สำหรับการพิจารณาการแปลง TTF เป็น WOFF2 กระบวนการคือการโหลดฟอนต์จากรูปแบบที่รองรับ ฟอนต์ TrueType สำหรับสถานการณ์ปัจจุบัน ใช้ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) วิธีการที่มีสองพารามิเตอร์เอาท์พุตสตรีมและ [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) การแจงนับสำหรับการเลือกรูปแบบแบบอักษรของผลลัพธ์
+item1: API รองรับแบบอักษรที่แตกต่างกันสำหรับการอ่านและการเขียน นี่คือ [รายการ](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) สำหรับการอ่านและการเขียน สำหรับการพิจารณาการแปลง TTF เป็น WOFF2 กระบวนการคือการโหลดฟอนต์จากรูปแบบที่รองรับ ฟอนต์ TrueType สำหรับสถานการณ์ปัจจุบัน ใช้ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) วิธีการที่มีสองพารามิเตอร์เอาท์พุตสตรีมและ [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) การแจงนับสำหรับการเลือกรูปแบบแบบอักษรของผลลัพธ์
 item2: สุดท้าย ให้เรียก SaveToFormat() เพื่อบันทึกฟอนต์เป็นรูปแบบเอาต์พุตที่รองรับ ซึ่งปัจจุบันเป็นรูปแบบ Web Open Font เวอร์ชัน 2.0 WOFF2
 item3: หากต้องการดูฟังก์ชันการทำงานนี้ในแอปพลิเคชันข้ามแพลตฟอร์มจริง ให้ไปที่ [แอป Aspose Font Converter](https://products.aspose.app/font/conversion) คุณยังค้นหา[โซลูชัน API](https://products.aspose.app/font/applications) อื่นๆ อีกมากมายเพื่อทำงานกับแบบอักษรและข้อความได้จากที่นั่น
 item4: ไปที่[เอกสารประกอบ](https://docs.aspose.com/font/net/) เพื่อรับข้อมูลที่จำเป็นทั้งหมดเพื่อเริ่มทำงานกับโซลูชัน เช่น บทแนะนำสำหรับคุณสมบัติหลักหรือชุดบทความที่จะสอนคุณ เกี่ยวกับแบบอักษร บันทึกประจำรุ่น คู่มือนักพัฒนา และสิ่งที่เป็นประโยชน์อื่นๆ

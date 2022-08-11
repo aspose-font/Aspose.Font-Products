@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: WOFF till WOFF2 Converter API |.NET
@@ -28,9 +28,9 @@ p3: "Vi erbjuder dig С# .NET Api-lösning som stöder nästa typsnitt som inmat
 ---
 title: WOFF till WOFF2 konvertering på C#
 item1: För att lära dig mer om allt du behöver för att arbeta med API:t och den grundläggande informationen om typsnitt som hjälper dig att koda dem, gå till [Dokumentation](https://docs.aspose.com/font/) och välj språket du kodar i.
-item2: Öppna WOFF-teckensnittet med metoden [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Öppna WOFF-teckensnittet med metoden [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Ange WOFF-utgångsinställningar.
-item4: Konvertera WOFF till WOFF2 med metoden [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) och skicka WOFF som [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Konvertera WOFF till WOFF2 med metoden [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) och skicka WOFF som [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TYPE1 से WOFF कन्वर्टर API |.NET
@@ -28,9 +28,9 @@ p3: "हम आपको # .NET Api समाधान प्रदान कर
 ---
 title: TYPE1 से C# पर WOFF रूपांतरण
 item1: उन सभी चीजों के बारे में अधिक जानने के लिए जो आपको एपीआई के साथ काम करने की आवश्यकता है और फोंट के बारे में बुनियादी जानकारी जो आपको उन्हें कोड करने में मदद करेगी [दस्तावेज़ीकरण](https://docs.aspose.com/font/) पर जाएं और वह भाषा चुनें जिसे आप कोड करते हैं में।
-item2: '[*ओपन()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) विधि का उपयोग करके TYPE1 फ़ॉन्ट खोलें।'
+item2: '[*ओपन()*](https://reference.aspose.com/font/net/aspose.font/font/open/) विधि का उपयोग करके TYPE1 फ़ॉन्ट खोलें।'
 item3: WOFF आउटपुट सेटिंग्स निर्दिष्ट करें।
-item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) विधि का उपयोग करके TYPE1 को WOFF में बदलें और WOFF को केरूपमेंपासकरें [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats)।'
+item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) विधि का उपयोग करके TYPE1 को WOFF में बदलें और WOFF को केरूपमेंपासकरें [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/)।'
 ---
 
 {{<section feature2>}}

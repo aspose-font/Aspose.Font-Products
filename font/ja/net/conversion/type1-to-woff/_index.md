@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TYPE1 から WOFF へのコンバーター API |.NET
@@ -28,9 +28,9 @@ p3: "次のフォントを入力形式としてサポートする С# .NET Api �
 ---
 title: C# での TYPE1 から WOFF への変換
 item1: API を操作するために必要なすべてのこと、およびコーディングに役立つフォントに関する基本情報について詳しく知るには、[ドキュメント](https://docs.aspose.com/font/) にアクセスして、コーディングする言語を選択します。の。
-item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) メソッドを使用して TYPE1 フォントを開きます。'
+item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) メソッドを使用して TYPE1 フォントを開きます。'
 item3: WOFF出力設定を指定します。
-item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) メソッドを使用して TYPE1 を WOFF に変換し、WOFF を [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontSavingformats)。'
+item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) メソッドを使用して TYPE1 を WOFF に変換し、WOFF を [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/)。'
 ---
 
 {{<section feature2>}}

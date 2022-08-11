@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-java.md
 title: TYPE1 ke TTF Converter API | Jawa
@@ -30,7 +30,7 @@ title: Konversi TYPE1 ke TTF di Java
 item1: Untuk mempelajari lebih lanjut tentang semua yang Anda perlukan untuk bekerja dengan API dan informasi dasar tentang font yang akan membantu Anda mengkodekannya, buka [Dokumentasi](https://docs.aspose.com/font/) dan pilih bahasa yang Anda kodekan di.
 item2: Buka font TYPE1 menggunakan Metode [*Open()*](https://reference.aspose.com/font/java/com.aspose.font/Font#open-com.aspose.font.FontDefinition-).
 item3: Tentukan pengaturan keluaran TTF.
-item4: Konversi TYPE1 ke TTF menggunakan [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) Metode dan berikan TTF sebagai [FontSavingFormats](https://reference.aspose.com/font/Java/com.aspose.font/FontSavingFormats).
+item4: Konversi TYPE1 ke TTF menggunakan [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) Metode dan berikan TTF sebagai [FontSavingFormats](https://reference.aspose.com/font/java/com.aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

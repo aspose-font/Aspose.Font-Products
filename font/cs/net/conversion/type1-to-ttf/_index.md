@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TYPE1 to TTF Converter API |.NET
@@ -28,9 +28,9 @@ p3: "Nabízíme vám řešení С# .NET Api, které podporuje následující fon
 ---
 title: Konverze TYPE1 na TTF v C#
 item1: Chcete-li se dozvědět více o všem, co potřebujete k práci s API, a základní informace o písmech, které vám pomohou je kódovat, přejděte na [Dokumentace](https://docs.aspose.com/font/) a vyberte jazyk, který kódujete. v.
-item2: Otevřete písmo TYPE1 pomocí metody [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Otevřete písmo TYPE1 pomocí metody [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Zadejte nastavení výstupu TTF.
-item4: Převeďte TYPE1 na TTF pomocí metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) a předejte TTF jako [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Převeďte TYPE1 na TTF pomocí metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) a předejte TTF jako [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

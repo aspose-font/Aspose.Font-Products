@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: CFF 到 WOFF2 轉換器 API |.NET
@@ -29,9 +29,9 @@ p3: "我們為您提供 С# .NET Api 解決方案，支持以下字體作為輸�
 ---
 title: C# 上的 CFF 到 WOFF2 轉換
 item1: 要了解有關使用 API 所需的所有內容以及有助於您編寫字體的基本信息，請訪問 [文檔](https://docs.aspose.com/font/) 並選擇您編寫的語言在。
-item2: 使用 [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) 方法打開 CFF 字體。
+item2: 使用 [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) 方法打開 CFF 字體。
 item3: 指定 WOFF2 輸出設置。
-item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) 方法將 CFF 轉換為 WOFF2 並將 WOFF2 作為 [FontSavingFormats](https://參考.aspose.com/font/net/aspose.font/fontsavingformats)。
+item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) 方法將 CFF 轉換為 WOFF2 並將 WOFF2 作為 [FontSavingFormats](https://參考.aspose.com/font/net/aspose.font/fontsavingformats)。
 ---
 
 {{<section feature2>}}

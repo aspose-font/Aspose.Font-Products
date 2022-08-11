@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: EOT-zu-WOFF-Konverter-API |.NET
@@ -28,9 +28,9 @@ p3: "Wir bieten Ihnen die С# .NET Api-Lösung, die die nächsten Schriftarten a
 ---
 title: EOT-zu-WOFF-Konvertierung auf C#
 item1: Um mehr über alles zu erfahren, was Sie für die Arbeit mit der API benötigen, und grundlegende Informationen zu Schriftarten, die Ihnen beim Codieren helfen, gehen Sie zu [Documentation](https://docs.aspose.com/font/) und wählen Sie die Sprache aus, in der Sie codieren in.
-item2: Öffnen Sie die EOT-Schriftart mit der Methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Öffnen Sie die EOT-Schriftart mit der Methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Geben Sie die WOFF-Ausgabeeinstellungen an.
-item4: Konvertieren Sie EOT in WOFF mit der Methode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) und übergeben Sie WOFF als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Konvertieren Sie EOT in WOFF mit der Methode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) und übergeben Sie WOFF als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

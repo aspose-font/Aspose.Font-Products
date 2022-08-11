@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: Lettertypeconversie-API | .NETTO
@@ -26,7 +26,7 @@ p3: "De oplossing hier ondersteunt de volgende lettertypen als uitvoerformaten: 
 {{<section feature1>}}
 ---
 title: TrueType-lettertype naar web Open Font Format versie 2.0-conversie.
-item1: API ondersteunt verschillende lettertypen voor lezen en schrijven, hier is de [lijst](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) voor lezen en schrijven. Om TTF naar WOFF2-conversie te overwegen, is het proces het laden van een lettertype uit een van de ondersteunde formaten, TrueType-lettertype voor het huidige scenario. Gebruik de [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) Methode met twee parameters output stream en [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Opsomming voor het selecteren van het uitvoerlettertypeformaat.
+item1: API ondersteunt verschillende lettertypen voor lezen en schrijven, hier is de [lijst](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) voor lezen en schrijven. Om TTF naar WOFF2-conversie te overwegen, is het proces het laden van een lettertype uit een van de ondersteunde formaten, TrueType-lettertype voor het huidige scenario. Gebruik de [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) Methode met twee parameters output stream en [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Opsomming voor het selecteren van het uitvoerlettertypeformaat.
 item2: Roep ten slotte SaveToFormat() aan om lettertypen op te slaan in een van de ondersteunde uitvoerformaten, momenteel Web Open Font Format versie 2.0 WOFF2-formaat.
 item3: Ga naar [Aspose Font Converter-app](https://product.aspose.app/font/conversion) om deze functionaliteit gerealiseerd in een echte platformonafhankelijke toepassing te zien. Daar vindt u ook veel meer [API-oplossingen](https://products.aspose.app/font/applications) om met lettertypen en tekst te werken.
 item4: Ga naar de [Documentatie](https://docs.aspose.com/font/net/) om alle benodigde informatie te krijgen om met de oplossing aan de slag te gaan, zoals de Tutorials voor de belangrijkste functies of de reeks artikelen om u te leren over lettertype, release-opmerkingen, handleiding voor ontwikkelaars en andere nuttige dingen.

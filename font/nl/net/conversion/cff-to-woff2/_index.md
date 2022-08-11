@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: CFF naar WOFF2 Converter-API |.NET
@@ -29,9 +29,9 @@ p3: "We bieden u С# .NET Api-oplossing die de volgende lettertypen ondersteunt 
 ---
 title: 'CFF naar WOFF2-conversie op C #'
 item1: Voor meer informatie over alles wat u nodig hebt om met de API te werken en de basisinformatie over lettertypen waarmee u ze kunt coderen, gaat u naar [Documentatie](https://docs.aspose.com/font/) en kiest u de taal die u codeert in.
-item2: Open het CFF-lettertype met de methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Open het CFF-lettertype met de methode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Specificeer de WOFF2-uitgangsinstellingen.
-item4: Converteer CFF naar WOFF2 met behulp van [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) Methode en geef WOFF2 door als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Converteer CFF naar WOFF2 met behulp van [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) Methode en geef WOFF2 door als [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

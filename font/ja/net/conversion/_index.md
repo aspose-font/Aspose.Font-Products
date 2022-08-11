@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: フォント変換 API | .NET
@@ -26,7 +26,7 @@ p3: "ここでのソリューションは、次のフォントを出力形式と
 {{<section feature1>}}
 ---
 title: TrueType フォントから Web Open Font Format バージョン 2.0 への変換。
-item1: API は、読み書き用にさまざまなフォントをサポートしています。ここでは、読み書き用の [リスト](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing)  つのフォントを示します。 TTF から WOFF2 への変換を検討するためのプロセスは、サポートされている任意のフォーマット (現在のシナリオでは TrueType フォント) からフォントをロードすることです。 出力フォント形式を選択するには、2 つのパラメータ出力ストリームと [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontSavingformats) 列挙を持つ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) つのメソッドを使用します。
+item1: API は、読み書き用にさまざまなフォントをサポートしています。ここでは、読み書き用の [リスト](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing)  つのフォントを示します。 TTF から WOFF2 への変換を検討するためのプロセスは、サポートされている任意のフォーマット (現在のシナリオでは TrueType フォント) からフォントをロードすることです。 出力フォント形式を選択するには、2 つのパラメータ出力ストリームと [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) 列挙を持つ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) つのメソッドを使用します。
 item2: 最後に、SaveToFormat() を呼び出して、サポートされている任意の出力形式 (現在は Web Open Font Format バージョン 2.0 WOFF2 形式) にフォントを保存します。
 item3: この機能が実際のクロスプラットフォーム アプリケーションで実現されていることを確認するには、[Aspose フォント コンバーター アプリ](https://products.aspose.app/font/conversion) にアクセスしてください。そこには、フォントとテキストを操作するための [API ソリューション](https://products.aspose.app/font/applications) も多数あります。
 item4: '[ドキュメント](https://docs.aspose.com/font/net/) にアクセスして、ソリューションの使用を開始するために必要なすべての情報を入手してください。たとえば、主な機能のチュートリアルや一連の記事などがあります。フォント、リリース ノート、開発者ガイド、およびその他の便利なことについて。'

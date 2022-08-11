@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API μετατροπής γραμματοσειρών | .ΚΑΘΑΡΑ
@@ -26,7 +26,7 @@ p3: "Η λύση εδώ υποστηρίζει τις επόμενες γραμ�
 {{<section feature1>}}
 ---
 title: Μετατροπή γραμματοσειράς TrueType σε Web Ανοιχτή μορφή γραμματοσειράς έκδοση 2.0.
-item1: Το API υποστηρίζει διαφορετικές γραμματοσειρές για ανάγνωση και γραφή, εδώ είναι η [λίστα](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) για ανάγνωση και γραφή. Για να εξετάσετε τη μετατροπή TTF σε WOFF2, η διαδικασία είναι να φορτώσετε μια γραμματοσειρά από οποιαδήποτε από τις υποστηριζόμενες μορφές, τη γραμματοσειρά TrueType για το τρέχον σενάριο. Χρησιμοποιήστε τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) με ροή εξόδου δύο παραμέτρων και [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Απαρίθμηση για την επιλογή της μορφής γραμματοσειράς εξόδου.
+item1: Το API υποστηρίζει διαφορετικές γραμματοσειρές για ανάγνωση και γραφή, εδώ είναι η [λίστα](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) για ανάγνωση και γραφή. Για να εξετάσετε τη μετατροπή TTF σε WOFF2, η διαδικασία είναι να φορτώσετε μια γραμματοσειρά από οποιαδήποτε από τις υποστηριζόμενες μορφές, τη γραμματοσειρά TrueType για το τρέχον σενάριο. Χρησιμοποιήστε τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) με ροή εξόδου δύο παραμέτρων και [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Απαρίθμηση για την επιλογή της μορφής γραμματοσειράς εξόδου.
 item2: Τέλος, καλέστε το SaveToFormat() για να αποθηκεύσετε γραμματοσειρές σε οποιαδήποτε από τις μορφές εξόδου που υποστηρίζονται, αυτήν τη στιγμή μορφή Web Open Font Format έκδοση 2.0 WOFF2.
 item3: Για να δείτε αυτή τη λειτουργικότητα να υλοποιείται σε μια πραγματική εφαρμογή πολλαπλών πλατφορμών, μεταβείτε στην [Aspose Font Converter app](https://products.aspose.app/font/conversion). Εκεί μπορείτε επίσης να βρείτε πολλές ακόμη [λύσεις API](https://products.aspose.app/font/applications) για να εργαστείτε με γραμματοσειρές και κείμενο.
 item4: Μεταβείτε στην [Τεκμηρίωση](https://docs.aspose.com/font/net/) για να λάβετε όλες τις απαραίτητες πληροφορίες για να ξεκινήσετε να εργάζεστε με τη λύση, όπως τα Εκπαιδευτικά προγράμματα για τις κύριες λειτουργίες ή το σύνολο άρθρων που θα σας διδάξουν σχετικά με τη γραμματοσειρά, τις Σημειώσεις έκδοσης, τον Οδηγό προγραμματιστή και άλλα χρήσιμα πράγματα.

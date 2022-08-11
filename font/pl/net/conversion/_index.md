@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: Interfejs API konwersji czcionek | .INTERNET
@@ -26,7 +26,7 @@ p3: "Rozwiązanie tutaj obsługuje następujące czcionki jako formaty wyjściow
 {{<section feature1>}}
 ---
 title: Konwersja czcionki TrueType do formatu Web Open Font w wersji 2.0.
-item1: API obsługuje różne czcionki do czytania i pisania, oto [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) do czytania i pisania. Aby uwzględnić konwersję TTF do WOFF2, proces polega na załadowaniu czcionki z dowolnego z obsługiwanych formatów, TrueType Font dla bieżącego scenariusza. Użyj metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) z dwoma parametrami strumienia wyjściowego i [*FontSavingFormats*](https://aireference.aspose.com/font/net/aspose.font/fontsavingformats) Wyliczenie służące do wybierania wyjściowego formatu czcionki.
+item1: API obsługuje różne czcionki do czytania i pisania, oto [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) do czytania i pisania. Aby uwzględnić konwersję TTF do WOFF2, proces polega na załadowaniu czcionki z dowolnego z obsługiwanych formatów, TrueType Font dla bieżącego scenariusza. Użyj metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) z dwoma parametrami strumienia wyjściowego i [*FontSavingFormats*](https://aireference.aspose.com/font/net/aspose.font/fontsavingformats) Wyliczenie służące do wybierania wyjściowego formatu czcionki.
 item2: Na koniec wywołaj SaveToFormat(), aby zapisać czcionki w dowolnym z obsługiwanych formatów wyjściowych, obecnie w formacie Web Open Font Format w wersji 2.0 WOFF2.
 item3: Aby zobaczyć tę funkcjonalność realizowaną w rzeczywistej aplikacji wieloplatformowej, przejdź do [aplikacji Aspose Font Converter](https://products.aspose.app/font/conversion). Znajdziesz tam również wiele innych [rozwiązań API](https://products.aspose.app/font/applications) do pracy z czcionkami i tekstem.
 item4: Przejdź do [Dokumentacji](https://docs.aspose.com/font/net/), aby uzyskać wszystkie informacje potrzebne do rozpoczęcia pracy z rozwiązaniem, takie jak samouczki dotyczące głównych funkcji lub zestaw artykułów do nauki o czcionkach, informacjach o wydaniu, podręczniku programisty i innych przydatnych rzeczach.

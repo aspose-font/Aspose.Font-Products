@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API di conversione dei caratteri | .RETE
@@ -26,7 +26,7 @@ p3: "La soluzione qui supporta i caratteri successivi come formati di output: Tr
 {{<section feature1>}}
 ---
 title: TrueType Font to Web Open Font Format versione 2.0 Conversione.
-item1: L'API supporta diversi tipi di carattere per la lettura e la scrittura, ecco la [list](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) per la lettura e la scrittura. Per considerare la conversione da TTF a WOFF2, il processo consiste nel caricare un font da uno qualsiasi dei formati supportati, TrueType Font per lo scenario corrente. Utilizzare il metodo [*SaveToFormat()*](https://apiference.aspose.com/font/net/aspose.font/font/methods/savetoformat) con due parametri flusso di output e [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Enumerazione per la selezione del formato del carattere di output.
+item1: L'API supporta diversi tipi di carattere per la lettura e la scrittura, ecco la [list](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) per la lettura e la scrittura. Per considerare la conversione da TTF a WOFF2, il processo consiste nel caricare un font da uno qualsiasi dei formati supportati, TrueType Font per lo scenario corrente. Utilizzare il metodo [*SaveToFormat()*](https://apiference.aspose.com/font/net/aspose.font/font/methods/savetoformat) con due parametri flusso di output e [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Enumerazione per la selezione del formato del carattere di output.
 item2: Infine, chiama SaveToFormat() per salvare i caratteri in uno qualsiasi dei formati di output supportati, attualmente formato WOFF2 Web Open Font Format versione 2.0.
 item3: Per vedere questa funzionalità realizzata in un'effettiva applicazione multipiattaforma, vai su [App Aspose Font Converter](https://products.aspose.app/font/conversion). Lì puoi anche trovare molte altre [soluzioni API](https://products.aspose.app/font/applications) per lavorare con caratteri e testo.
 item4: Vai alla [Documentazione](https://docs.aspose.com/font/net/) per ottenere tutte le informazioni necessarie per iniziare a lavorare con la soluzione, come i Tutorial per le caratteristiche principali o la serie di articoli da insegnarti su font, note di rilascio, guida per gli sviluppatori e altre cose utili.

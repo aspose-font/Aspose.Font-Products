@@ -31,7 +31,7 @@ Adjon hozzá betűtípus-integrációs és -kezelési lehetőségeket a C++ alka
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API referenciák" href="https://reference.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

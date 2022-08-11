@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: API chuyển đổi EOT sang WOFF2 | .NET
@@ -29,9 +29,9 @@ p3: "Chúng tôi cung cấp cho bạn Giải pháp С # .NET Api hỗ trợ các
 ---
 title: 'Chuyển đổi EOT sang WOFF2 trên C #'
 item1: Để tìm hiểu thêm về tất cả những gì bạn cần để làm việc với API và thông tin cơ bản về các phông chữ sẽ giúp bạn viết mã chúng, hãy truy cập [Tài liệu](https://docs.aspose.com/font/) và chọn ngôn ngữ bạn viết mã Trong.
-item2: Mở phông chữ EOT bằng phương pháp [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Mở phông chữ EOT bằng phương pháp [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Chỉ định cài đặt đầu ra WOFF2.
-item4: Chuyển đổi EOT thành WOFF2 bằng phương pháp [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) và chuyển WOFF2 dưới dạng [FontSavingFormats](https://thamchiếu.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Chuyển đổi EOT thành WOFF2 bằng phương pháp [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) và chuyển WOFF2 dưới dạng [FontSavingFormats](https://thamchiếu.aspose.com/font/net/aspose.font/fontsavingformats).
 ---
 
 {{<section feature2>}}

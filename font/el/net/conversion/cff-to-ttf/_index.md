@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: CFF σε TTF Converter API |.NET
@@ -28,9 +28,9 @@ p3: "Σας προσφέρουμε Λύση Σ# .NET Api που υποστηρί
 ---
 title: Μετατροπή CFF σε TTF σε C#
 item1: Για να μάθετε περισσότερα σχετικά με όλα όσα χρειάζεστε για να εργαστείτε με το API και τις βασικές πληροφορίες σχετικά με τις γραμματοσειρές που θα σας βοηθήσουν να τις κωδικοποιήσετε, μεταβείτε στο [Documentation](https://docs.aspose.com/font/) και επιλέξτε τη γλώσσα που κωδικοποιείτε σε.
-item2: Ανοίξτε τη γραμματοσειρά CFF χρησιμοποιώντας τη μέθοδο [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Ανοίξτε τη γραμματοσειρά CFF χρησιμοποιώντας τη μέθοδο [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Καθορίστε τις ρυθμίσεις εξόδου TTF.
-item4: Μετατρέψτε το CFF σε TTF χρησιμοποιώντας τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) και περάστε το TTF ως [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Μετατρέψτε το CFF σε TTF χρησιμοποιώντας τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) και περάστε το TTF ως [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TTF เป็น WOFF2 Converter API |.NET
@@ -28,9 +28,9 @@ p3: "เราขอเสนอ С# .NET Api Solution ที่รองรั�
 ---
 title: 'การแปลง TTF เป็น WOFF2 บน C #'
 item1: หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับสิ่งที่คุณต้องใช้ในการทำงานกับ API และข้อมูลพื้นฐานเกี่ยวกับแบบอักษรที่จะช่วยให้คุณเขียนโค้ดได้ ให้ไปที่[เอกสารประกอบ](https://docs.aspose.com/font/) และเลือกภาษาที่คุณเขียนโค้ด ใน.
-item2: เปิดแบบอักษร TTF โดยใช้วิธีการ [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index)
+item2: เปิดแบบอักษร TTF โดยใช้วิธีการ [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/)
 item3: ระบุการตั้งค่าเอาต์พุต WOFF2
-item4: แปลง TTF เป็น WOFF2 โดยใช้วิธีการ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) และส่ง WOFF2 เป็น [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats)
+item4: แปลง TTF เป็น WOFF2 โดยใช้วิธีการ [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) และส่ง WOFF2 เป็น [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/)
 ---
 
 {{<section feature2>}}

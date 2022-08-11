@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API de conversión de fuentes | .RED
@@ -26,7 +26,7 @@ p3: "La solución aquí admite las siguientes fuentes como formatos de salida: T
 {{<section feature1>}}
 ---
 title: Conversión de fuente TrueType a formato de fuente abierta Web versión 2.0.
-item1: La API admite diferentes fuentes para leer y escribir, aquí está la [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-ando-writing) para leer y escribir. Para considerar la conversión de TTF a WOFF2, el proceso consiste en cargar una fuente de cualquiera de los formatos admitidos, fuente TrueType para el escenario actual. Utilice el método [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) que tiene un flujo de salida de dos parámetros y [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Enumeración para seleccionar el formato de fuente de salida.
+item1: La API admite diferentes fuentes para leer y escribir, aquí está la [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-ando-writing) para leer y escribir. Para considerar la conversión de TTF a WOFF2, el proceso consiste en cargar una fuente de cualquiera de los formatos admitidos, fuente TrueType para el escenario actual. Utilice el método [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) que tiene un flujo de salida de dos parámetros y [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Enumeración para seleccionar el formato de fuente de salida.
 item2: Finalmente, llame a SaveToFormat() para guardar las fuentes en cualquiera de los formatos de salida admitidos, actualmente el formato Web Open Font Format versión 2.0 WOFF2.
 item3: Para ver esta funcionalidad realizada en una aplicación multiplataforma real, vaya a [aplicación Aspose Font Converter](https://products.aspose.app/font/conversion). Allí también puede encontrar muchas más [soluciones API](https://products.aspose.app/font/applications) para trabajar con fuentes y texto.
 item4: Vaya a la [Documentación](https://docs.aspose.com/font/net/) para obtener toda la información necesaria para comenzar a trabajar con la solución, como los Tutoriales para las funciones principales o el conjunto de artículos para enseñarle sobre la fuente, las notas de la versión, la guía del desarrollador y otras cosas útiles.

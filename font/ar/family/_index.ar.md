@@ -31,7 +31,7 @@ metakeywords: الخطوط apis وتحرير الخطوط وتحويل الخط�
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

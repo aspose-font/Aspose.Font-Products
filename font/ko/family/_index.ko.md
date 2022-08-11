@@ -31,7 +31,7 @@ C++ 애플리케이션에 글꼴 통합 및 조작 기능을 추가합니다.
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: API chuyển đổi WOFF2 sang TTF | .NET
@@ -30,9 +30,9 @@ p3: "Chúng tôi cung cấp cho bạn Giải pháp С # .NET Api hỗ trợ các
 ---
 title: 'Chuyển đổi WOFF2 sang TTF trên C #'
 item1: Để tìm hiểu thêm về tất cả những gì bạn cần để làm việc với API và thông tin cơ bản về các phông chữ sẽ giúp bạn viết mã chúng, hãy truy cập [Tài liệu](https://docs.aspose.com/font/) và chọn ngôn ngữ bạn viết mã Trong.
-item2: Mở phông chữ WOFF2 bằng phương pháp [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Mở phông chữ WOFF2 bằng phương pháp [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Chỉ định cài đặt đầu ra TTF.
-item4: Chuyển đổi WOFF2 sang TTF bằng phương pháp [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) và chuyển TTF dưới dạng [FontSavingFormats](https://thamchiếu.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Chuyển đổi WOFF2 sang TTF bằng phương pháp [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) và chuyển TTF dưới dạng [FontSavingFormats](https://thamchiếu.aspose.com/font/net/aspose.font/fontsavingformats).
 ---
 
 {{<section feature2>}}

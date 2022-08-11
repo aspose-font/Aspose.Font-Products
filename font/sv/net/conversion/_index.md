@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: Fonts Conversion API | .NETTO
@@ -26,7 +26,7 @@ p3: "Lösningen här stöder nästa typsnitt som utdataformat: TrueType (TTF), W
 {{<section feature1>}}
 ---
 title: TrueType Font to Web Open Font Format version 2.0 Conversion.
-item1: API stöder olika typsnitt för läsning och skrivning, här är [listan](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) för läsning och skrivning. För att överväga konvertering av TTF till WOFF2, är processen att ladda ett teckensnitt från något av de format som stöds, TrueType Font för det aktuella scenariot. Använd metoden [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) som har två parametrar utdataström och [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Uppräkning för val av utdatateckensnittsformat.
+item1: API stöder olika typsnitt för läsning och skrivning, här är [listan](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) för läsning och skrivning. För att överväga konvertering av TTF till WOFF2, är processen att ladda ett teckensnitt från något av de format som stöds, TrueType Font för det aktuella scenariot. Använd metoden [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) som har två parametrar utdataström och [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Uppräkning för val av utdatateckensnittsformat.
 item2: Slutligen, anrop SaveToFormat() för att spara teckensnitt i något av de utdataformat som stöds, för närvarande Web Open Font Format version 2.0 WOFF2-format.
 item3: Gå till [Aspose Font Converter-appen](https://products.aspose.app/font/conversion) för att se den här funktionen realiserad i en verklig plattformsoberoende applikation. Där kan du också hitta många fler [API-lösningar](https://products.aspose.app/font/applications) för att arbeta med typsnitt och text.
 item4: Gå till [Dokumentation](https://docs.aspose.com/font/net/) för att få all nödvändig information för att börja arbeta med lösningen, som handledningarna för huvudfunktionerna eller uppsättningen artiklar som du ska lära dig om typsnitt, versionskommentarer, utvecklarguide och andra användbara saker.

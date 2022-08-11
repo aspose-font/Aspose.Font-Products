@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: Fonts Conversion API | .HÁLÓ
@@ -26,7 +26,7 @@ p3: "A megoldás a következő betűtípusokat támogatja kimeneti formátumkén
 {{<section feature1>}}
 ---
 title: TrueType Font Web Open Font Format 2.0 verzió átalakítása.
-item1: Az API különböző betűtípusokat támogat olvasáshoz és íráshoz, itt található a [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) az olvasáshoz és íráshoz. A TTF-ből WOFF2-be való átalakítás megfontolásához a folyamat az, hogy betölt egy betűtípust a támogatott formátumok bármelyikéből, az aktuális forgatókönyvnek megfelelő TrueType betűtípusból. Használja a [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) metódust, amely két paraméteres kimeneti adatfolyamot és [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Felsorolás a kimeneti betűtípus kiválasztásához.
+item1: Az API különböző betűtípusokat támogat olvasáshoz és íráshoz, itt található a [lista](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) az olvasáshoz és íráshoz. A TTF-ből WOFF2-be való átalakítás megfontolásához a folyamat az, hogy betölt egy betűtípust a támogatott formátumok bármelyikéből, az aktuális forgatókönyvnek megfelelő TrueType betűtípusból. Használja a [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) metódust, amely két paraméteres kimeneti adatfolyamot és [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Felsorolás a kimeneti betűtípus kiválasztásához.
 item2: Végül hívja meg a SaveToFormat()-t, hogy a betűtípusokat a támogatott kimeneti formátumok bármelyikébe mentse, jelenleg a Web Open Font Format 2.0 verziójú WOFF2 formátumba.
 item3: Ha meg szeretné tekinteni ezt a funkciót egy tényleges, többplatformos alkalmazásban, keresse fel az [Aspose Font Converter alkalmazást](https://products.aspose.app/font/conversion). Ezen kívül számos további [API-megoldást](https://products.aspose.app/font/applications) találhat a betűtípusok és szövegek kezelésére.
 item4: Látogasson el a [Dokumentáció](https://docs.aspose.com/font/net/) oldalra, ahol megtalálja a megoldással való munka megkezdéséhez szükséges összes információt, például a főbb funkciókról szóló oktatóanyagokat vagy a megtanító cikkeket. a betűtípusról, a Kiadási megjegyzésekről, a Fejlesztői útmutatóról és más hasznos dolgokról.

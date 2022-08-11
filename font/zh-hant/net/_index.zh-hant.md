@@ -377,7 +377,7 @@ Aspose.Font for .NET 是一個靈活且易於使用的庫，用於處理不同�
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/font/net/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

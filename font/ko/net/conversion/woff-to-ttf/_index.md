@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: WOFF to TTF 변환기 API |.NET
@@ -28,9 +28,9 @@ p3: "TrueType(TTF) 및 Web Open Font Format(WOFF 및 WOFF2)과 같은 다음 글
 ---
 title: C#에서 WOFF에서 TTF로 변환
 item1: API 작업에 필요한 모든 것과 코딩에 도움이 되는 글꼴에 대한 기본 정보에 대해 자세히 알아보려면 [문서](https://docs.aspose.com/font/)로 이동하여 코딩할 언어를 선택하십시오. 안에.
-item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) 메서드를 사용하여 WOFF 글꼴을 엽니다.'
+item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) 메서드를 사용하여 WOFF 글꼴을 엽니다.'
 item3: TTF 출력 설정을 지정합니다.
-item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) 메서드를 사용하여 WOFF를 TTF로 변환하고 TTF를 [FontSavingFormats](https://)로 전달합니다. reference.aspose.com/font/net/aspose.font/fontsavingformats).'
+item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) 메서드를 사용하여 WOFF를 TTF로 변환하고 TTF를 [FontSavingFormats](https://)로 전달합니다. reference.aspose.com/font/net/aspose.font/fontsavingformats).'
 ---
 
 {{<section feature2>}}

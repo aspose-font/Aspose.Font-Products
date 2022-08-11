@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: API Konverter EOT ke TTF |.NET
@@ -28,9 +28,9 @@ p3: "Kami menawarkan Anda # .NET Api Solution yang mendukung font berikutnya seb
 ---
 title: Konversi EOT ke TTF di C#
 item1: Untuk mempelajari lebih lanjut tentang semua yang Anda perlukan untuk bekerja dengan API dan informasi dasar tentang font yang akan membantu Anda mengkodekannya, buka [Dokumentasi](https://docs.aspose.com/font/) dan pilih bahasa yang Anda kodekan di.
-item2: Buka font EOT menggunakan Metode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Buka font EOT menggunakan Metode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Tentukan pengaturan keluaran TTF.
-item4: Konversi EOT ke TTF menggunakan Metode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) dan teruskan TTF sebagai [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Konversi EOT ke TTF menggunakan Metode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) dan teruskan TTF sebagai [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

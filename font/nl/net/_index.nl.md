@@ -377,7 +377,7 @@ Aspose.Font voor .NET is een flexibele en gebruiksvriendelijke bibliotheek om me
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API-referenties" href="https://reference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API-referenties" href="https://reference.aspose.com/font/net/" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

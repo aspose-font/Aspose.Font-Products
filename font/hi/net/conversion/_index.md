@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: फ़ॉन्ट्स रूपांतरण एपीआई | ।जाल
@@ -26,7 +26,7 @@ p3: "यहां समाधान आउटपुट स्वरूपों
 {{<section feature1>}}
 ---
 title: ट्रू टाइप फॉन्ट टू वेब ओपन फॉन्ट फॉर्मेट वर्जन 2.0 कन्वर्जन।
-item1: एपीआई पढ़ने और लिखने के लिए विभिन्न फोंट का समर्थन करता है, यहां पढ़ने और लिखने के लिए [सूची](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) है। TTF से WOFF2 रूपांतरण पर विचार करने के लिए, वर्तमान परिदृश्य के लिए किसी भी समर्थित प्रारूप, ट्रू टाइप फ़ॉन्ट से एक फ़ॉन्ट लोड करने की प्रक्रिया है। [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) विधि का उपयोग करें जिसमें दो पैरामीटर आउटपुट स्ट्रीम और [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontSavingformats) आउटपुट फॉन्ट फॉर्मेट को चुनने के लिए एन्यूमरेशन।
+item1: एपीआई पढ़ने और लिखने के लिए विभिन्न फोंट का समर्थन करता है, यहां पढ़ने और लिखने के लिए [सूची](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) है। TTF से WOFF2 रूपांतरण पर विचार करने के लिए, वर्तमान परिदृश्य के लिए किसी भी समर्थित प्रारूप, ट्रू टाइप फ़ॉन्ट से एक फ़ॉन्ट लोड करने की प्रक्रिया है। [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) विधि का उपयोग करें जिसमें दो पैरामीटर आउटपुट स्ट्रीम और [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) आउटपुट फॉन्ट फॉर्मेट को चुनने के लिए एन्यूमरेशन।
 item2: अंत में, किसी भी समर्थित आउटपुट स्वरूप में फोंट को सहेजने के लिए SaveToFormat () को कॉल करें, वर्तमान में वेब ओपन फ़ॉन्ट प्रारूप संस्करण 2.0 WOFF2 प्रारूप।
 item3: वास्तविक क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन में महसूस की गई इस कार्यक्षमता को देखने के लिए [Aspose Font Converter ऐप](https://products.aspose.app/font/conversion) पर जाएं। वहां आपको फ़ॉन्ट और टेक्स्ट के साथ काम करने के लिए और भी कई [API समाधान](https://products.aspose.app/font/applications) मिल सकते हैं।
 item4: समाधान के साथ काम करना शुरू करने के लिए सभी आवश्यक जानकारी प्राप्त करने के लिए [दस्तावेज़ीकरण](https://docs.aspose.com/font/net/) पर जाएं, जैसे मुख्य विशेषताओं के लिए ट्यूटोरियल या आपको सिखाने के लिए लेखों का सेट फ़ॉन्ट, रिलीज नोट्स, डेवलपर गाइड और अन्य उपयोगी चीजों के बारे में।

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API de conversion de polices | .RAPPORTER
@@ -26,7 +26,7 @@ p3: "La solution ici prend en charge les polices suivantes en tant que formats d
 {{<section feature1>}}
 ---
 title: Conversion de la police TrueType au format Web Open Font version 2.0.
-item1: L'API prend en charge différentes polices pour la lecture et l'écriture, voici la [liste](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) pour la lecture et l'écriture. Pour envisager la conversion TTF en WOFF2, le processus consiste à charger une police à partir de l'un des formats pris en charge, la police TrueType pour le scénario actuel. Utilisez la méthode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) ayant deux paramètres de flux de sortie et [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Énumération pour sélectionner le format de police de sortie.
+item1: L'API prend en charge différentes polices pour la lecture et l'écriture, voici la [liste](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) pour la lecture et l'écriture. Pour envisager la conversion TTF en WOFF2, le processus consiste à charger une police à partir de l'un des formats pris en charge, la police TrueType pour le scénario actuel. Utilisez la méthode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) ayant deux paramètres de flux de sortie et [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Énumération pour sélectionner le format de police de sortie.
 item2: Enfin, appelez SaveToFormat() pour enregistrer les polices dans l'un des formats de sortie pris en charge, actuellement le format Web Open Font Format version 2.0 WOFF2.
 item3: Pour voir cette fonctionnalité réalisée dans une application multiplateforme réelle, accédez à [application Aspose Font Converter](https://products.aspose.app/font/conversion). Vous y trouverez également de nombreuses autres [solutions API](https://products.aspose.app/font/applications) pour travailler avec les polices et le texte.
 item4: Accédez à la [Documentation](https://docs.aspose.com/font/net/) pour obtenir toutes les informations nécessaires pour commencer à travailler avec la solution, comme les tutoriels pour les principales fonctionnalités ou l'ensemble des articles pour vous apprendre sur la police, les notes de version, le guide du développeur et d'autres choses utiles.

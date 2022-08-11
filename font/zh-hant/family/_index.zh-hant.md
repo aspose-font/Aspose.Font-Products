@@ -31,7 +31,7 @@ metakeywords: 字體api，字體編輯，字體轉換api
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

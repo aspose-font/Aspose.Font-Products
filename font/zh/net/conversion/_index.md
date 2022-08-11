@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: 字体转换 API | .NET
@@ -26,7 +26,7 @@ p3: "此处的解决方案支持以下字体作为输出格式：TrueType (TTF)�
 {{<section feature1>}}
 ---
 title: TrueType 字体到 Web 开放字体格式 2.0 版的转换。
-item1: API支持不同字体的读写，这里是读写的[列表](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing)。考虑到 TTF 到 WOFF2 的转换，该过程是从任何支持的格式加载字体，当前场景的 TrueType 字体。使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) 方法有两个参数输出流和 [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) 用于选择输出字体格式的枚举。
+item1: API支持不同字体的读写，这里是读写的[列表](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing)。考虑到 TTF 到 WOFF2 的转换，该过程是从任何支持的格式加载字体，当前场景的 TrueType 字体。使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) 方法有两个参数输出流和 [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) 用于选择输出字体格式的枚举。
 item2: 最后，调用 SaveToFormat() 将字体保存为任何支持的输出格式，当前是 Web Open Font Format version 2.0 WOFF2 格式。
 item3: 要查看在实际跨平台应用程序中实现的此功能，请转到 [Aspose 字体转换器应用程序](https://products.aspose.app/font/conversion)。在那里，您还可以找到更多 [API 解决方案](https://products.aspose.app/font/applications) 来处理字体和文本。
 item4: 转到 [文档](https://docs.aspose.com/font/net/) 以获取开始使用解决方案所需的所有信息，例如主要功能的教程或教你的文章集关于字体、发行说明、开发人员指南和其他有用的东西。

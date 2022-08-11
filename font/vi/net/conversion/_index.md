@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-net.md
 title: API chuyển đổi phông chữ | .MẠNG LƯỚI
@@ -26,7 +26,7 @@ p3: "Giải pháp ở đây hỗ trợ các phông chữ tiếp theo dưới d�
 {{<section feature1>}}
 ---
 title: Chuyển đổi TrueType Font sang Web Open Font Format phiên bản 2.0.
-item1: API hỗ trợ các phông chữ khác nhau để đọc và viết, đây là [danh sách](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) để đọc và viết. Để xem xét chuyển đổi TTF sang WOFF2, quá trình là tải một phông chữ từ bất kỳ định dạng nào được hỗ trợ, Phông chữ TrueType cho tình huống hiện tại. Sử dụng phương thức [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) Phương thức có luồng đầu ra hai tham số và [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats) Liệt kê để chọn định dạng phông chữ đầu ra.
+item1: API hỗ trợ các phông chữ khác nhau để đọc và viết, đây là [danh sách](https://docs.aspose.com/font/net/convert/#formats-supported-for-reading-andor-writing) để đọc và viết. Để xem xét chuyển đổi TTF sang WOFF2, quá trình là tải một phông chữ từ bất kỳ định dạng nào được hỗ trợ, Phông chữ TrueType cho tình huống hiện tại. Sử dụng phương thức [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) Phương thức có luồng đầu ra hai tham số và [*FontSavingFormats*](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/) Liệt kê để chọn định dạng phông chữ đầu ra.
 item2: Cuối cùng, gọi SaveToFormat () để lưu phông chữ vào bất kỳ định dạng đầu ra nào được hỗ trợ, hiện tại là định dạng WOFF2 của Định dạng phông chữ mở trên Web phiên bản 2.0.
 item3: Để xem chức năng này được thực hiện trong một ứng dụng đa nền tảng thực tế, hãy truy cập [ứng dụng Aspose Font Converter](https://products.aspose.app/font/conversion). Ở đó, bạn cũng có thể tìm thấy nhiều khác [giải pháp API](https://products.aspose.app/font/application) để làm việc với phông chữ và văn bản.
 item4: Truy cập [Tài liệu](https://docs.aspose.com/font/net/) để nhận tất cả thông tin cần thiết để bắt đầu làm việc với giải pháp, chẳng hạn như Hướng dẫn về các tính năng chính hoặc tập hợp các bài viết hướng dẫn bạn về phông chữ, Ghi chú phát hành, Hướng dẫn dành cho nhà phát triển và những thứ hữu ích khác.

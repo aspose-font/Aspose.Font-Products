@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: CFF'den WOFF2'ye Dönüştürücü API |.NET
@@ -29,9 +29,9 @@ p3: "Giriş biçimleri olarak sonraki yazı tiplerini destekleyen С# .NET Api �
 ---
 title: C#'da CFF'den WOFF2'ye Dönüştürme
 item1: API ile çalışmak için ihtiyacınız olan her şey ve bunları kodlamanıza yardımcı olacak yazı tipleriyle ilgili temel bilgiler hakkında daha fazla bilgi edinmek için [Belgelere](https://docs.aspose.com/font/) gidin ve kodladığınız dili seçin içinde.
-item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) Yöntemini kullanarak CFF yazı tipini açın.'
+item2: '[*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) Yöntemini kullanarak CFF yazı tipini açın.'
 item3: WOFF2 çıkış ayarlarını belirtin.
-item4: "[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) Yöntemini kullanarak CFF'yi WOFF2'ye dönüştürün ve WOFF2'yi olarak iletin [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats)."
+item4: "[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) Yöntemini kullanarak CFF'yi WOFF2'ye dönüştürün ve WOFF2'yi olarak iletin [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/)."
 ---
 
 {{<section feature2>}}

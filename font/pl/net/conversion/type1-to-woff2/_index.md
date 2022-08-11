@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: Interfejs API konwertera TYPE1 do WOFF2 |.NET
@@ -28,9 +28,9 @@ p3: "Oferujemy Ci rozwiązanie С# .NET Api, które obsługuje następne czcionk
 ---
 title: Konwersja TYPE1 do WOFF2 w C#
 item1: Aby dowiedzieć się więcej o wszystkim, czego potrzebujesz do pracy z API oraz podstawowe informacje o czcionkach, które pomogą Ci je kodować, przejdź do [Dokumentacja](https://docs.aspose.com/font/) i wybierz język, który kodujesz w.
-item2: Otwórz czcionkę TYPE1 za pomocą metody [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Otwórz czcionkę TYPE1 za pomocą metody [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Określ ustawienia wyjściowe WOFF2.
-item4: Konwertuj TYPE1 na WOFF2 za pomocą metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) i przekaż WOFF2 jako [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Konwertuj TYPE1 na WOFF2 za pomocą metody [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) i przekaż WOFF2 jako [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

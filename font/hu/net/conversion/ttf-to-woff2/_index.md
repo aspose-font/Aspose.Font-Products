@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: TTF to WOFF2 Converter API |.NET
@@ -28,9 +28,9 @@ p3: "Kínálunk Önnek egy С# .NET Api megoldást, amely támogatja a következ
 ---
 title: TTF konvertálás WOFF2-be C#-on
 item1: Ha többet szeretne megtudni mindarról, amire szüksége van az API-val való együttműködéshez, valamint a betűtípusokkal kapcsolatos alapvető információkért, amelyek segítenek a kódolásukban, keresse fel a [Dokumentáció](https://docs.aspose.com/font/) oldalt, és válassza ki a kódolt nyelvet. ban ben.
-item2: Nyissa meg a TTF-betűtípust a [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) módszerrel.
+item2: Nyissa meg a TTF-betűtípust a [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) módszerrel.
 item3: Adja meg a WOFF2 kimenet beállításait.
-item4: Konvertálja a TTF-et WOFF2-vé a [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) módszerrel, és adja át a WOFF2-t [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats)-ként .
+item4: Konvertálja a TTF-et WOFF2-vé a [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) módszerrel, és adja át a WOFF2-t [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/)-ként .
 ---
 
 {{<section feature2>}}

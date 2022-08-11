@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: API μετατροπέα TTF σε WOFF |.NET
@@ -30,9 +30,9 @@ p3: "Σας προσφέρουμε Λύση Σ# .NET Api που υποστηρί
 ---
 title: Μετατροπή TTF σε WOFF σε C#
 item1: Για να μάθετε περισσότερα σχετικά με όλα όσα χρειάζεστε για να εργαστείτε με το API και τις βασικές πληροφορίες σχετικά με τις γραμματοσειρές που θα σας βοηθήσουν να τις κωδικοποιήσετε, μεταβείτε στο [Documentation](https://docs.aspose.com/font/) και επιλέξτε τη γλώσσα που κωδικοποιείτε σε.
-item2: Ανοίξτε τη γραμματοσειρά TTF χρησιμοποιώντας τη μέθοδο [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Ανοίξτε τη γραμματοσειρά TTF χρησιμοποιώντας τη μέθοδο [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Καθορίστε τις ρυθμίσεις εξόδου WOFF.
-item4: Μετατρέψτε το TTF σε WOFF χρησιμοποιώντας τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) και περάστε το WOFF ως [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Μετατρέψτε το TTF σε WOFF χρησιμοποιώντας τη μέθοδο [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) και περάστε το WOFF ως [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

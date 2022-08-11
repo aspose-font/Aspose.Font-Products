@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: API de conversion WOFF en TTF |.NET
@@ -28,9 +28,9 @@ p3: "Nous vous proposons la solution С# .NET Api qui prend en charge les police
 ---
 title: Conversion WOFF en TTF sur C#
 item1: Pour en savoir plus sur tout ce dont vous avez besoin pour travailler avec l'API et les informations de base sur les polices qui vous aideront à les coder, accédez à [Documentation](https://docs.aspose.com/font/) et choisissez la langue que vous codez dans.
-item2: Ouvrez la police WOFF à l'aide de la méthode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: Ouvrez la police WOFF à l'aide de la méthode [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: Spécifiez les paramètres de sortie TTF.
-item4: Convertissez WOFF en TTF à l'aide de la méthode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) et transmettez TTF en tant que [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Convertissez WOFF en TTF à l'aide de la méthode [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) et transmettez TTF en tant que [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

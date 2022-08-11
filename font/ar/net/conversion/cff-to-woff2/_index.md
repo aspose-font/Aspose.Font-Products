@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /_templates/conversion-child-net.md
 title: واجهة برمجة تطبيقات محول CFF إلى WOFF2 | .NET
@@ -29,9 +29,9 @@ p3: "نقدم لك حل .NET Api الذي يدعم الخطوط التالية �
 ---
 title: 'CFF لتحويل WOFF2 على C #'
 item1: لمعرفة المزيد حول كل ما تحتاجه للعمل مع واجهة برمجة التطبيقات والمعلومات الأساسية حول الخطوط التي ستساعدك في ترميزها ، انتقل إلى [الوثائق](https://docs.aspose.com/font/) واختر اللغة التي ترمز إليها في.
-item2: افتح خط CFF باستخدام طريقة  [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index).
+item2: افتح خط CFF باستخدام طريقة  [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/).
 item3: حدد إعدادات إخراج WOFF2.
-item4: قم بتحويل CFF إلى WOFF2 باستخدام أسلوب [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) ومرر WOFF2 كـ [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: قم بتحويل CFF إلى WOFF2 باستخدام أسلوب [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) ومرر WOFF2 كـ [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}

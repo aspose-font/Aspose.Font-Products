@@ -377,7 +377,7 @@ Aspose.Font for .NET مكتبة مرنة وسهلة الاستخدام للعم�
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/net/" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

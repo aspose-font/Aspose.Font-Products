@@ -377,7 +377,7 @@ Aspose.Font untuk .NET adalah pustaka yang fleksibel dan mudah digunakan untuk b
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://reference.aspose.com/font/net/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

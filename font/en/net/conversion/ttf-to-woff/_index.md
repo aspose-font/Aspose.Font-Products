@@ -28,9 +28,9 @@ p3: "We offer you С# .NET Api Solution that supports the next fonts as input fo
 ---
 title: TTF to WOFF Conversion on C#
 item1: To learn more about all that you need to work with the API and the basic information about fonts that will help you code them go to  [Documentation](https://docs.aspose.com/font/) and choose the language you code in.
-item2: Open TTF font using [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/methods/open/index) Method.
+item2: Open TTF font using [*Open()*](https://reference.aspose.com/font/net/aspose.font/font/open/) Method.
 item3: Specify the WOFF output settings.
-item4: Convert TTF to WOFF using [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/methods/savetoformat) Method and pass WOFF as [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats).
+item4: Convert TTF to WOFF using [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/font/savetoformat/) Method and pass WOFF as [FontSavingFormats](https://reference.aspose.com/font/net/aspose.font/fontsavingformats/).
 ---
 
 {{<section feature2>}}
