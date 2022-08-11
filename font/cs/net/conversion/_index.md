@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: Rozhraní API pro konverzi písem | .SÍŤ
+title: Rozhraní API pro konverzi písem | .NET
 url: /net/conversion/
 description: Funkce převodu písem. Převádějte různá písma jako CFF, EOT, WOFF, TTF a Type 1 pomocí několika řádků kódu C# prostřednictvím knihovny .NET.
 keywords: font converter .net, font converter net, c# font conversion

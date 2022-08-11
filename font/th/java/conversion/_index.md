@@ -26,7 +26,7 @@ p3: "เราขอเสนอโซลูชัน Java Api ที่สน�
 {{<section feature1>}}
 ---
 title: TrueType Font เป็น Web Open Font Format เวอร์ชัน 2.0 Conversion
-item1: API รองรับแบบอักษรที่แตกต่างกันสำหรับการอ่านและการเขียน นี่คือ [รายการ](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing) สำหรับการอ่านและการเขียน สำหรับการพิจารณาการแปลง TTF เป็น WOFF2 กระบวนการคือการโหลดฟอนต์จากรูปแบบที่รองรับ ฟอนต์ TrueType สำหรับสถานการณ์ปัจจุบัน ใช้วิธี [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) ของ [Font class](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) ที่มีพารามิเตอร์เอาต์พุตสตรีมสองตัวและ [*FontSavingFormats*](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) ://apireference.aspose.com/font/java/com.aspose.font/FontSavingFormats) การแจงนับสำหรับการเลือกรูปแบบตัวอักษรที่ส่งออก
+item1: API รองรับแบบอักษรที่แตกต่างกันสำหรับการอ่านและการเขียน นี่คือ [รายการ](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing) สำหรับการอ่านและการเขียน สำหรับการพิจารณาการแปลง TTF เป็น WOFF2 กระบวนการคือการโหลดฟอนต์จากรูปแบบที่รองรับ ฟอนต์ TrueType สำหรับสถานการณ์ปัจจุบัน ใช้วิธี [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) ของ [Font class](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) ที่มีพารามิเตอร์เอาต์พุตสตรีมสองตัวและ [*FontSavingFormats*](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) การแจงนับสำหรับการเลือกรูปแบบตัวอักษรที่ส่งออก
 item2: สุดท้าย ให้เรียก SaveToFormat() เพื่อบันทึกฟอนต์เป็นรูปแบบเอาต์พุตที่รองรับ ซึ่งปัจจุบันเป็นรูปแบบ Web Open Font เวอร์ชัน 2.0 WOFF2
 item3: หากต้องการดูฟังก์ชันการทำงานนี้ในแอปพลิเคชันข้ามแพลตฟอร์มจริง ให้ไปที่ [แอป Aspose Font Converter](https://products.aspose.app/font/conversion) คุณยังค้นหา[โซลูชัน API](https://products.aspose.app/font/applications) อื่นๆ อีกมากมายเพื่อทำงานกับแบบอักษรและข้อความได้จากที่นั่น
 item4: ไปที่[เอกสารประกอบ](https://docs.aspose.com/font/net/) เพื่อรับข้อมูลที่จำเป็นทั้งหมดเพื่อเริ่มทำงานกับโซลูชัน เช่น บทแนะนำสำหรับคุณสมบัติหลักหรือชุดบทความที่จะสอนคุณ เกี่ยวกับแบบอักษร บันทึกประจำรุ่น คู่มือนักพัฒนา และสิ่งที่เป็นประโยชน์อื่นๆ
@@ -36,23 +36,3 @@ item4: ไปที่[เอกสารประกอบ](https://docs.aspose
 ---
 title: รหัส Java สำหรับการแปลง CFF เป็น TTF
 ---
-
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/agp/feature-section >}}
-{{< app/font/converter "Java Code for CFF to TTF Conversion" CFF TTF WOFF WOFF2>}}
-    // Open {{input lower}} font
-    String fontPath = Paths.get(getDataDir(), "{{inputFile}}").toString();
-    FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition({{input lower}}, new FileSystemStreamSource(fontPath)));
-    Font font = Font.open(fontDefinition);
-
-    // {{output camel}} output settings
-    String outPath = Paths.get(getOutputDir(), "{{outputFile}}").toString();
-    FileOutputStream outStream = new FileOutputStream(outPath);
-
-    // Convert {{input lower}} to {{output lower}}
-    font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
-{{< /app/font/converter >}}
-{{< /blocks/products/pf/agp/feature-section>}}
-{{< /blocks/products/pf/main-wrap-class>}}
-
-{{< blocks/products/pf/feature-page-options pairs="cff-to-ttf cff-to-woff cff-to-woff2 eot-to-ttf eot-to-woff eot-to-woff2 ttf-to-woff type1-to-ttf type1-to-woff type1-to-woff2 woff2-to-ttf woff2-to-woff woff-to-ttf woff-to-woff2" >}}

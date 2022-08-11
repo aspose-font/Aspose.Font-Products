@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: フォント変換 API | 。ネット
+title: フォント変換 API | .NET
 url: /net/conversion/
 description: フォント変換機能。 CFF、EOT、WOFF、TTF、Type 1 などのさまざまなフォントを、.NET ライブラリを介して数行の C# コードで変換します。
 keywords: フォント コンバーター .net、フォント コンバーター ネット、c# フォント カバーション

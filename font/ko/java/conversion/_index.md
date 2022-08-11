@@ -26,7 +26,7 @@ p3: "TrueType(TTF), Web Open Font Format(WOFF 및 WOFF2), Embedded OpenType 형�
 {{<section feature1>}}
 ---
 title: 트루타입 글꼴을 웹 열기 글꼴 형식 버전 2.0으로 변환합니다.
-item1: API는 읽기 및 쓰기를 위한 다양한 글꼴을 지원합니다. 읽기 및 쓰기를 위한 [목록](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing)은 다음과 같습니다. TTF에서 WOFF2로의 변환을 고려하기 위해 프로세스는 현재 시나리오에 대해 지원되는 형식인 TrueType 글꼴에서 글꼴을 로드하는 것입니다. [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) 메서드 사용 두 개의 매개변수 출력 스트림과 [*FontSavingFormats*](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-)의 [글꼴 클래스](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) ://apireference.aspose.com/font/java/com.aspose.font/FontSavingFormats) 출력 글꼴 형식을 선택하기 위한 열거입니다.
+item1: API는 읽기 및 쓰기를 위한 다양한 글꼴을 지원합니다. 읽기 및 쓰기를 위한 [목록](https://docs.aspose.com/font/java/convert/#formats-supported-for-reading-andor-writing)은 다음과 같습니다. TTF에서 WOFF2로의 변환을 고려하기 위해 프로세스는 현재 시나리오에 대해 지원되는 형식인 TrueType 글꼴에서 글꼴을 로드하는 것입니다. [*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.font/Font#saveToFormat-java.io.OutputStream-com.aspose.font.FontSavingFormats-) 메서드 사용 두 개의 매개변수 출력 스트림과 [*FontSavingFormats*](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-)의 [글꼴 클래스](https://reference.aspose.com/font/java/com.aspose.font/Font#save-java.lang.String-) 출력 글꼴 형식을 선택하기 위한 열거입니다.
 item2: 마지막으로 SaveToFormat()을 호출하여 지원되는 출력 형식(현재 Web Open Font Format 버전 2.0 WOFF2 형식)으로 글꼴을 저장합니다.
 item3: 실제 크로스 플랫폼 애플리케이션에서 구현된 이 기능을 보려면 [Aspose 글꼴 변환기 앱](https://products.aspose.app/font/conversion)으로 이동하십시오. 글꼴 및 텍스트 작업을 위한 더 많은 [API 솔루션](https://products.aspose.app/font/applications)을 찾을 수도 있습니다.
 item4: '[Documentation](https://docs.aspose.com/font/net/)으로 이동하여 주요 기능에 대한 자습서 또는 가르칠 기사 세트와 같이 솔루션 작업을 시작하는 데 필요한 모든 정보를 얻으십시오. 글꼴, 릴리스 정보, 개발자 가이드 및 기타 유용한 정보를 제공합니다.'
@@ -36,23 +36,3 @@ item4: '[Documentation](https://docs.aspose.com/font/net/)으로 이동하여 �
 ---
 title: CFF에서 TTF로의 변환을 위한 Java 코드
 ---
-
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/agp/feature-section >}}
-{{< app/font/converter "Java Code for CFF to TTF Conversion" CFF TTF WOFF WOFF2>}}
-    // Open {{input lower}} font
-    String fontPath = Paths.get(getDataDir(), "{{inputFile}}").toString();
-    FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition({{input lower}}, new FileSystemStreamSource(fontPath)));
-    Font font = Font.open(fontDefinition);
-
-    // {{output camel}} output settings
-    String outPath = Paths.get(getOutputDir(), "{{outputFile}}").toString();
-    FileOutputStream outStream = new FileOutputStream(outPath);
-
-    // Convert {{input lower}} to {{output lower}}
-    font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
-{{< /app/font/converter >}}
-{{< /blocks/products/pf/agp/feature-section>}}
-{{< /blocks/products/pf/main-wrap-class>}}
-
-{{< blocks/products/pf/feature-page-options pairs="cff-to-ttf cff-to-woff cff-to-woff2 eot-to-ttf eot-to-woff eot-to-woff2 ttf-to-woff type1-to-ttf type1-to-woff type1-to-woff2 woff2-to-ttf woff2-to-woff woff-to-ttf woff-to-woff2" >}}

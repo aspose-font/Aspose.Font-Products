@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /_templates/conversion-net.md
-title: API การแปลงแบบอักษร | .สุทธิ
+title: API การแปลงแบบอักษร | ..NET
 url: /net/conversion/
 description: ฟังก์ชั่นการแปลงตัวอักษร แปลงฟอนต์ต่างๆ เช่น CFF, EOT, WOFF, TTF และ Type 1 ด้วยโค้ด C# สองสามบรรทัดผ่านไลบรารี .NET
 keywords: 'ตัวแปลงฟอนต์ .net เน็ตแปลงฟอนต์ c # ฟอนต์ครอบคลุม'
