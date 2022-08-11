@@ -7,11 +7,11 @@ metakeywords: font .net、ネットフォントライブラリ、ネットフォ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="フォントを操作するための.NETAPI" h2=".NETベースのアプリケーション内でTrueType、CFF、OpenType、Type1などのさまざまなフォントをロード、変換、保存します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
+{{< blocks/products/pf/i18n/upper-banner h1="フォントを操作するための.NETAPI" h2=".NETベースのアプリケーション内でTrueType、CFF、OpenType、Type1などのさまざまなフォントをロード、変換、保存します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -377,7 +377,7 @@ Aspose.Font for .NETは、さまざまなフォントファイルを操作する
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="APIリファレンス" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -388,13 +388,13 @@ Aspose.Font for .NETは、さまざまなフォントファイルを操作する
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.Font for.NETを選ぶ理由" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Fontは、以下に示すように、他の一般的な開発環境向けに個別のフォント管理APIを提供します。" >}}
 

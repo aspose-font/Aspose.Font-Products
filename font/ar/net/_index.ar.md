@@ -7,11 +7,11 @@ metakeywords: الخط. net ، مكتبة الخطوط الصافية ، حل ا
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لمعالجة الخطوط" h2="قم بتحميل وتحويل وحفظ خطوط مختلفة بما في ذلك TrueType و CFF و OpenType و Type1 داخل التطبيقات المستندة إلى .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
+{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لمعالجة الخطوط" h2="قم بتحميل وتحويل وحفظ خطوط مختلفة بما في ذلك TrueType و CFF و OpenType و Type1 داخل التطبيقات المستندة إلى .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -377,7 +377,7 @@ Aspose.Font for .NET مكتبة مرنة وسهلة الاستخدام للعم�
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -388,13 +388,13 @@ Aspose.Font for .NET مكتبة مرنة وسهلة الاستخدام للعم�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Font لـ .NET؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="يقدم Aspose.Font واجهات برمجة تطبيقات فردية لإدارة الخطوط لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 

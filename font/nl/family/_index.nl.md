@@ -7,7 +7,7 @@ metakeywords: lettertype-apis, lettertype-bewerking, lettertype-conversie api
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Integreer verschillende lettertypen op elk platform" h2="Native API's om meerdere lettertypen te laden, te bewerken en op te slaan zonder enige softwareafhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Integreer verschillende lettertypen op elk platform" h2="Native API's om meerdere lettertypen te laden, te bewerken en op te slaan zonder enige softwareafhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code API's omvatten:" >}}
@@ -31,7 +31,7 @@ Voeg mogelijkheden voor lettertype-integratie en -manipulatie toe aan C++-toepas
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API-referenties" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API-referenties" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo's" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ Voeg mogelijkheden voor lettertype-integratie en -manipulatie toe aan C++-toepas
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Font-productfamilie?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Succesverhalen" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

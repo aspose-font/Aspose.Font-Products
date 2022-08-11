@@ -401,7 +401,7 @@ metakeywords: C++ 글꼴, 글꼴 솔루션 C++, 글꼴 솔루션 cpp
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -412,8 +412,8 @@ metakeywords: C++ 글꼴, 글꼴 솔루션 C++, 글꼴 솔루션 cpp
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Font for C++인가?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

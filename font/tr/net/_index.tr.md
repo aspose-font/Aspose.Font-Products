@@ -7,11 +7,11 @@ metakeywords: font .net, net font kütüphanesi, net font çözümü
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Yazı Tiplerini Değiştirmek için .NET API'leri" h2=".NET tabanlı uygulamalarda TrueType, CFF, OpenType ve Type1 dahil olmak üzere farklı Yazı Tiplerini Yükleyin, Dönüştürün ve Kaydedin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Yazı Tiplerini Değiştirmek için .NET API'leri" h2=".NET tabanlı uygulamalarda TrueType, CFF, OpenType ve Type1 dahil olmak üzere farklı Yazı Tiplerini Yükleyin, Dönüştürün ve Kaydedin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -377,7 +377,7 @@ Aspose.Font for .NET, farklı yazı tipi dosyalarıyla çalışmak için esnek v
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -388,13 +388,13 @@ Aspose.Font for .NET, farklı yazı tipi dosyalarıyla çalışmak için esnek v
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden .NET için Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı Font yönetimi API'leri sunar:" >}}
 

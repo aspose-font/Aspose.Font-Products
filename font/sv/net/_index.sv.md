@@ -7,11 +7,11 @@ metakeywords: font .net, net font-bibliotek, net font-lösning
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET API:er för att manipulera teckensnitt" h2="Ladda, konvertera och spara olika teckensnitt inklusive TrueType, CFF, OpenType och Type1 inom .NET-baserade applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET API:er för att manipulera teckensnitt" h2="Ladda, konvertera och spara olika teckensnitt inklusive TrueType, CFF, OpenType och Type1 inom .NET-baserade applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -377,7 +377,7 @@ Aspose.Font för .NET är ett flexibelt och lättanvänt bibliotek för att arbe
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -388,13 +388,13 @@ Aspose.Font för .NET är ett flexibelt och lättanvänt bibliotek för att arbe
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Font för .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font erbjuder individuella Font Management API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 

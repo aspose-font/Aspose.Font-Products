@@ -7,7 +7,7 @@ metakeywords: apis phông chữ, chỉnh sửa phông chữ, api chuyển đổi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tích hợp các phông chữ khác nhau trên mọi nền tảng" h2="Các API gốc để tải, chỉnh sửa và lưu nhiều phông chữ mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tích hợp các phông chữ khác nhau trên mọi nền tảng" h2="Các API gốc để tải, chỉnh sửa và lưu nhiều phông chữ mà không cần bất kỳ phụ thuộc phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Bao gồm API mã cao Aspose.Font" >}}
@@ -31,7 +31,7 @@ Thêm khả năng tích hợp và thao tác Phông chữ cho các ứng dụng C
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ Thêm khả năng tích hợp và thao tác Phông chữ cho các ứng dụng C
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là dòng sản phẩm Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

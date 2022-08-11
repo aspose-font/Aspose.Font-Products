@@ -216,7 +216,7 @@ metakeywords: c++ шрифт, шрифтовые решения c++, шрифт�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API шрифтов С++" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
+  <img width="70" height="75" alt="Font API С++" src="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg"/>
   <header>
    Aspose.Font
   </header>
@@ -401,7 +401,7 @@ metakeywords: c++ шрифт, шрифтовые решения c++, шрифт�
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -412,8 +412,8 @@ metakeywords: c++ шрифт, шрифтовые решения c++, шрифт�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Font для C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Список клиентов" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Истории успеха" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

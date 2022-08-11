@@ -7,11 +7,11 @@ metakeywords: फ़ॉन्ट .net, शुद्ध फ़ॉन्ट पु
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="फ़ॉन्ट्स में हेरफेर करने के लिए .NET APIs" h2=".NET आधारित अनुप्रयोगों के भीतर ट्रू टाइप, सीएफएफ, ओपन टाइप, और टाइप 1 सहित विभिन्न फ़ॉन्ट्स को लोड, कन्वर्ट और सेव करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
+{{< blocks/products/pf/i18n/upper-banner h1="फ़ॉन्ट्स में हेरफेर करने के लिए .NET APIs" h2=".NET आधारित अनुप्रयोगों के भीतर ट्रू टाइप, सीएफएफ, ओपन टाइप, और टाइप 1 सहित विभिन्न फ़ॉन्ट्स को लोड, कन्वर्ट और सेव करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-net.svg" pfName="Aspose.Font" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="https://products.aspose.app/font/family"  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/net/" installationsDocsLink="https://docs.aspose.com/font/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -377,7 +377,7 @@ Aspose.Font for .NET विभिन्न फ़ॉन्ट फ़ाइलो
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/font/net" >}}
+{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://reference.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -388,13 +388,13 @@ Aspose.Font for .NET विभिन्न फ़ॉन्ट फ़ाइलो
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Font for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए व्यक्तिगत फ़ॉन्ट प्रबंधन API प्रदान करता है:" >}}
 

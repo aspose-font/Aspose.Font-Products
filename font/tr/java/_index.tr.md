@@ -381,7 +381,7 @@ Fontlarla çalışmak, arayüz geliştirme, tasarım veya tipografinin önemli b
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -392,8 +392,8 @@ Fontlarla çalışmak, arayüz geliştirme, tasarım veya tipografinin önemli b
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Java için Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

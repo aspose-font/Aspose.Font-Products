@@ -7,7 +7,7 @@ metakeywords: API dei caratteri, modifica dei caratteri, API di conversione dei 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Integra diversi tipi di carattere su qualsiasi piattaforma" h2="API native per caricare, modificare e salvare più font senza dipendenze software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Integra diversi tipi di carattere su qualsiasi piattaforma" h2="API native per caricare, modificare e salvare più font senza dipendenze software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Le API Aspose.Font High Code includono" >}}
@@ -31,7 +31,7 @@ Aggiungi funzionalità di integrazione e manipolazione dei caratteri alle applic
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ Aggiungi funzionalità di integrazione e manipolazione dei caratteri alle applic
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché la famiglia di prodotti Aspose.Font?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Storie di successo" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

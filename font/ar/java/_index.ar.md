@@ -381,7 +381,7 @@ metakeywords: خط جافا ، خطوط ترميز جافا ، مكتبة خطو
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -392,8 +392,8 @@ metakeywords: خط جافا ، خطوط ترميز جافا ، مكتبة خطو
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Font لجافا؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

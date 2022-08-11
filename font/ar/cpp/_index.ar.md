@@ -401,7 +401,7 @@ metakeywords: خط c ++ ، حلول الخطوط c ++ ، حلول الخطوط c
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -412,8 +412,8 @@ metakeywords: خط c ++ ، حلول الخطوط c ++ ، حلول الخطوط c
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Font لـ C++؟" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="قصص نجاح" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

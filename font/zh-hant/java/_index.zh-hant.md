@@ -381,7 +381,7 @@ metakeywords: 字體java，java編碼字體，java字體庫
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -392,8 +392,8 @@ metakeywords: 字體java，java編碼字體，java字體庫
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Font for Java？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

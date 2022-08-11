@@ -7,7 +7,7 @@ metakeywords: font api, font redigering, font konvertering api
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Integrera olika teckensnitt på vilken plattform som helst" h2="Inbyggda API:er för att ladda, redigera och spara flera teckensnitt utan några mjukvaruberoenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Integrera olika teckensnitt på vilken plattform som helst" h2="Inbyggda API:er för att ladda, redigera och spara flera teckensnitt utan några mjukvaruberoenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code API:er inkluderar" >}}
@@ -31,7 +31,7 @@ Lägg till funktioner för typsnittsintegration och manipulering till C++-applik
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ Lägg till funktioner för typsnittsintegration och manipulering till C++-applik
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Font produktfamilj?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

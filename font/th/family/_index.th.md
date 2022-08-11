@@ -7,7 +7,7 @@ metakeywords: font apis, การแก้ไขฟอนต์, การแ�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="รวมแบบอักษรที่แตกต่างกันบนทุกแพลตฟอร์ม" h2="Native APIs เพื่อโหลด แก้ไข และบันทึกแบบอักษรหลายแบบโดยไม่ต้องพึ่งพาซอฟต์แวร์" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="รวมแบบอักษรที่แตกต่างกันบนทุกแพลตฟอร์ม" h2="Native APIs เพื่อโหลด แก้ไข และบันทึกแบบอักษรหลายแบบโดยไม่ต้องพึ่งพาซอฟต์แวร์" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code API รวม" >}}
@@ -31,7 +31,7 @@ Native Java API สำหรับเดสก์ท็อป เว็บ ห�
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ Native Java API สำหรับเดสก์ท็อป เว็บ ห�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Font Product Family?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

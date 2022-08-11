@@ -401,7 +401,7 @@ Att arbeta med typsnitt är en viktig del av gränssnittsutveckling, design elle
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -412,8 +412,8 @@ Att arbeta med typsnitt är en viktig del av gränssnittsutveckling, design elle
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Font för C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

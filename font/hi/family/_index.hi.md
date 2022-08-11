@@ -7,7 +7,7 @@ metakeywords: फ़ॉन्ट एपीआई, फ़ॉन्ट संप�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="किसी भी प्लेटफ़ॉर्म पर विभिन्न फ़ॉन्ट्स को एकीकृत करें" h2="बिना किसी सॉफ्टवेयर निर्भरता के कई फोंट को लोड करने, संपादित करने और सहेजने के लिए नेटिव एपीआई।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://downloads.aspose.com/font/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="किसी भी प्लेटफ़ॉर्म पर विभिन्न फ़ॉन्ट्स को एकीकृत करें" h2="बिना किसी सॉफ्टवेयर निर्भरता के कई फोंट को लोड करने, संपादित करने और सहेजने के लिए नेटिव एपीआई।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font.svg" pfName="Aspose.Font" downloadUrl="https://releases.aspose.com/font/net/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Font High Code APIs शामिल करें" >}}
@@ -31,7 +31,7 @@ metakeywords: फ़ॉन्ट एपीआई, फ़ॉन्ट संप�
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-font" >}}
-{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/font" >}}
+{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://reference.aspose.com/font" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -42,12 +42,12 @@ metakeywords: फ़ॉन्ट एपीआई, फ़ॉन्ट संप�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Font उत्पाद परिवार?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/net" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/net/" pricingInformationLink="https://purchase.aspose.com/pricing/font" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
