@@ -46,7 +46,7 @@ item3: See the example of realisation of the mentioned functionality in cross-pl
 title: C++ code example CFF to TTF conversion
 ---
 
-
-
-
-
+{{<section parameters>}}
+---
+title: CFF TTF WOFF WOFF2
+---
