@@ -37,7 +37,7 @@ item4: Convertissez TYPE1 en WOFF2 à l'aide de la méthode [*SaveToFormat()*](h
 ---
 title: Premiers pas avec l'API de police .NET
 item1: Installez à partir de la ligne de commande en tant que ```nuget install Aspose.Font``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Font```.
-item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/font/net).
+item2: Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://releases.aspose.com/font/net/).
 item3: Voir l'exemple de réalisation de la fonctionnalité mentionnée dans Aspose multiplateforme [convertisseur TYPE1 vers WOFF2](https://products.aspose.app/font/conversion/type1-to-woff2). Accédez à notre référentiel [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) pour obtenir plus d'exemples de code sur l'utilisation de Font API Solution for C# .NET.
 ---
 

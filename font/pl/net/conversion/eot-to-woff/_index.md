@@ -37,7 +37,7 @@ item4: Konwertuj EOT na WOFF za pomocą metody [*SaveToFormat()*](https://refere
 ---
 title: Zacznij korzystać z interfejsu API czcionek .NET
 item1: Zainstaluj z wiersza poleceń jako ```nuget install Aspose.Font``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Font```.
-item2: Alternatywnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://downloads.aspose.com/font/net).
+item2: Alternatywnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/font/net/).
 item3: Zobacz przykład realizacji wspomnianej funkcjonalności w wieloplatformowym Aspose [EOT to WOFF Converter](https://products.aspose.app/font/conversion/eot-to-woff). Przejdź do naszego repozytorium [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples), aby uzyskać więcej przykładów kodu dotyczących pracy z rozwiązaniem API czcionek dla C# .NET.
 ---
 

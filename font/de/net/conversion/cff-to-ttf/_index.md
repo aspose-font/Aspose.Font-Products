@@ -37,7 +37,7 @@ item4: Konvertieren Sie CFF in TTF mit der Methode [*SaveToFormat()*](https://re
 ---
 title: Erste Schritte mit der .NET-Schriftarten-API
 item1: Installieren Sie von der Befehlszeile als ```nuget install Aspose.Font``` oder über die Package Manager Console von Visual Studio mit ```Install-Package Aspose.Font```.
-item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://downloads.aspose.com/font/net) herunterladen.
+item2: Alternativ können Sie das Offline-MSI-Installationsprogramm oder DLLs in einer ZIP-Datei von [downloads](https://releases.aspose.com/font/net/) herunterladen.
 item3: Siehe das Beispiel der Realisierung der genannten Funktionalität im plattformübergreifenden Aspose [CFF to TTF Converter](https://products.aspose.app/font/conversion/cff-to-ttf). Rufen Sie unser [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples)-Repository auf, um weitere Codebeispiele zur Arbeit mit Font API Solution for C# zu erhalten.NET.
 ---
 

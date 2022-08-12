@@ -37,7 +37,7 @@ item4: Converta TYPE1 para WOFF usando o método [*SaveToFormat()*](https://refe
 ---
 title: Introdução à API de fontes .NET
 item1: Instale a partir da linha de comando como ```nuget install Aspose.Font``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Font```.
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/font/net).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/font/net/).
 item3: Veja o exemplo de realização da funcionalidade mencionada no Aspose multiplataforma [TYPE1 to WOFF Converter](https://products.aspose.app/font/conversion/type1-to-woff). Acesse nosso repositório [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) para obter mais exemplos de código sobre como trabalhar com a Font API Solution for C# .NET.
 ---
 

@@ -37,7 +37,7 @@ item4: Converti WOFF in WOFF2 usando il metodo [*SaveToFormat()*](https://refere
 ---
 title: Inizia con l'API dei caratteri .NET
 item1: Installa dalla riga di comando come ```nuget install Aspose.Font``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.Font```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/font/net).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/font/net/).
 item3: Vedere l'esempio di realizzazione della funzionalità menzionata in Aspose  multipiattaforma [convertitore da WOFF a WOFF2](https://products.aspose.app/font/conversion/woff-to-woff2). Vai al nostro repository [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) per ottenere altri esempi di codice su come lavorare con Font API Solution for C# .NET.
 ---
 

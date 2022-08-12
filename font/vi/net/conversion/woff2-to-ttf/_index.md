@@ -39,7 +39,7 @@ item4: Chuyển đổi WOFF2 sang TTF bằng phương pháp [*SaveToFormat()*](h
 ---
 title: Bắt đầu với .NET Font API
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.Font '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Font ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/font/net).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/font/net/).
 item3: 'Xem ví dụ về hiện thực hóa chức năng được đề cập trong Aspose đa nền tảng [WOFF2 to TTF Converter](https://products.aspose.app/font/conversion/woff2-to-ttf). Truy cập kho lưu trữ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) của chúng tôi để nhận thêm các ví dụ mã về cách làm việc với Giải pháp API Phông chữ cho C #.NET.'
 ---
 

@@ -37,7 +37,7 @@ item4: Konvertera TYPE1 till TTF med metoden [*SaveToFormat()*](https://referenc
 ---
 title: Kom igång med .NET Font API
 item1: Installera från kommandoraden som ```nuget install Aspose.Font``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Font```.
-item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://downloads.aspose.com/font/net).
+item2: Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [downloads](https://releases.aspose.com/font/net/).
 item3: Se exemplet på realisering av nämnda funktionalitet i plattformsoberoende Aspose [TYPE1 to TTF Converter](https://products.aspose.app/font/conversion/type1-to-ttf). Gå till vårt [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) arkiv för att få fler kodexempel på hur du arbetar med Font API Solution för C#.NET.
 ---
 

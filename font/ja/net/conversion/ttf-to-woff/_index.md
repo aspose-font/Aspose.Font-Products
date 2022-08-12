@@ -37,7 +37,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/fon
 ---
 title: .NET フォント API を使ってみる
 item1: コマンド ラインから ```nuget install Aspose.Font``` としてインストールするか、Visual Studio のパッケージ マネージャー コンソール経由で ```Install-Package Aspose.Font``` を使用してインストールします。
-item2: または、[ダウンロード](https://downloads.aspose.com/font/net) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
+item2: または、[ダウンロード](https://releases.aspose.com/font/net/) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで入手します。
 item3: クロスプラットフォームの Aspose [TTF to WOFF Converter](https://products.aspose.app/font/conversion/ttf-to-woff) で言及された機能を実現する例を参照してください。 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) リポジトリにアクセスして、C# 用の Font API ソリューションの使用方法に関するコード例をさらに入手してください.NET。
 ---
 

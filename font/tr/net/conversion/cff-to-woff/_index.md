@@ -37,7 +37,7 @@ item4: "[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/fon
 ---
 title: .NET Yazı Tipi API'sini Kullanmaya Başlayın
 item1: Komut satırından ```nuget install Aspose.Font``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.Font`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/font/net) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/font/net/) adresinden bir ZIP dosyasında alın.
 item3: Platformlar arası Aspose [CFF to WOFF Converter](https://products.aspose.app/font/conversion/cff-to-woff)'da bahsedilen işlevselliğin gerçekleştirilmesine ilişkin örneğe bakın. C# için Font API Çözümü ile nasıl çalışılacağına ilişkin daha fazla kod örneği almak için [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) depomuza gidin.NET.
 ---
 
