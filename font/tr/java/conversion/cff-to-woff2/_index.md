@@ -38,7 +38,7 @@ item4: "[*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.fon
 title: Dönüşüm Gereksinimleri
 item1: "CFF'den WOFF2'ye dönüştürmeye devam etmek için Java Yazı Tipi API'si ana gereksinimdir."
 item2: "Java tabanlı proje için doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font)'den Font API'sini alın ve kitaplıkları pom.xml'niz."
-item3: "Alternatif olarak, [indirilenler](https://downloads.aspose.com/font/java) adresinden bir ZIP dosyası alabilirsiniz."
+item3: "Alternatif olarak, [indirilenler](https://releases.aspose.com/font/java/) adresinden bir ZIP dosyası alabilirsiniz."
 item4: Platformlar arası Aspose [CFF to WOFF2 Converter](https://products.aspose.app/font/conversion/cff-to-woff2)'de bahsedilen işlevselliği gerçekleştirme örneğine bakın. Java için Font API Çözümü ile nasıl çalışılacağına ilişkin daha fazla kod örneği almak için [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) depomuza gidin.
 ---
 

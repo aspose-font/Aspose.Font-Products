@@ -38,7 +38,7 @@ item4: Преобразуйте EOT в WOFF2 с помощью метода [*Sa
 ---
 title: Начало работы с API шрифтов .NET
 item1: Установите из командной строки как ```nuget install Aspose.Font``` или через консоль диспетчера пакетов Visual Studio с ```Install-Package Aspose.Font```.
-item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/font/net).
+item2: Кроме того, вы можете получить автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://releases.aspose.com/font/net/).
 item3: См. пример реализации указанной функциональности в кроссплатформенном Aspose [Конвертер EOT в WOFF2](https://products.aspose.app/font/conversion/eot-to-woff2). Перейдите в наш репозиторий [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples), чтобы получить дополнительные примеры кода о том, как работать с Font API Solution для C#.NET.
 ---
 

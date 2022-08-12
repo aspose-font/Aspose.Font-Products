@@ -37,7 +37,7 @@ item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.fo
 ---
 title: .NET 字体 API 入门
 item1: 从命令行安装为 ```nuget install Aspose.Font``` 或通过 Visual Studio 的 Package Manager Console 使用 ``Install-Package Aspose.Font``` 安装。
-item2: 或者，从 [下载](https://downloads.aspose.com/font/net) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
+item2: 或者，从 [下载](https://releases.aspose.com/font/net/) 获取 ZIP 文件中的离线 MSI 安装程序或 DLL。
 item3: 参见跨平台 Aspose [EOT to WOFF Converter](https://products.aspose.app/font/conversion/eot-to-woff) 中上述功能的实现示例。转到我们的 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) 存储库，获取更多关于如何使用 C# 字体 API 解决方案的代码示例.NET。
 ---
 

@@ -20,7 +20,7 @@ h2: Font format converter API for .NET. Convert WOFF2, TTF, EOT, and CFF fonts.
 ---
 p1: .NET font API can easily load, save and convert different fonts such as CFF, OpenType, Type1, and TrueType collections. It provides font data structure along with any glyph as well as encoding information for all the font types representing a mapping between character codes and glyph identifiers. API can render any desired glyph or text, as well as special glyphs, which can be rendered by implementing interfaces using simple graphics functionality like move point, draw line, and curve, etc.
 p2: "Due to the diverse nature of gadgets, environments, a few operational systems, and many other areas to use different font formats to serve different purposes such as using different fonts on web pages, applications, and publishing. Sometimes there is a need to transform one font into another to meet the required display. "
-p3: "The solution here supports the next fonts as output formats: TrueType (TTF), Web Open Font Format (WOFF and WOFF2), Embedded OpenType format (EOT), Type 1, and Compact Font Format (CFF)."
+p3: "The solution heresupports the next fonts as input formats: TrueType (TTF), Web Open Font Format (WOFF and WOFF2), Embedded OpenType format (EOT), Type 1, and Compact Font Format (CFF)."
 ---
 
 {{<section feature1>}}

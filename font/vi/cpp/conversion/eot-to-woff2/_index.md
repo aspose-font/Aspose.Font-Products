@@ -37,7 +37,7 @@ item4: Chuyển đổi EOT thành WOFF2 bằng phương thức [*SaveToFormat()*
 ---
 title: Bắt đầu với API phông chữ C ++
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.Font.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Font.Cpp ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/font/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/font/cpp/).
 item3: Xem ví dụ về việc thực hiện chức năng được đề cập trong Aspose đa nền tảng [EOT to WOFF2 Converter](https://products.aspose.app/font/conversion/eot-to-woff2). Truy cập kho lưu trữ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) của chúng tôi để nhận thêm các ví dụ mã về cách làm việc với Giải pháp Font API cho C ++.
 ---
 

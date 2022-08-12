@@ -37,7 +37,7 @@ item4: Konwertuj TYPE1 na WOFF2 za pomocą metody [*SaveToFormat()*](https://ref
 ---
 title: Zacznij korzystać z interfejsu API czcionek .NET
 item1: Zainstaluj z wiersza poleceń jako ```nuget install Aspose.Font``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Font```.
-item2: Alternatywnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://downloads.aspose.com/font/net).
+item2: Alternatywnie pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP ze strony [downloads](https://releases.aspose.com/font/net/).
 item3: Zobacz przykład realizacji wspomnianej funkcjonalności w wieloplatformowym Aspose [TYPE1 to WOFF2 Converter](https://products.aspose.app/font/conversion/type1-to-woff2). Przejdź do naszego repozytorium [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples), aby uzyskać więcej przykładów kodu dotyczących pracy z rozwiązaniem API czcionek dla C# .NET.
 ---
 

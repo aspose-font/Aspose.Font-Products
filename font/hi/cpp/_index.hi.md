@@ -7,12 +7,12 @@ metakeywords: सी ++ फ़ॉन्ट, फ़ॉन्ट समाधा�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="सी ++ फ़ॉन्ट मैनिपुलेशन लाइब्रेरी" h2="C++ आधारित एप्लिकेशन के भीतर ट्रू टाइप, WOFF, EOT, OpenType, CFF, और Type1 जैसे विभिन्न फ़ॉन्ट्स को लोड, ड्रा और सेव करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" tryOnlineUrl="https://products.aspose.app/font/family" 
+{{< blocks/products/pf/i18n/upper-banner h1="सी ++ फ़ॉन्ट मैनिपुलेशन लाइब्रेरी" h2="C++ आधारित एप्लिकेशन के भीतर ट्रू टाइप, WOFF, EOT, OpenType, CFF, और Type1 जैसे विभिन्न फ़ॉन्ट्स को लोड, ड्रा और सेव करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/font/cpp/" tryOnlineUrl="https://products.aspose.app/font/family" 
  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -406,7 +406,7 @@ metakeywords: सी ++ फ़ॉन्ट, फ़ॉन्ट समाधा�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -418,7 +418,7 @@ metakeywords: सी ++ फ़ॉन्ट, फ़ॉन्ट समाधा�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.font नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए व्यक्तिगत फ़ॉन्ट प्रबंधन API प्रदान करता है:" >}}
 

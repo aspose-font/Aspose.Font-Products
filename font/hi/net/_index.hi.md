@@ -382,7 +382,7 @@ Aspose.Font for .NET विभिन्न फ़ॉन्ट फ़ाइलो
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -38,7 +38,7 @@ item4: Convertir CFF en WOFF2 en utilisant [*SaveToFormat()*](https://reference.
 title: Exigences de conversion
 item1: "Pour procéder à la conversion CFF en WOFF2, Java Font API est la principale exigence."
 item2: "Obtenez l'API de police directement à partir d'un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) pour un projet basé sur Java et incluez des bibliothèques dans votre pom.xml."
-item3: "Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://downloads.aspose.com/font/java)."
+item3: "Vous pouvez également obtenir un fichier ZIP à partir de [downloads](https://releases.aspose.com/font/java/)."
 item4: Voir l'exemple de réalisation de la fonctionnalité mentionnée dans Aspose multiplateforme [CFF to WOFF2 Converter](https://products.aspose.app/font/conversion/cff-to-woff2). Accédez à notre référentiel [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) pour obtenir plus d'exemples de code sur l'utilisation de Font API Solution for Java.
 ---
 

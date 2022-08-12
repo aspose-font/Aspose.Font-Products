@@ -37,7 +37,7 @@ item4: "[*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.fo
 ---
 title: C++ Yazı Tipi API'sini Kullanmaya Başlayın
 item1: Komut satırından ```nuget install Aspose.Font.Cpp``` veya Visual Studio'nun Paket Yönetici Konsolu üzerinden ```Install-Package Aspose.Font.Cpp`` ile kurun.
-item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://downloads.aspose.com/font/cpp) adresinden bir ZIP dosyasında alın.
+item2: Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri [indirilenler](https://releases.aspose.com/font/cpp/) adresinden bir ZIP dosyasında alın.
 item3: Bahsedilen işlevselliğin platformlar arası Aspose [EOT to WOFF Converter](https://products.aspose.app/font/conversion/eot-to-woff) uygulamasında gerçekleştirilmesi örneğine bakın. C++ için Font API Çözümü ile nasıl çalışılacağı hakkında daha fazla kod örneği almak için [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) depomuza gidin.
 ---
 

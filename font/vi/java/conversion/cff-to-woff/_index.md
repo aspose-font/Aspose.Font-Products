@@ -38,7 +38,7 @@ item4: Chuyển đổi CFF thành WOFF bằng  [*SaveToFormat()*](https://refere
 title: Yêu cầu chuyển đổi
 item1: "Để tiến hành chuyển đổi CFF sang WOFF, API Phông chữ Java là yêu cầu chính."
 item2: "Nhận Font API trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) cho dự án dựa trên Java và bao gồm các thư viện trong pom.xml của bạn."
-item3: "Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://downloads.aspose.com/font/java)."
+item3: "Ngoài ra, bạn có thể tải tệp ZIP từ [tải xuống](https://releases.aspose.com/font/java/)."
 item4: Xem ví dụ về việc thực hiện chức năng được đề cập trong Aspose đa nền tảng [Bộ chuyển đổi CFF sang WOFF](https://products.aspose.app/font/conversion/cff-to-woff). Truy cập kho lưu trữ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) của chúng tôi để nhận thêm các ví dụ mã về cách làm việc với Giải pháp API Phông chữ cho Java.
 ---
 

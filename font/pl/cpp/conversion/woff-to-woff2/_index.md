@@ -37,7 +37,7 @@ item4: Konwertuj WOFF na WOFF2 przy użyciu metody [*SaveToFormat()*](https://re
 ---
 title: Zacznij korzystać z C++ Font API
 item1: Zainstaluj z wiersza poleceń jako ```nuget install Aspose.Font.Cpp``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Font.Cpp```.
-item2: Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze strony [downloads](https://downloads.aspose.com/font/cpp).
+item2: Możesz też pobrać instalator MSI lub biblioteki DLL offline w pliku ZIP ze strony [downloads](https://releases.aspose.com/font/cpp/).
 item3: Zobacz przykład realizacji wspomnianej funkcjonalności w wieloplatformowym Aspose [WOFF to WOFF2 Converter](https://products.aspose.app/font/conversion/woff-to-woff2). Przejdź do naszego repozytorium [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples), aby uzyskać więcej przykładów kodu dotyczących pracy z rozwiązaniem API czcionek dla C++.
 ---
 

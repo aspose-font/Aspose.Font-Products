@@ -7,12 +7,12 @@ metakeywords: fonte c++, soluções de fonte c++, soluções de fonte cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Biblioteca de manipulação de fontes C++" h2="Carregue, desenhe e salve diferentes fontes, como TrueType, WOFF, EOT, OpenType, CFF e Type1 em aplicativos baseados em C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" tryOnlineUrl="https://products.aspose.app/font/family" 
+{{< blocks/products/pf/i18n/upper-banner h1="Biblioteca de manipulação de fontes C++" h2="Carregue, desenhe e salve diferentes fontes, como TrueType, WOFF, EOT, OpenType, CFF e Type1 em aplicativos baseados em C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/font/cpp/" tryOnlineUrl="https://products.aspose.app/font/family" 
  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -406,7 +406,7 @@ Trabalhar com fontes é uma parte importante do desenvolvimento de interface, de
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -418,7 +418,7 @@ Trabalhar com fontes é uma parte importante do desenvolvimento de interface, de
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="O Aspose.font oferece APIs de gerenciamento de fontes individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 

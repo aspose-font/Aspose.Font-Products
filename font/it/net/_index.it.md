@@ -382,7 +382,7 @@ Aspose.Font per .NET è una libreria flessibile e facile da usare per lavorare c
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}

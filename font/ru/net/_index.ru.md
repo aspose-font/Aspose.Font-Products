@@ -382,7 +382,7 @@ Aspose.Font for .NET — это гибкая и простая в использ
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -39,7 +39,7 @@ item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.fo
 ---
 title: .NET 字體 API 入門
 item1: 從命令行安裝為 ```nuget install Aspose.Font``` 或通過 Visual Studio 的 Package Manager Console 使用 ``Install-Package Aspose.Font``` 安裝。
-item2: 或者，從 [下載](https://downloads.aspose.com/font/net) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/font/net/) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 item3: 參見跨平台 Aspose [WOFF2 to TTF Converter](https://products.aspose.app/font/conversion/woff2-to-ttf)中上述功能的實現示例。轉到我們的 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) 存儲庫，獲取更多關於如何使用 C# 字體 API 解決方案的代碼示例.NET。
 ---
 

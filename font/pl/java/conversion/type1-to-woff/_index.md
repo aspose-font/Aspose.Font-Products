@@ -39,7 +39,7 @@ item4: Konwertuj TYPE1 na WOFF za pomocą [*SaveToFormat()*](https://reference.a
 title: Wymagania dotyczące konwersji
 item1: "Aby przejść do konwersji TYPE1 do WOFF, głównym wymaganiem jest Java Font API."
 item2: "Pobierz Font API bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) dla projektu opartego na Javie i dołącz biblioteki do Twój plik pom.xml."
-item3: "Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://downloads.aspose.com/font/java)."
+item3: "Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/font/java/)."
 item4: Zobacz przykład realizacji wspomnianej funkcjonalności w wieloplatformowym Aspose [TYPE1 to WOFF Converter](https://products.aspose.app/font/conversion/type1-to-woff). Przejdź do naszego repozytorium [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples), aby uzyskać więcej przykładów kodu dotyczących pracy z rozwiązaniem Font API dla języka Java.
 ---
 

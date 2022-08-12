@@ -39,7 +39,7 @@ item4: Converti EOT in WOFF usando [*SaveToFormat()*](https://reference.aspose.c
 title: Requisiti di conversione
 item1: "Per procedere con la conversione da EOT a WOFF, Java Font API è il requisito principale."
 item2: "Ottieni l'API Font direttamente da un progetto basato su [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) per Java e includi le librerie in il tuo pom.xml."
-item3: "In alternativa, puoi ottenere un file ZIP da [downloads](https://downloads.aspose.com/font/java)."
+item3: "In alternativa, puoi ottenere un file ZIP da [downloads](https://releases.aspose.com/font/java/)."
 item4: Vedi l'esempio di realizzazione della funzionalità menzionata in Aspose [Convertitore da EOT a WOFF] multipiattaforma (https://products.aspose.app/font/conversion/eot-to-woff). Vai al nostro repository [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) per ottenere più esempi di codice su come lavorare con Font API Solution for Java.
 ---
 

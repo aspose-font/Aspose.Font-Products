@@ -39,7 +39,7 @@ item4: Převeďte TTF na WOFF pomocí metody [*SaveToFormat()*](https://referenc
 ---
 title: Začněte s rozhraním .NET Font API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.Font``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Font```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/font/net).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/font/net/).
 item3: Podívejte se na příklad realizace zmíněné funkcionality v crossplatformním Aspose [TTF to WOFF Converter](https://products.aspose.app/font/conversion/ttf-to-woff). Přejděte do našeho úložiště [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples), kde získáte další příklady kódu, jak pracovat s Font API Solution pro C#.NET.
 ---
 

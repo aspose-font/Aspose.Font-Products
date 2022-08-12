@@ -7,11 +7,11 @@ metakeywords: шрифт java, шрифты для кодирования java, 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java API для управления шрифтами" h2="Загружайте, редактируйте, конвертируйте и сохраняйте шрифты, включая TrueType, CFF, OpenType и Type1, в приложениях на основе Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" tryOnlineUrl="https://products.aspose.app/font/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java API для управления шрифтами" h2="Загружайте, редактируйте, конвертируйте и сохраняйте шрифты, включая TrueType, CFF, OpenType и Type1, в приложениях на основе Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/font/java/" tryOnlineUrl="https://products.aspose.app/font/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -386,7 +386,7 @@ metakeywords: шрифт java, шрифты для кодирования java, 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -398,7 +398,7 @@ metakeywords: шрифт java, шрифты для кодирования java, 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/java" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/java/" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font предлагает отдельные API-интерфейсы обработки шрифтов для других популярных сред разработки, перечисленных ниже:" >}}
 

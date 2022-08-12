@@ -37,7 +37,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.fo
 ---
 title: C++ フォント API を使ってみる
 item1: コマンド ラインから ```nuget install Aspose.Font.Cpp``` としてインストールするか、Visual Studio のパッケージ マネージャー コンソール経由で ```Install-Package Aspose.Font.Cpp``` を使用してインストールします。
-item2: または、[ダウンロード](https://downloads.aspose.com/font/cpp) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで取得します。
+item2: または、[ダウンロード](https://releases.aspose.com/font/cpp/) からオフライン MSI インストーラーまたは DLL を ZIP ファイルで取得します。
 item3: クロスプラットフォームの Aspose [WOFF to TTF Converter](https://products.aspose.app/font/conversion/woff-to-ttf) で前述の機能を実現した例を参照してください。 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) リポジトリに移動して、C++ 用の Font API ソリューションの使用方法に関するコード例をさらに入手してください。
 ---
 

@@ -7,11 +7,11 @@ metakeywords: 字体java，java编码字体，java字体库
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用于操作字体的 Java API" h2="在基于 Java 的应用程序中加载、编辑、转换和保存字体，包括 TrueType、CFF、OpenType 和 Type1。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" tryOnlineUrl="https://products.aspose.app/font/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用于操作字体的 Java API" h2="在基于 Java 的应用程序中加载、编辑、转换和保存字体，包括 TrueType、CFF、OpenType 和 Type1。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/font/java/" tryOnlineUrl="https://products.aspose.app/font/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -386,7 +386,7 @@ metakeywords: 字体java，java编码字体，java字体库
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -398,7 +398,7 @@ metakeywords: 字体java，java编码字体，java字体库
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/java" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/java/" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font 为其他流行的开发环境提供单独的字体处理 API，如下所示：" >}}
 

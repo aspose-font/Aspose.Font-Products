@@ -7,11 +7,11 @@ metakeywords: fuente java, fuentes de codificación java, biblioteca de fuentes 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de Java para manipular fuentes" h2="Cargue, edite, convierta y guarde fuentes, incluidas TrueType, CFF, OpenType y Type1 en aplicaciones basadas en Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/font/java" tryOnlineUrl="https://products.aspose.app/font/family" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de Java para manipular fuentes" h2="Cargue, edite, convierta y guarde fuentes, incluidas TrueType, CFF, OpenType y Type1 en aplicaciones basadas en Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-java.svg" pfName="Aspose.Font" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/font/java/" tryOnlineUrl="https://products.aspose.app/font/family" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://downloads.aspose.com/font/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -386,7 +386,7 @@ Trabajar con fuentes es una parte importante del desarrollo, el diseño o la tip
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Soporte de producto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Soporte pagado" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -398,7 +398,7 @@ Trabajar con fuentes es una parte importante del desarrollo, el diseño o la tip
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/java" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/java/" pricingInformationLink="https://purchase.aspose.com/pricing/font/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.Font ofrece API de procesamiento de fuentes individuales para otros entornos de desarrollo populares, como se indica a continuación:" >}}
 

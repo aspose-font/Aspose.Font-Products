@@ -7,12 +7,12 @@ metakeywords: c++ 字體，字體解決方案 c++，字體解決方案 cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ 字體操作庫" h2="在基於 C++ 的應用程序中加載、繪製和保存不同的字體，例如 TrueType、WOFF、EOT、OpenType、CFF 和 Type1。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/font/cpp" tryOnlineUrl="https://products.aspose.app/font/family" 
+{{< blocks/products/pf/i18n/upper-banner h1="C++ 字體操作庫" h2="在基於 C++ 的應用程序中加載、繪製和保存不同的字體，例如 TrueType、WOFF、EOT、OpenType、CFF 和 Type1。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/font/cpp/" tryOnlineUrl="https://products.aspose.app/font/family" 
  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/font/cpp" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -406,7 +406,7 @@ metakeywords: c++ 字體，字體解決方案 c++，字體解決方案 cpp
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -418,7 +418,7 @@ metakeywords: c++ 字體，字體解決方案 c++，字體解決方案 cpp
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/font/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/font/cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/font/cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Font" description="Aspose.font 為其他流行的開發環境提供單獨的字體管理 API，如下所示：" >}}
 

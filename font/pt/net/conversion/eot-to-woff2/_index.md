@@ -38,7 +38,7 @@ item4: Converta EOT para WOFF2 usando o método [*SaveToFormat()*](https://refer
 ---
 title: Introdução à API de fontes .NET
 item1: Instale a partir da linha de comando como ```nuget install Aspose.Font``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Font```.
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/font/net).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/font/net/).
 item3: Veja o exemplo de realização da funcionalidade mencionada no Aspose multiplataforma [EOT to WOFF2 Converter](https://products.aspose.app/font/conversion/eot-to-woff2). Acesse nosso repositório [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) para obter mais exemplos de código sobre como trabalhar com a Font API Solution for C# .NET.
 ---
 

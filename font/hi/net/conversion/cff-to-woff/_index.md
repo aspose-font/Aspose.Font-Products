@@ -37,7 +37,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/net/aspose.font/fon
 ---
 title: .NET फ़ॉन्ट एपीआई के साथ आरंभ करें
 item1: कमांड लाइन से ```nuget install Aspose.Font``` के रूप में या ````Install-Package Aspose.Font``` के साथ विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से इंस्टॉल करें।
-item2: वैकल्पिक रूप से, [डाउनलोड](https://downloads.aspose.com/font/net) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
+item2: वैकल्पिक रूप से, [डाउनलोड](https://releases.aspose.com/font/net/) से ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें।
 item3: क्रॉस-प्लेटफ़ॉर्म Aspose [CFF to WOFF Converter](https://products.aspose.app/font/conversion/cff-to-woff) में उल्लिखित कार्यक्षमता की प्राप्ति का उदाहरण देखें। C# के लिए Font API सॉल्यूशन के साथ काम करने के तरीके के बारे में अधिक कोड उदाहरण प्राप्त करने के लिए हमारे [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) रिपॉजिटरी पर जाएं.NET।
 ---
 

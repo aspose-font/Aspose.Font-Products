@@ -39,7 +39,7 @@ item4: แปลง TYPE1 เป็น WOFF โดยใช้ [*SaveToFormat()*
 title: ข้อกำหนดการแปลง
 item1: "ในการดำเนินการแปลง TYPE1 เป็น WOFF Java Font API เป็นข้อกำหนดหลัก"
 item2: "รับ Font API โดยตรงจาก [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) สำหรับโปรเจ็กต์ที่ใช้ Java และรวมไลบรารีใน pom.xml ของคุณ"
-item3: "หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/font/java)"
+item3: "หรือคุณสามารถรับไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/font/java/)"
 item4: ดูตัวอย่างการใช้งานฟังก์ชันดังกล่าวใน Aspose ข้ามแพลตฟอร์ม [ตัวแปลง TYPE1 เป็น WOFF](https://products.aspose.app/font/conversion/type1-to-woff) ไปที่ที่เก็บ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) ของเราเพื่อรับตัวอย่างโค้ดเพิ่มเติมเกี่ยวกับวิธีการทำงานกับ Font API Solution สำหรับ Java
 ---
 

@@ -37,7 +37,7 @@ item4: แปลง EOT เป็น TTF โดยใช้วิธีการ
 ---
 title: เริ่มต้นใช้งาน .NET Font API
 item1: ติดตั้งจากบรรทัดคำสั่งเป็น ```nuget install Aspose.Font``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Font```
-item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/font/net)
+item2: หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://releases.aspose.com/font/net/)
 item3: ดูตัวอย่างการใช้งานฟังก์ชันดังกล่าวใน Aspose ข้ามแพลตฟอร์ม [EOT to TTF Converter](https://products.aspose.app/font/conversion/eot-to-ttf) ไปที่ที่เก็บ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) ของเราเพื่อรับตัวอย่างโค้ดเพิ่มเติมเกี่ยวกับวิธีการทำงานกับ Font API Solution สำหรับ C# .NET.
 ---
 

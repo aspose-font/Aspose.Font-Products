@@ -38,7 +38,7 @@ item4: Konvertálja a CFF-t WOFF2-re a [*SaveToFormat()*](https://reference.aspo
 ---
 title: Ismerkedjen meg a .NET Font API-val
 item1: Telepítés parancssorból ```nuget install Aspose.Font```ként, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Font``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://downloads.aspose.com/font/net).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a  webhelyről [downloads](https://releases.aspose.com/font/net/).
 item3: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose programban [CFF to WOFF2 Converter](https://products.aspose.app/font/conversion/cff-to-woff2). Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) tárházába, ahol további kódpéldákat talál a Font API-megoldás C#-hoz használatára vonatkozóan. HÁLÓ.
 ---
 

@@ -382,7 +382,7 @@ Az Aspose.Font for .NET egy rugalmas és könnyen használható könyvtár a kü
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}

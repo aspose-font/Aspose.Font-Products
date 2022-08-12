@@ -37,7 +37,7 @@ item4: Converta WOFF para TTF usando o método [*SaveToFormat()*](https://refere
 ---
 title: Introdução à API de fontes .NET
 item1: Instale a partir da linha de comando como ```nuget install Aspose.Font``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Font```.
-item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://downloads.aspose.com/font/net).
+item2: Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP em [downloads](https://releases.aspose.com/font/net/).
 item3: Veja o exemplo de realização da funcionalidade mencionada no Aspose multiplataforma [WOFF to TTF Converter](https://products.aspose.app/font/conversion/woff-to-ttf). Acesse nosso repositório [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/net-examples) para obter mais exemplos de código sobre como trabalhar com a Font API Solution for C# .NET.
 ---
 
