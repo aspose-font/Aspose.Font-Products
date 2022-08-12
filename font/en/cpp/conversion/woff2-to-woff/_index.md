@@ -45,8 +45,3 @@ item3: See the example of realisation of the mentioned functionality in cross-pl
 ---
 title: C++ code example WOFF2 to WOFF conversion
 ---
-
-{{<section parameters>}}
----
-title: WOFF2 WOFF TTF
----
