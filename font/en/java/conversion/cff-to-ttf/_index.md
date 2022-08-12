@@ -38,7 +38,7 @@ item4: Convert CFF to TTF using [*SaveToFormat()*](https://reference.aspose.com/
 title: Conversion Requirements
 item1: "To proceed for CFF to TTF conversion, Java Font API is the main requirement."
 item2: "Get Font API directly from a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) for Java based project and include libraries in your pom.xml."
-item3: "Alternatively, you can get a ZIP file from [downloads](https://downloads.aspose.com/font/java)."
+item3: "Alternatively, you can get a ZIP file from [downloads](https://releases.aspose.com/font/java/)."
 item4: See the example of realisation of the mentioned functionality in cross-platform Aspose [CFF to TTF Converter](https://products.aspose.app/font/conversion/cff-to-ttf). Go to our [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) repository to get more code examples on how to work with Font API Solution for Java.
 ---
 

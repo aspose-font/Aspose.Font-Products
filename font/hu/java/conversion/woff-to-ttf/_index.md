@@ -38,7 +38,7 @@ item4: Konvertálja a WOFF-ot TTF-re a [*SaveToFormat()*](https://reference.aspo
 title: Konverziós követelmények
 item1: "A WOFF-tól TTF-re konvertáláshoz a Java Font API a fő követelmény."
 item2: "Szerezze be a Font API-t közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font)-ből  Java alapú projektekhez, és vegyen fel könyvtárakat a a pom.xml."
-item3: "Alternatív megoldásként beszerezhet egy ZIP-fájlt a  webhelyről [downloads](https://downloads.aspose.com/font/java)."
+item3: "Alternatív megoldásként beszerezhet egy ZIP-fájlt a  webhelyről [downloads](https://releases.aspose.com/font/java/)."
 item4: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose programban [WOFF to TTF Converter](https://products.aspose.app/font/conversion/woff-to-ttf). Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) tárhelyünkre, ahol további kódpéldákat talál a Font API for Java használatára vonatkozóan.
 ---
 

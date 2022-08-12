@@ -40,7 +40,7 @@ item4: Konvertera EOT till WOFF2 med [*SaveToFormat()*](https://reference.aspose
 title: Konverteringskrav
 item1: "För att fortsätta för konvertering från EOT till WOFF2 är Java Font API huvudkravet."
 item2: "Skaffa Font API direkt från ett [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) för Java-baserat projekt och inkludera bibliotek i din pom.xml."
-item3: "Alternativt kan du hämta en ZIP-fil från [downloads](https://downloads.aspose.com/font/java)."
+item3: "Alternativt kan du hämta en ZIP-fil från [downloads](https://releases.aspose.com/font/java/)."
 item4: Se exemplet på realisering av nämnda funktionalitet i plattformsoberoende Aspose [EOT to WOFF2 Converter](https://products.aspose.app/font/conversion/eot-to-woff2). Gå till vårt [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) arkiv för att få fler kodexempel om hur du arbetar med Font API Solution för Java.
 ---
 

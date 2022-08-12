@@ -37,7 +37,7 @@ item4: Konvertálja a TYPE1-et WOFF2-re a [*SaveToFormat()*](https://reference.a
 ---
 title: Kezdje el a C++ Font API-t
 item1: Telepítés parancssorból ```nuget install Aspose.Font.Cpp```ként, vagy a Visual Studio csomagkezelő konzolján keresztül az ```Install-Package Aspose.Font.Cpp``` paranccsal.
-item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről  [downloads](https://downloads.aspose.com/font/cpp).
+item2: Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban a webhelyről  [downloads](https://releases.aspose.com/font/cpp/).
 item3: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose -ben [TYPE1 to WOFF2 Converter](https://products.aspose.app/font/conversion/typeq-to-woff2). Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) tárházába, ahol további kódpéldákat kaphat a Font API megoldással a C++-hoz.
 ---
 

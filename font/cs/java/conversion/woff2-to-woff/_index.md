@@ -38,7 +38,7 @@ item4: Převeďte WOFF2 na WOFF pomocí [*SaveToFormat()*](https://reference.asp
 title: Požadavky na konverzi
 item1: "Pro převod WOFF2 na WOFF je hlavním požadavkem Java Font API."
 item2: "Získejte Font API přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) pro projekt založený na Javě a zahrňte knihovny do váš pom.xml."
-item3: "Případně můžete získat soubor ZIP z [stažení](https://downloads.aspose.com/font/java)."
+item3: "Případně můžete získat soubor ZIP z [stažení](https://releases.aspose.com/font/java/)."
 item4: Podívejte se na příklad realizace zmíněné funkcionality v crossplatformním Aspose [WOFF2 to WOFF Converter](https://products.aspose.app/font/conversion/woff2-to-woff). Přejděte do našeho úložiště [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples), kde najdete další příklady kódu, jak pracovat s Font API Solution for Java.
 ---
 

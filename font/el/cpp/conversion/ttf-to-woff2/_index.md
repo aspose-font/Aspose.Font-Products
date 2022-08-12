@@ -37,7 +37,7 @@ item4: Μετατροπή TTF σε WOFF2 χρησιμοποιώντας τη μ�
 ---
 title: Ξεκινήστε με το C++ Font API
 item1: Εγκαταστήστε από τη γραμμή εντολών ως ```nuget install Aspose.Font.Cpp``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.Font.Cpp``.
-item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://downloads.aspose.com/font/cpp).
+item2: Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από το [downloads](https://releases.aspose.com/font/cpp/).
 item3: Δείτε το παράδειγμα υλοποίησης της αναφερόμενης λειτουργικότητας στο Aspose μεταξύ πλατφορμών [TTF to WOFF2 Converter](https://products.aspose.app/font/conversion/ttf-to-woff2). Μεταβείτε στο αποθετήριο [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) για να λάβετε περισσότερα παραδείγματα κώδικα σχετικά με τον τρόπο εργασίας με τη Λύση API γραμματοσειράς για C++.
 ---
 

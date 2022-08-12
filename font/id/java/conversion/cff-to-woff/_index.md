@@ -38,7 +38,7 @@ item4: Konversi CFF ke WOFF menggunakan [*SaveToFormat()*](https://reference.asp
 title: Persyaratan Konversi
 item1: "Untuk melanjutkan konversi CFF ke WOFF, Java Font API adalah persyaratan utama."
 item2: "Dapatkan API Font langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) untuk proyek berbasis Java dan sertakan perpustakaan di pom.xml Anda."
-item3: "Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://downloads.aspose.com/font/java)."
+item3: "Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/font/java/)."
 item4: Lihat contoh realisasi fungsi yang disebutkan di Aspose lintas platform [Konverter CFF ke WOFF](https://products.aspose.app/font/conversion/cff-to-woff). Buka repositori [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) kami untuk mendapatkan lebih banyak contoh kode tentang cara bekerja dengan Solusi Font API untuk Java.
 ---
 

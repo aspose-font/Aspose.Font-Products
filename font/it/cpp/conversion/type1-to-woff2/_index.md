@@ -37,7 +37,7 @@ item4: Converti TYPE1 in WOFF2 usando il metodo [*SaveToFormat()*](https://refer
 ---
 title: Inizia con l'API dei caratteri C++
 item1: Installa dalla riga di comando come ```nuget install Aspose.Font.Cpp``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.Font.Cpp```.
-item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://downloads.aspose.com/font/cpp).
+item2: In alternativa, scarica il programma di installazione MSI offline o le DLL in un file ZIP da [downloads](https://releases.aspose.com/font/cpp/).
 item3: Vedi l'esempio di realizzazione della funzionalità menzionata in Aspose [convertitore da TYPE1 a WOFF2](https://products.aspose.app/font/conversion/typeq-to-woff2) multipiattaforma. Vai al nostro repository [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) per ottenere più esempi di codice su come lavorare con Font API Solution per C++.
 ---
 

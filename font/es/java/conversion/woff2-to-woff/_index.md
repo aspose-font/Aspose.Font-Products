@@ -38,7 +38,7 @@ item4: Convierta WOFF2 a WOFF usando [*SaveToFormat()*](https://reference.aspose
 title: Requisitos de conversión
 item1: "Para proceder a la conversión de WOFF2 a WOFF, el requisito principal es Java Font API."
 item2: "Obtenga la API de fuentes directamente desde un [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) para proyectos basados ​​en Java e incluya bibliotecas en su pom.xml."
-item3: "Como alternativa, puede obtener un archivo ZIP de [descargas](https://downloads.aspose.com/font/java)."
+item3: "Como alternativa, puede obtener un archivo ZIP de [descargas](https://releases.aspose.com/font/java/)."
 item4: Vea el ejemplo de realización de la funcionalidad mencionada en Aspose multiplataforma [WOFF2 to WOFF Converter](https://products.aspose.app/font/conversion/woff2-to-woff). Vaya a nuestro repositorio [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) para obtener más ejemplos de código sobre cómo trabajar con Font API Solution para Java.
 ---
 

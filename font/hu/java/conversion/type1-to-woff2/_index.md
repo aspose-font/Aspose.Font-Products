@@ -38,7 +38,7 @@ item4: A TYPE1 konvertálása WOFF2-re a [*SaveToFormat()*](https://reference.as
 title: Konverziós követelmények
 item1: "A TYPE1-ből WOFF2-be való átalakítás folytatásához a Java Font API a fő követelmény."
 item2: "Szerezze be a Font API-t közvetlenül a [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font)-ből  Java alapú projektekhez, és vegyen fel könyvtárakat a a pom.xml."
-item3: "Alternatív megoldásként beszerezhet egy ZIP-fájlt a  webhelyről [downloads](https://downloads.aspose.com/font/java)."
+item3: "Alternatív megoldásként beszerezhet egy ZIP-fájlt a  webhelyről [downloads](https://releases.aspose.com/font/java/)."
 item4: Tekintse meg az említett funkció megvalósításának példáját a többplatformos Aspose [TYPE1 to WOFF2 Converter](https://products.aspose.app/font/conversion/type1-to-woff2) alkalmazásban. Látogasson el a [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) tárhelyünkre, ahol további kódpéldákat talál a Font API for Java használatára vonatkozóan.
 ---
 

@@ -37,7 +37,7 @@ item4: Převeďte Type 1 na WOFF pomocí metody [*SaveToFormat()*](https://refer
 ---
 title: Začněte s C++ Font API
 item1: Instalujte z příkazového řádku jako ```nuget install Aspose.Font.Cpp``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Font.Cpp```.
-item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://downloads.aspose.com/font/cpp).
+item2: Případně si stáhněte offline instalační program MSI nebo knihovny DLL v souboru ZIP z [stažení](https://releases.aspose.com/font/cpp/).
 item3: Podívejte se na příklad realizace zmíněné funkcionality v crossplatformním Aspose [EOT to WOFF Converter](https://products.aspose.app/font/conversion/type1-to-woff). Přejděte do našeho úložiště [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples), kde najdete další příklady kódu, jak pracovat s Font API Solution pro C++.
 ---
 

@@ -37,7 +37,7 @@ item4: Chuyển đổi WOFF sang TTF bằng phương thức [*SaveToFormat()*](h
 ---
 title: Bắt đầu với API phông chữ C ++
 item1: Cài đặt từ dòng lệnh với tên `` nuget install Aspose.Font.Cpp '' hoặc thông qua Package Manager Console của Visual Studio với `` Install-Package Aspose.Font.Cpp ''.
-item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/font/cpp).
+item2: Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://releases.aspose.com/font/cpp/).
 item3: Xem ví dụ về việc thực hiện chức năng được đề cập trong Aspose đa nền tảng [Bộ chuyển đổi WOFF sang TTF](https://products.aspose.app/font/conversion/woff-to-ttf). Truy cập kho lưu trữ [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) của chúng tôi để nhận thêm các ví dụ mã về cách làm việc với Giải pháp Font API cho C ++.
 ---
 

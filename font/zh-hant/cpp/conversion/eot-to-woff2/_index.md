@@ -37,7 +37,7 @@ item4: 使用 [*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/asp
 ---
 title: 開始使用 C++ 字體 API
 item1: 從命令行安裝為 ```nuget install Aspose.Font.Cpp``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Font.Cpp``。
-item2: 或者，從 [下載](https://downloads.aspose.com/font/cpp) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
+item2: 或者，從 [下載](https://releases.aspose.com/font/cpp/) 獲取 ZIP 文件中的離線 MSI 安裝程序或 DLL。
 item3: 參見跨平台 Aspose [EOT to WOFF2 Converter](https://products.aspose.app/font/conversion/eot-to-woff2) 中上述功能的實現示例。轉到我們的 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) 存儲庫，以獲取有關如何使用 C++ 字體 API 解決方案的更多代碼示例。
 ---
 

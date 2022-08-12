@@ -37,7 +37,7 @@ item4: Convert TTF to WOFF2 using [*SaveToFormat()*](https://reference.aspose.co
 ---
 title: Get Started with C++ Font API
 item1: Install from command line as ```nuget install Aspose.Font.Cpp``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Font.Cpp```.
-item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/font/cpp).
+item2: Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/font/cpp/).
 item3: See the example of realisation of the mentioned functionality in cross-platform Aspose [TTF to WOFF2 Converter](https://products.aspose.app/font/conversion/ttf-to-woff2). Go to our [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) repository to get more code examples on how to work with Font API Solution for C++.
 ---
 

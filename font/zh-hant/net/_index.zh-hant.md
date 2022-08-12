@@ -382,7 +382,7 @@ Aspose.Font for .NET 是一個靈活且易於使用的庫，用於處理不同�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/font" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/font/41" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/font/" >}}
 {{< /blocks/products/pf/slr-tab >}}

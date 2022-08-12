@@ -37,7 +37,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/cpp/class/aspose.fo
 ---
 title: C++ 글꼴 API 시작하기
 item1: 명령줄에서 ```nuget install Aspose.Font.Cpp```로 설치하거나 ```Install-Package Aspose.Font.Cpp```를 사용하여 Visual Studio의 패키지 관리자 콘솔을 통해 설치합니다.
-item2: 또는 [다운로드](https://downloads.aspose.com/font/cpp)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
+item2: 또는 [다운로드](https://releases.aspose.com/font/cpp/)에서 ZIP 파일의 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다.
 item3: 크로스 플랫폼 Aspose [EOT to WOFF Converter](https://products.aspose.app/font/conversion/eot-to-woff)에서 언급된 기능의 구현 예를 참조하십시오. [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/cpp-examples) 리포지토리로 이동하여 C++용 글꼴 API 솔루션을 사용하는 방법에 대한 더 많은 코드 예제를 얻으십시오.
 ---
 
