@@ -6,7 +6,12 @@ url: {{i18n.url}}
 family: font
 platformtag: java
 feature: conversion
+informat: {{i18n.informat}}
+outformat: {{i18n.outformat}}
+otherformats: {{i18n.otherformats}}
 ---
+
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faqchild">}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
@@ -49,6 +54,20 @@ feature: conversion
     // Convert {{input lower}} to {{output lower}}
     font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
 {{< /app/font/converter >}}
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A3">}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

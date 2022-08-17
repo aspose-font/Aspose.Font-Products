@@ -4,10 +4,13 @@ template: /_templates/conversion-child-java.md
 title: API de conversion WOFF2 en TTF | Java
 description: Convertissez WOFF2 en TTF à l'aide de l'API Java sous Windows et Linux. Intégrez cette fonctionnalité native de conversion de police WOFF2 vers TTF dans votre propre solution.
 keywords: woff2 à ttf java api, solution woff22ttf java, woff2 à ttf java
-url: /java/conversion/woff2-to-TTF/
+url: /java/conversion/woff2-to-ttf/
 family: font
 platformtag: java
 feature: conversion
+informat: WOFF
+outformat: TTF
+faq: faqchild
 otherformats: WOFF
 ---
 

@@ -8,6 +8,9 @@ url: /java/conversion/eot-to-woff/
 family: font
 platformtag: java
 feature: conversion
+informat: EOT
+outformat: WOFF
+faq: faqchild
 otherformats: TTF WOFF2
 ---
 

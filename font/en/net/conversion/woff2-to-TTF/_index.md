@@ -10,6 +10,7 @@ platformtag: net
 feature: conversion
 informat: WOFF2
 outformat: TTF
+faq: faqchild
 otherformats: WOFF
 ---
 

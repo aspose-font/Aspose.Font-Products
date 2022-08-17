@@ -1,13 +1,16 @@
 ﻿---
 translation: true
 template: /_templates/conversion-child-cpp.md
-title: Convertir Type 1 en WOFF | C++
+title: Convertir TYPE1 en WOFF | C++
 description: Convertissez les polices Type 1 en WOFF à l'aide de cette API C++. La fonctionnalité de conversion fonctionne sous Windows et Linux, et dans tout environnement de développement prenant en charge C++.
 metakeywords: c++ Type 1 vers WOFF, Type 1 vers WOFF solutions c++, Type 1 vers WOFF font conerter cpp
 url: /cpp/conversion/type1-to-woff/
 family: font    
 platformtag: cpp
 feature: conversion
+informat: TYPE1
+outformat: WOFF
+faq: faqchild
 otherformats: TTF WOFF2
 ---
 

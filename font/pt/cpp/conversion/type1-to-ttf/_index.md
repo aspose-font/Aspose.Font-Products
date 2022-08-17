@@ -8,6 +8,9 @@ url: /cpp/conversion/type1-to-ttf/
 family: font
 platformtag: cpp
 feature: conversion
+informat: TYPE1
+outformat: TTF
+faq: faqchild
 otherformats: WOFF WOFF2
 ---
 

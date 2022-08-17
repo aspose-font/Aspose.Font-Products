@@ -8,6 +8,9 @@ url: /java/conversion/cff-to-woff2/
 family: font
 platformtag: java
 feature: conversion
+informat: CFF
+outformat: WOFF2
+faq: faqchild
 otherformats: TTF WOFF
 ---
 

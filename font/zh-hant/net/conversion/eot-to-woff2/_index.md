@@ -8,6 +8,9 @@ url: /net/conversion/eot-to-woff2/
 family: font
 platformtag: net
 feature: conversion
+informat: EOT
+outformat: WOFF2
+faq: faqchild
 otherformats: TTF WOFF
 ---
 
