@@ -14,9 +14,9 @@ qs[3].name: "هل الوظيفة مجانية؟"
 qs[3].text: "تعد [المحولات عبر الأنظمة الأساسية](https://products.aspose.app/font/conversion) مجانية ، عندما يمكنك الحصول على نسخة تجريبية مجانية من حل واجهة برمجة التطبيقات ثم شراء المنتج إذا لزم الأمر."
 ---
 
-{{<import path="/meta/schemas.md" section="faqchild">}} 
+{{<import path="/meta/schemas.md" section="faq">}} 
 
-{{<section faq>}}
+{{<section faqchild>}}
 ---
 qs[1].name: "هل يمكنني تحويل {{i18n.informat}} إلى {{i18n.outformat}}؟"
 qs[1].text: "يحتوي حل Aspose.Font على وظائف تسمح لك بتحويل الخطوط إلى تنسيقات أخرى عبر الإنترنت أو برمجيًا. إذا كنت تريد تحويل {{i18n.informat}} إلى {{i18n.outformat}} فورًا عبر الإنترنت ، فقد ترغب في استخدام [Font Converter](https://products.aspose.app/font/conversion/) عبر الأنظمة الأساسية طلب."
@@ -26,4 +26,4 @@ qs[3].name: "هل الوظيفة مجانية؟"
 qs[3].text: "تعد [المحولات عبر الأنظمة الأساسية](https://products.aspose.app/font/conversion) مجانية ، عندما يمكنك الحصول على نسخة تجريبية مجانية من حل واجهة برمجة التطبيقات ثم شراء المنتج إذا لزم الأمر."
 ---
 
-{{<import path="/meta/schemas.md" section="faqchild">}} 
+{{<import path="/meta/schemas.md" section="faq">}} 
