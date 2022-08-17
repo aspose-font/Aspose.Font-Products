@@ -40,7 +40,7 @@ otherformats: {{i18n.otherformats}}
 1. {{i18n.feature2.item3}}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{< app/font/converter "{{i18n.feature1.title}}" CFF TTF WOFF WOFF2>}}
+{{< app/font/converter "{{i18n.feature1.title}}" {{i18n.informat}} TTF WOFF WOFF2>}}
     using namespace System;
     using namespace Aspose::Font::Sources;
     using namespace Aspose::Font::Ttf;
