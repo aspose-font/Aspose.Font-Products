@@ -41,7 +41,7 @@ otherformats: {{i18n.otherformats}}
 1. {{i18n.feature2.item4}}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{< app/font/converter "{{i18n.feature1.title}}" CFF WOFF TTF WOFF2 >}}
+{{< app/font/converter "{{i18n.feature1.title}}" {{i18n.informat}} WOFF TTF WOFF2 >}}
     // Open {{input lower}} font
     String fontPath = Paths.get(getDataDir(), "{{inputFile}}").toString();
     FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition({{input lower}}, new FileSystemStreamSource(fontPath)));

@@ -40,7 +40,7 @@ otherformats: {{i18n.otherformats}}
 1. {{i18n.feature2.item3}}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{< app/font/converter "{{i18n.feature1.title}}" CFF TTF WOFF WOFF2>}}
+{{< app/font/converter "{{i18n.feature1.title}}" {{i18n.informat}} TTF WOFF WOFF2>}}
     // Open {{input lower}} font
     string fontPath = Path.Combine(DataDir, "{{inputFile}}");
     FontDefinition fontDefinition = new FontDefinition(FontType.{{input upper}}, new FontFileDefinition(new FileSystemStreamSource(fontPath)));
