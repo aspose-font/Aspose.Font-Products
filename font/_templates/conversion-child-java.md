@@ -10,7 +10,8 @@ informat: {{i18n.informat}}
 outformat: {{i18n.outformat}}
 otherformats: {{i18n.otherformats}}
 ---
-{{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
+
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faqchild">}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
@@ -54,8 +55,6 @@ otherformats: {{i18n.otherformats}}
     font.SaveToFormat(outStream, FontSavingFormats.{{output upper}});
 {{< /app/font/converter >}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
-
 <h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
 
 <b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q1">}}</b>
@@ -69,6 +68,8 @@ otherformats: {{i18n.otherformats}}
 <b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q3">}}</b>
 
 {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A3">}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}

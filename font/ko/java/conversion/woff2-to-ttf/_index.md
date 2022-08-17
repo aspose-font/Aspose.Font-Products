@@ -4,10 +4,13 @@ template: /_templates/conversion-child-java.md
 title: WOFF2 to TTF 변환기 API | 자바
 description: Windows 및 Linux에서 Java API를 사용하여 WOFF2를 TTF로 변환합니다. 이 기본 WOFF2에서 TTF로의 글꼴 변환 기능을 자체 솔루션에 통합하십시오.
 keywords: woff2에서 ttf 자바 API로, woff22ttf 자바 솔루션으로, woff2에서 ttf 자바로
-url: /java/conversion/woff2-to-TTF/
+url: /java/conversion/woff2-to-ttf/
 family: font
 platformtag: java
 feature: conversion
+informat: WOFF
+outformat: TTF
+faq: faqchild
 otherformats: WOFF
 ---
 

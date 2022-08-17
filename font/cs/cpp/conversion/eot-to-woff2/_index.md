@@ -8,6 +8,8 @@ url: /cpp/conversion/eot-to-woff2/
 family: font
 platformtag: cpp
 feature: conversion
+informat: EOT
+outformat: WOFF
 otherformats: WOFF TTF
 ---
 

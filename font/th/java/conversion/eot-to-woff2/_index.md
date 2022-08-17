@@ -10,6 +10,7 @@ platformtag: java
 feature: conversion
 informat: EOT
 outformat: WOFF2
+faq: faqchild
 otherformats: TTF WOFF
 ---
 

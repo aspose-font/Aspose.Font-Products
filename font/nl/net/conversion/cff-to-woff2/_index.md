@@ -8,6 +8,9 @@ url: /net/conversion/cff-to-woff2/
 family: font
 platformtag: net
 feature: conversion
+informat: CFF
+outformat: WOFF2
+faq: faqchild
 otherformats: TTF WOFF
 ---
 

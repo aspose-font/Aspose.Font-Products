@@ -4,10 +4,13 @@ template: /_templates/conversion-child-java.md
 title: WOFF2 ke TTF Converter API | Jawa
 description: Konversi WOFF2 ke TTF menggunakan Java API di Windows dan Linux. Integrasikan fungsi konversi font WOFF2 ke TTF asli ini ke dalam solusi Anda sendiri.
 keywords: woff2 ke ttf java api, solusi java woff22ttf, woff2 ke ttf java
-url: /java/conversion/woff2-to-TTF/
+url: /java/conversion/woff2-to-ttf/
 family: font
 platformtag: java
 feature: conversion
+informat: WOFF
+outformat: TTF
+faq: faqchild
 otherformats: WOFF
 ---
 

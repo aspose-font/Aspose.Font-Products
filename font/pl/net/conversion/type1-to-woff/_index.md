@@ -8,6 +8,9 @@ url: /net/conversion/type1-to-woff/
 family: font
 platformtag: net
 feature: conversion
+informat: TYPE1
+outformat: WOFF
+faq: faqchild
 otherformats: TTF WOFF2
 ---
 

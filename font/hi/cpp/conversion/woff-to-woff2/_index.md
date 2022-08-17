@@ -8,6 +8,8 @@ url: /cpp/conversion/woff-to-woff2/
 family: font
 platformtag: cpp
 feature: conversion
+informat: WOFF
+outformat: WOFF2
 otherformats: WOFF
 ---
 

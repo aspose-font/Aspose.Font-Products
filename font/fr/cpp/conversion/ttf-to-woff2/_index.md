@@ -8,6 +8,9 @@ url: /cpp/conversion/ttf-to-woff2/
 family: font    
 platformtag: cpp
 feature: conversion
+informat: TTF
+outformat: WOFF2
+faq: faqchild
 otherformats: TTF WOFF
 ---
 

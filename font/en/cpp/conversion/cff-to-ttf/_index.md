@@ -7,8 +7,11 @@ metakeywords: c++ CFF to TTF, CFF to TTF solutions c++, CFF to TTF font converte
 url: /cpp/conversion/cff-to-ttf/
 family: font
 platformtag: cpp
+informat: CFF
+outformat: TTF
 feature: conversion
 otherformats: WOFF WOFF2
+faq: faqchild
 ---
 
 {{<section banner>}}

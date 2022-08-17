@@ -8,6 +8,8 @@ platformtag: cpp
 feature: conversion
 ---
 
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
+
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}" >}}
 
@@ -54,6 +56,23 @@ feature: conversion
     font-&gt;SaveToFormat(outStream, FontSavingFormats::{{output upper}});
 {{< /app/font/converter >}}
 {{< /blocks/products/pf/agp/feature-section>}}
+
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter.A3">}}
+
 {{< /blocks/products/pf/main-wrap-class>}}
 
 {{< blocks/products/pf/feature-page-options pairs="cff-to-ttf cff-to-woff cff-to-woff2 eot-to-ttf eot-to-woff eot-to-woff2 ttf-to-woff type1-to-ttf type1-to-woff type1-to-woff2 woff2-to-ttf woff2-to-woff woff-to-ttf woff-to-woff2" >}}

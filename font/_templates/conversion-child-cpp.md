@@ -11,7 +11,7 @@ outformat: {{i18n.outformat}}
 otherformats: {{i18n.otherformats}}
 ---
 
-{{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faqchild">}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
