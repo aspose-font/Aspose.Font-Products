@@ -60,6 +60,8 @@ otherformats: {{i18n.otherformats}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+{{% blocks/products/pf/agp/content %}}
+
 <h2>{{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.h2">}}</h2>
 
 <b>1. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q1">}}</b>
@@ -73,6 +75,20 @@ otherformats: {{i18n.otherformats}}
 <b>3. {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.Q3">}}</b>
 
 {{<import path="/{{lang}}/partials/_faqs.md" section="faq-converter-child.A3">}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{< blocks/products/pf/agp/about-file-section >}}     
+{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" section="{{i18n.informat}}" >}}
+{{<import path="/{{lang}}/partials/_formats.md" section="{{i18n.informat}}">}}
+{{< /blocks/products/pf/agp/about-file-text >}}
+
+{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.outformat}}" section="{{i18n.outformat}}" >}}
+{{<import path="/{{lang}}/partials/_formats.md" section="{{i18n.outformat}}">}}
+{{< /blocks/products/pf/agp/about-file-text >}} 
+{{< /blocks/products/pf/agp/about-file-section >}}	
+
+{{< blocks/products/pf/feature-page-options pairs="cff-to-ttf cff-to-woff cff-to-woff2 eot-to-ttf eot-to-woff eot-to-woff2 ttf-to-woff type1-to-ttf type1-to-woff type1-to-woff2 woff2-to-ttf woff2-to-woff woff-to-ttf woff-to-woff2" >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}
