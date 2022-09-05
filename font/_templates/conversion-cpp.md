@@ -10,10 +10,12 @@ feature: conversion
 
 {{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
-
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/agp/upper-banner-autogen h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}">}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Font/" nugetPackageName="Aspose.Font" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -25,7 +27,7 @@ feature: conversion
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{< blocks/products/pf/main-container >}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="{{i18n.feature1.title}}" %}}
 
