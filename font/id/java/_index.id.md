@@ -11,7 +11,7 @@ metakeywords: font java, font pengkodean java, perpustakaan font java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
