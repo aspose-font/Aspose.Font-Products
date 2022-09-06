@@ -91,6 +91,7 @@ otherformats: {{i18n.otherformats}}
 {{< /blocks/products/pf/agp/about-file-text >}} 
 {{< /blocks/products/pf/agp/about-file-section >}}	
 
+{{< blocks/products/pf/agp/other-supported-autogen >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learningresources.tabTitle">}}" tabId="resources" >}}

@@ -12,7 +12,7 @@ metakeywords: font c++, soluzioni di font c++, soluzioni di font cpp
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-cpp.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/cpp/" installationsDocsLink="https://docs.aspose.com/font/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Font.Cpp/" nugetPackageName="Aspose.Font.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/font/cpp/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
