@@ -1,7 +1,7 @@
 ---
-title: Font Encoding and Management API for Java - Aspose 
+title: Font Encoding and Management API for Java - Aspose
 weight: 40
-url: /java/ 
+url: /java/
 description: Java Font API solution. This library allows you to load, render and save fonts of popular formats like TTF, WOFF, EOT, and others within Java applications.
 metakeywords: font java, java coding fonts, java fonts library
 ---
@@ -184,7 +184,7 @@ Working with fonts is an important part of interface development, design, or typ
       <strong>
       Embedded OpenType	:
       </strong>
-      EOT 
+      EOT
     </li>
     <li>
       <strong>
@@ -202,7 +202,7 @@ Working with fonts is an important part of interface development, design, or typ
       <strong>
       True Type Collections :
       </strong>
-      TTC 
+      TTC
     </li>
    </ul>
   </div>
@@ -317,7 +317,7 @@ Working with fonts is an important part of interface development, design, or typ
      <h3>
       Load, Extract and Save TTF - Java
      </h3>
-     
+
 {{< gist "aspose-com-gists" "ebb02adc8b248350bec052a453dc3b42" "load-extract-and-save-ttf-font.java" >}}
 
     </div>
@@ -351,21 +351,21 @@ Working with fonts is an important part of interface development, design, or typ
           <li><a href="/font/java/conversion/eot-to-woff/"> EOT to WOFF</a></li>
           <li><a href="/font/java/conversion/eot-to-woff2/"> EOT to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
       <div class="col-md-4">
         <ul>
           <li><a href="/font/java/conversion/cff-to-ttf/"> CFF to TTF</a></li>
           <li><a href="/font/java/conversion/cff-to-woff/"> CFF to WOFF</a></li>
           <li><a href="/font/java/conversion/cff-to-woff2/"> CFF to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
       <div class="col-md-4">
         <ul>
           <li><a href="/font/java/conversion/eot-to-ttf/"> Type1 to TTF</a></li>
           <li><a href="/font/java/conversion/eot-to-woff/"> Type1 to WOFF</a></li>
           <li><a href="/font/java/conversion/eot-to-woff2/"> Type1 to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
     </div>
 
    </div>
@@ -382,7 +382,7 @@ Working with fonts is an important part of interface development, design, or typ
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/java" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

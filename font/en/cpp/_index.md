@@ -1,13 +1,13 @@
 ---
 title: C++ Font Integration and Processing API
 weight: 50
-url: /cpp/ 
+url: /cpp/
 description: C++ Font processing library and web apps. Explore this API solution for loading, drawing, converting, and saving different fonts within C++ applications.
 metakeywords: c++ font, font solutions c++, font solutions cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save different Fonts such as TrueType, WOFF, EOT, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/font/cpp/" tryOnlineUrl="https://products.aspose.app/font/family" 
+{{< blocks/products/pf/upper-banner h1="C++ Font Manipulation Library" h2="Load, Draw and Save different Fonts such as TrueType, WOFF, EOT, OpenType, CFF,  and Type1 within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/font/headers/aspose_font-for-cpp.svg" pfName="Aspose.Font" subTitlepfName="for C++" downloadUrl="https://releases.aspose.com/font/cpp/" tryOnlineUrl="https://products.aspose.app/font/family"
  >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for C++" >}}
@@ -190,7 +190,7 @@ Working with fonts is an important part of interface development, design, or typ
       <strong>
       Embedded OpenType	:
       </strong>
-      EOT 
+      EOT
     </li>
     <li>
       <strong>
@@ -208,7 +208,7 @@ Working with fonts is an important part of interface development, design, or typ
       <strong>
       True Type Collections :
       </strong>
-      TTC 
+      TTC
     </li>
    </ul>
   </div>
@@ -333,10 +333,10 @@ Working with fonts is an important part of interface development, design, or typ
     SharedPtr&lt;FontFileDefinition&gt; fontFileDefinition = MakeObject&lt;FileSystemStreamSource&gt;(u"Montserrat-Regular.ttf");
     SharedPtr&lt;FontDefinition&gt; fontDefinition = MakeObject&lt;FontDefinition&gt;(FontType::TTF, fontFileDefinition);
     SharedPtr&lt;Font&gt; font = Font::Open(fontDefinition);
-    
+
     // Woff output settings
     SharedPtr<IO::FileStream> outStream = IO::File::Create(u"Montserrat-Regular-new.woff");
-    
+
     // Convert ttf to woff
     font-&gt;SaveToFormat(outStream, FontSavingFormats::WOFF);
 	</code></pre>
@@ -372,21 +372,21 @@ Working with fonts is an important part of interface development, design, or typ
 			<li><a href="/font/cpp/conversion/eot-to-woff/"> EOT to WOFF</a></li>
 			<li><a href="/font/cpp/conversion/eot-to-woff2/"> EOT to WOFF2</a></li>
 		</ul>
-	</div>	
+	</div>
 	<div class="col-md-4">
 		<ul>
 			<li><a href="/font/cpp/conversion/cff-to-ttf/"> CFF to TTF</a></li>
 			<li><a href="/font/cpp/conversion/cff-to-woff/"> CFF to WOFF</a></li>
 			<li><a href="/font/cpp/conversion/cff-to-woff2/"> CFF to WOFF2</a></li>
 		</ul>
-	</div>	
+	</div>
 	<div class="col-md-4">
 		<ul>
 			<li><a href="/font/cpp/conversion/eot-to-ttf/"> Type1 to TTF</a></li>
 			<li><a href="/font/cpp/conversion/eot-to-woff/"> Type1 to WOFF</a></li>
 			<li><a href="/font/cpp/conversion/eot-to-woff2/"> Type1 to WOFF2</a></li>
 		</ul>
-	</div>	
+	</div>
 </div>
 
   </div>
@@ -402,7 +402,7 @@ Working with fonts is an important part of interface development, design, or typ
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/cpp" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-C" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/cpp" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

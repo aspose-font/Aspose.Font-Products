@@ -1,7 +1,7 @@
 ---
-title: Font encoding and management C# .NET API - Aspose 
+title: Font encoding and management C# .NET API - Aspose
 weight: 20
-url: /net/ 
+url: /net/
 description: C# ASP.NET VB.NET Font library to load, render, convert and save the most popular fonts without other software dependencies.
 metakeywords: font .net, net font library, net font solution
 ---
@@ -18,7 +18,7 @@ metakeywords: font .net, net font library, net font solution
 Font is the set of graphical representations of symbols. The way a font looks depends on the font’s parameters such as type family, typeface, font proportions, etc.
 Working with fonts is an important part of interface development, design, or typography. How will your interface look depends on the font you chose, but also there is a lot of factors you need to take to stop on the right font. Not only users do pay attention to the readability of the texts but also search engines take them into account when forming search results
 </p>
-<p> 
+<p>
 Aspose.Font for .NET is a flexible and easy-to-use library to work with different font files. This API supports multiple font formats like TrueType, CFF, OpenType, EOT, WOFF, WOFF2, and Type1. It allows you to load fonts and provides their data structures information along with any glyph, encoding information for all the font types. End-users can get help through its rendering subsystem to render any desired glyph or text.
 </p>
 {{< /blocks/products/pf/tab-content >}}
@@ -184,7 +184,7 @@ Aspose.Font for .NET is a flexible and easy-to-use library to work with differen
       <strong>
       Embedded OpenType	:
       </strong>
-      EOT 
+      EOT
     </li>
     <li>
       <strong>
@@ -202,7 +202,7 @@ Aspose.Font for .NET is a flexible and easy-to-use library to work with differen
       <strong>
       True Type Collections :
       </strong>
-      TTC 
+      TTC
     </li>
    </ul>
   </div>
@@ -347,21 +347,21 @@ Aspose.Font for .NET is a flexible and easy-to-use library to work with differen
           <li><a href="/font/net/conversion/eot-to-woff/"> EOT to WOFF</a></li>
           <li><a href="/font/net/conversion/eot-to-woff2/"> EOT to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
       <div class="col-md-4">
         <ul>
           <li><a href="/font/net/conversion/cff-to-ttf/"> CFF to TTF</a></li>
           <li><a href="/font/net/conversion/cff-to-woff/"> CFF to WOFF</a></li>
           <li><a href="/font/net/conversion/cff-to-woff2/"> CFF to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
       <div class="col-md-4">
         <ul>
           <li><a href="/font/net/conversion/eot-to-ttf/"> Type1 to TTF</a></li>
           <li><a href="/font/net/conversion/eot-to-woff/"> Type1 to WOFF</a></li>
           <li><a href="/font/net/conversion/eot-to-woff2/"> Type1 to WOFF2</a></li>
         </ul>
-      </div>	
+      </div>
     </div>
 
    </div>
@@ -378,7 +378,7 @@ Aspose.Font for .NET is a flexible and easy-to-use library to work with differen
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/net" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/net/" >}}
-{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/font/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
