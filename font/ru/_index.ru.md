@@ -49,7 +49,7 @@ C++ On Premise API для кодирования нескольких форма
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Что говорят люди" subTitle="Не верьте нам на слово. Посмотрите, что пользователи говорят об Aspose." caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

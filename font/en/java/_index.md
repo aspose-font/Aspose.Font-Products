@@ -11,7 +11,7 @@ metakeywords: font java, java coding fonts, java fonts library
 
 {{< blocks/products/pf/main-container pfName="Aspose.Font" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font" directDownloadLink="https://releases.aspose.com/font/java/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/font/aspose_font-for-java.svg" liveDemosLink="https://products.aspose.app/font/applications" PricingLink="https://purchase.aspose.com/pricing/font/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/font/java/" installationsDocsLink="https://docs.aspose.com/font/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/font/" directDownloadLink="https://releases.aspose.com/font/java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -382,6 +382,7 @@ Working with fonts is an important part of interface development, design, or typ
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/font/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-font/Aspose.Font-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/font/java" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

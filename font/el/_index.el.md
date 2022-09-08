@@ -49,7 +49,7 @@ C++ On Premise API για κωδικοποίηση και χειρισμό πο�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι έχουν να πουν οι χρήστες για το Aspose." caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

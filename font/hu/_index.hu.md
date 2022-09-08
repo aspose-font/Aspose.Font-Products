@@ -49,7 +49,7 @@ Egyesítsen több TTF-et, WOFF-ot, WOFF2-t, Type1-et, EOT-t, CFF-t egyetlen font
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Nézze meg, mit mondanak a felhasználók az Aspose-ról." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Nézze meg, mit mondanak a felhasználók az Aspose-ról." caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

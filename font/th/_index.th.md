@@ -49,7 +49,7 @@ C++ บน Premise API เพื่อเข้ารหัสและจัด
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose อย่างไร" caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

@@ -40,7 +40,7 @@ item4: Konvertieren Sie EOT in TTF mit [*SaveToFormat()*](https://reference.aspo
 ---
 title: Konvertierungsanforderungen
 item1: "Um mit der EOT-zu-TTF-Konvertierung fortzufahren, ist die Java Font API die Hauptvoraussetzung."
-item2: "Rufen Sie die Font-API direkt von einem [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) für Java-basiertes Projekt ab und binden Sie Bibliotheken ein Ihre pom.xml."
+item2: "Rufen Sie die Font-API direkt von einem [Aspose Maven Repository](https://repository.aspose.com/font/) für Java-basiertes Projekt ab und binden Sie Bibliotheken ein Ihre pom.xml."
 item3: "Alternativ können Sie eine ZIP-Datei von [downloads](https://releases.aspose.com/font/java/) herunterladen."
 item4: Siehe das Beispiel der Realisierung der genannten Funktionalität im plattformübergreifenden Aspose [EOT to TTF Converter](https://products.aspose.app/font/conversion/eot-to-ttf). Besuchen Sie unser [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples)-Repository, um weitere Codebeispiele zur Arbeit mit Font API Solution for Java zu erhalten.
 ---

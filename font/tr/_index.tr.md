@@ -49,7 +49,7 @@ Birkaç TTF, WOFF, WOFF2, Type1, EOT, CFF'yi tek bir yazı tipi dosyasında birl
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose hakkında söylediklerini görün." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="İnsanlar ne diyor" subTitle="Sadece bizim sözümüze güvenmeyin. Kullanıcıların Aspose hakkında söylediklerini görün." caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

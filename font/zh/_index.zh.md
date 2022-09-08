@@ -49,7 +49,7 @@ C++ On Premise API 用于编码和操作多种字体格式，包括 TrueType、C
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。看看用户对 Aspose 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。看看用户对 Aspose 的评价。" caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

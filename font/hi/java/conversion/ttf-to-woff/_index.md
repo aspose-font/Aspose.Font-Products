@@ -41,7 +41,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.fon
 ---
 title: रूपांतरण आवश्यकताएँ
 item1: "TTF से WOFF रूपांतरण के लिए आगे बढ़ने के लिए, Java Font API मुख्य आवश्यकता है।"
-item2: "जावा आधारित प्रोजेक्ट के लिए [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) से सीधे Font API प्राप्त करें और इसमें लाइब्रेरी शामिल करें आपका पोम.एक्सएमएल."
+item2: "जावा आधारित प्रोजेक्ट के लिए [Aspose Maven Repository](https://repository.aspose.com/font/) से सीधे Font API प्राप्त करें और इसमें लाइब्रेरी शामिल करें आपका पोम.एक्सएमएल."
 item3: "वैकल्पिक रूप से, आप [डाउनलोड](https://releases.aspose.com/font/java/) से एक ज़िप फ़ाइल प्राप्त कर सकते हैं।"
 item4: क्रॉस-प्लेटफ़ॉर्म Aspose [TTF to WOFF Converter](https://products.aspose.app/font/conversion/ttf-to-woff) में उल्लिखित कार्यक्षमता की प्राप्ति का उदाहरण देखें। Java के लिए Font API सॉल्यूशन के साथ काम करने के तरीके के बारे में अधिक कोड उदाहरण प्राप्त करने के लिए हमारे [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) रिपॉजिटरी पर जाएं।
 ---

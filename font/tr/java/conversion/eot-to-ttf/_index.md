@@ -40,7 +40,7 @@ item4: "[*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.fon
 ---
 title: Dönüşüm Gereksinimleri
 item1: "EOT'tan TTF'ye dönüştürmeye devam etmek için Java Yazı Tipi API'si ana gereksinimdir."
-item2: "Java tabanlı proje için doğrudan bir [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font)'den Font API'sini alın ve kitaplıkları pom.xml'niz."
+item2: "Java tabanlı proje için doğrudan bir [Aspose Maven Repository](https://repository.aspose.com/font/)'den Font API'sini alın ve kitaplıkları pom.xml'niz."
 item3: "Alternatif olarak, [indirilenler](https://releases.aspose.com/font/java/) adresinden bir ZIP dosyası alabilirsiniz."
 item4: Bahsedilen işlevselliğin platformlar arası Aspose [EOT to TTF Converter](https://products.aspose.app/font/conversion/eot-to-ttf) uygulamasında gerçekleştirilme örneğine bakın. Java için Font API Çözümü ile nasıl çalışılacağına ilişkin daha fazla kod örneği almak için [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) depomuza gidin.
 ---

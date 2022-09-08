@@ -40,7 +40,7 @@ item4: 使用  [*SaveToFormat()*](https://reference.aspose.com/font/java/com.asp
 ---
 title: 转换要求
 item1: "要进行 TYPE1 到 WOFF2 的转换，Java Font API 是主要要求。"
-item2: "直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) 获取基于 Java 的项目的字体 API，并将库包含在你的 pom.xml。"
+item2: "直接从 [Aspose Maven Repository](https://repository.aspose.com/font/) 获取基于 Java 的项目的字体 API，并将库包含在你的 pom.xml。"
 item3: "或者，您可以从 [下载](https://releases.aspose.com/font/java/) 获取 ZIP 文件。"
 item4: 参见跨平台 Aspose [TYPE1 to WOFF2 Converter](https://products.aspose.app/font/conversion/type1-to-woff2)中上述功能的实现示例。转到我们的 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) 存储库，以获取有关如何使用 Java 字体 API 解决方案的更多代码示例。
 ---

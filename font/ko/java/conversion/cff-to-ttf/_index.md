@@ -40,7 +40,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.fon
 ---
 title: 변환 요구 사항
 item1: "CFF에서 TTF로 변환을 진행하려면 Java Font API가 주요 요구 사항입니다."
-item2: "Java 기반 프로젝트용 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font)에서 직접 글꼴 API를 가져오고 라이브러리를 포함합니다. 당신의 pom.xml."
+item2: "Java 기반 프로젝트용 [Aspose Maven Repository](https://repository.aspose.com/font/)에서 직접 글꼴 API를 가져오고 라이브러리를 포함합니다. 당신의 pom.xml."
 item3: "또는 [다운로드](https://releases.aspose.com/font/java/)에서 ZIP 파일을 받을 수 있습니다."
 item4: 크로스 플랫폼 Aspose [CFF to TTF Converter](https://products.aspose.app/font/conversion/cff-to-ttf)에서 언급된 기능의 구현 예를 참조하십시오. [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) 저장소로 이동하여 Java용 글꼴 API 솔루션을 사용하는 방법에 대한 더 많은 코드 예제를 얻으십시오.
 ---

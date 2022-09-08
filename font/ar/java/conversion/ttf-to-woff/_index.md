@@ -41,7 +41,7 @@ item4: تحويل TTF إلى WOFF باستخدام [*SaveToFormat()*](https://re
 ---
 title: متطلبات التحويل
 item1: "للمتابعة لتحويل TTF إلى WOFF ، فإن Java Font API هي المطلب الرئيسي."
-item2: "احصل على Font API مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) لمشروع يستند إلى Java وتضمين مكتبات في ملفك pom.xml."
+item2: "احصل على Font API مباشرةً من [Aspose Maven Repository](https://repository.aspose.com/font/) لمشروع يستند إلى Java وتضمين مكتبات في ملفك pom.xml."
 item3: "بدلاً من ذلك ، يمكنك الحصول على ملف ZIP من [التنزيلات](https://releases.aspose.com/font/java/)."
 item4: انظر مثال تحقيق الوظيفة المذكورة في Aspose عبر الأنظمة الأساسية [TTF to WOFF Converter](https://products.aspose.app/font/conversion/ttf-to-woff). انتقل إلى مستودع [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) للحصول على المزيد من أمثلة التعليمات البرمجية حول كيفية العمل مع Font API Solution لجافا.
 ---

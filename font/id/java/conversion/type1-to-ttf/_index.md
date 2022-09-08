@@ -40,7 +40,7 @@ item4: Konversi TYPE1 ke TTF menggunakan [*SaveToFormat()*](https://reference.as
 ---
 title: Persyaratan Konversi
 item1: "Untuk melanjutkan konversi TYPE1 ke TTF, Java Font API adalah persyaratan utama."
-item2: "Dapatkan API Font langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) untuk proyek berbasis Java dan sertakan perpustakaan di pom.xml Anda."
+item2: "Dapatkan API Font langsung dari [Aspose Maven Repository](https://repository.aspose.com/font/) untuk proyek berbasis Java dan sertakan perpustakaan di pom.xml Anda."
 item3: "Atau, Anda bisa mendapatkan file ZIP dari [downloads](https://releases.aspose.com/font/java/)."
 item4: Lihat contoh realisasi fungsi yang disebutkan di lintas platform Aspose [TYPE1 to TTF Converter](https://products.aspose.app/font/conversion/type1-to-ttf). Buka repositori [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) kami untuk mendapatkan lebih banyak contoh kode tentang cara bekerja dengan Solusi Font API untuk Java.
 ---

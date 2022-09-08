@@ -49,7 +49,7 @@ TTF、WOFF、WOFF2、Type1、EOT、CFFフォントをより適切な形式に変
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Asposeについてユーザーが何を言わなければならないかを見てください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Asposeについてユーザーが何を言わなければならないかを見てください。" caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

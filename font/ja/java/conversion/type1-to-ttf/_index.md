@@ -40,7 +40,7 @@ item4: '[*SaveToFormat()*](https://reference.aspose.com/font/java/com.aspose.fon
 ---
 title: 変換要件
 item1: "TYPE1 から TTF への変換を進めるには、Java Font API が主な要件です。"
-item2: "Java ベースのプロジェクトの [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) から Font API を直接取得し、ライブラリをあなたのpom.xml。"
+item2: "Java ベースのプロジェクトの [Aspose Maven Repository](https://repository.aspose.com/font/) から Font API を直接取得し、ライブラリをあなたのpom.xml。"
 item3: "または、[ダウンロード](https://releases.aspose.com/font/java/) から ZIP ファイルを取得することもできます。"
 item4: クロスプラットフォームの Aspose [TYPE1 to TTF Converter](https://products.aspose.app/font/conversion/type1-to-ttf) で前述の機能を実現した例を参照してください。 [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples) リポジトリにアクセスして、Font API Solution for Java の使用方法に関するコード例をさらに入手してください。
 ---

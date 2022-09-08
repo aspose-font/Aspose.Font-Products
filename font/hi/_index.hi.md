@@ -49,7 +49,7 @@ TTF, WOFF, WOFF2, Type1, EOT, CFF फॉण्ट को अधिक उपय�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose के बारे में क्या कहना है।" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="लोग क्या कह रहे हैं" subTitle="इसके लिए सिर्फ हमारी बात न लें। देखें कि उपयोगकर्ताओं का Aspose के बारे में क्या कहना है।" caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

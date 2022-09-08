@@ -40,7 +40,7 @@ item4: Konwertuj WOFF2 na TTF za pomocą [*SaveToFormat()*](https://reference.as
 ---
 title: Wymagania dotyczące konwersji
 item1: "Aby przejść do konwersji WOFF2 na TTF, głównym wymaganiem jest Java Font API."
-item2: "Pobierz Font API bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-font) dla projektu opartego na Javie i dołącz biblioteki do Twój plik pom.xml."
+item2: "Pobierz Font API bezpośrednio z [Aspose Maven Repository](https://repository.aspose.com/font/) dla projektu opartego na Javie i dołącz biblioteki do Twój plik pom.xml."
 item3: "Alternatywnie możesz pobrać plik ZIP ze strony [downloads](https://releases.aspose.com/font/java/)."
 item4: Zobacz przykład realizacji wspomnianej funkcjonalności w wieloplatformowym Aspose [WOFF2 to TTF Converter](https://products.aspose.app/font/conversion/woff2-to-ttf). Przejdź do naszego repozytorium [GitHub](https://github.com/aspose-font/Aspose.Font-Documentation/tree/master/java-examples), aby uzyskać więcej przykładów kodu dotyczących pracy z rozwiązaniem Font API dla języka Java.
 ---

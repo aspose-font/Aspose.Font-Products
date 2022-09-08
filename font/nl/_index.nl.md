@@ -49,7 +49,7 @@ Voeg verschillende TTF, WOFF, WOFF2, Type1, EOT, CFF samen in één lettertypebe
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose." caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
